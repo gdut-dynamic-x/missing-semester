@@ -12,11 +12,13 @@
  git reset HEAD [file]
  git checkout -- [file]
 ```
+![图片1](./photo/1/1.1.png)
 
 ```
 git restore --staged [file]
 git checkout -- [file]
 ```
+![图片2](./photo/1/1.2.png)
 ### 二：
 - 第一种
 ``` 
@@ -24,6 +26,7 @@ git reflog
 git reset --hard  [从log中获取的id]
 
 ```
+![图片3](./photo/1/2.1.png)
 
 - 第二种
 ```
@@ -37,6 +40,7 @@ git tag [tage name][id]
 git reset [tage name]
 git checkout -- [file]
 ```
+![图片4](./photo/1/2.2.png)
 
 ### 三：
 - 第一种
