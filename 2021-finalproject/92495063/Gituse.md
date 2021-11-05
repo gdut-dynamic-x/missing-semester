@@ -60,6 +60,11 @@ git checkout mywork
 git rebase origin 
 ```
 
+_以下为图像比对示例_  
+
+![图片5](./photo/1/3.1.jpg)
+
+![图片6](./photo/1/3.2.jpg)
 
 
 
