@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # test the enviroment valiable
+export ROS_MASTER_URI=http://192.168.0.100:11311
 export | grep ROS_MASTER_URI
 a=$?
 if [ $a != "0" ]; then 
@@ -29,8 +30,11 @@ else
 fi
 
 # judge if the local ip is in the same subnet with target ip
-echo "local ip configuration:"
-ifconfig | awk '/netmask/{print $0}'  | awk 'NR==1'
-echo "target ip is:"
-echo $ip
-echo "they are't in the same subnet"
+judge1=$(export | grep ROS_MASTER_URI | sed -E "s/.*=//" | sed -E "s/\"//" | sed -E "s/\"//" | sed -E "s/http:\/\///" | sed -E "s/:.*//" | awk -F '.' '{print $1,$2,$3}'
+)
+judge2=$(ifconfig | awk '/netmask/{print $0}' | awk 'NR==1'  | sed -E 's/netmask.*//' | awk '{print $2}' | awk -F '.' '{print $1,$2,$3}')
+if [ "$judge1" != "$judge2" ];then
+	echo "they are't in the same subnet"
+else 
+	echo "they are in the same subnet"
+fi
