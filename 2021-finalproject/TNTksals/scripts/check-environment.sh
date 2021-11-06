@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# test the enviroment valiable
 export ROS_MASTER_URI=http://192.168.0.100:11311
 environment_variable ()
 {
@@ -16,6 +17,7 @@ environment_variable ()
 
 environment_variable 
 
+#check the http address is available or not
 address_validation ()
 {
 	echo -n "[Check] address validation...   "
@@ -34,7 +36,7 @@ address_validation ()
 
 address_validation
 
-
+# test the connection of ip
 ping_address ()
 {
 	echo -n "[Check] ping address...         "
@@ -54,6 +56,7 @@ ping_address ()
 
 ping_address
 
+# judge if the local ip is in the same subnet with target ip
 same_subnet ()
 {
 	echo -n "[Check] same subset...     "
