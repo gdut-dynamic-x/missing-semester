@@ -1,4 +1,4 @@
-# The Missing Semester of Your CS Education 
+# The Missing Semester of Your CS Education  
 
 Website for the [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) class!
 
