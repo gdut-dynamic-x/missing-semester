@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# test the enviroment valiable
+# test whether the enviroment is valiable
 export ROS_MASTER_URI=http://192.168.0.100:11311
 environment_variable ()
 {
@@ -17,7 +17,7 @@ environment_variable ()
 
 environment_variable 
 
-#check the http address is available or not
+# check the http address is available or not
 address_validation ()
 {
 	echo -n "[Check] address validation...   "
@@ -36,13 +36,12 @@ address_validation ()
 
 address_validation
 
-# test the connection of ip
+# test the connection of ip included in ROS_MASTER_URI
 ping_address ()
 {
 	echo -n "[Check] ping address...         "
-	ip=$(echo $ROS_MASTER_URI | awk '/((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/')
-	echo ${ip}
-	ping ${ip}
+	ip=$(echo $ROS_MASTER_URI | sed -E "s/http:\/\///" | sed -E "s/:.*//")
+	ping -c 3 -w 5 ${ip} > /dev/null
 	if [[ $? != 0 ]]
 	then
 		echo "Error"
