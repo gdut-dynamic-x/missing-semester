@@ -30,7 +30,6 @@ address_validation ()
 		echo "Done"
 		exit
 	fi
-
 }
 
 address_validation
@@ -49,7 +48,6 @@ ping_address ()
 	else
 		echo "Pass"
 	fi
-
 }
 
 ping_address
