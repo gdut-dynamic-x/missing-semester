@@ -8,6 +8,7 @@ environment_variable ()
 	if test -z "${ROS_MASTER_URI}" 
 	then
 		echo "Error"
+		echo "The environment variable of ROS_MASTER_URI is empty"
 		echo "Done"
 		exit
 	else
@@ -27,6 +28,7 @@ address_validation ()
 		echo "Pass"
 	else
 		echo "Error"
+		echo "This http address is invalid"
 		echo "Done"
 		exit
 	fi
@@ -43,6 +45,7 @@ ping_address ()
 	if [[ $? != 0 ]]
 	then
 		echo "Error"
+		echo "This IP address can't be connected"
 		echo "Done"
 		exit
 	else
@@ -79,6 +82,7 @@ same_subnet ()
 		echo "Pass"
 	else
 		echo "Error"
+		echo "This IP address and local IP address are not in the same subnet"
 		echo "Done"
 		exit
 	fi
