@@ -4,16 +4,20 @@
 echo "[Check] environment variable"
 if [ $ROS_MASTER_URI ]; then
 	echo " ~Pass"
+       	W=1
 else
       	echo " Error"
+	W=0
 fi
 
 #检查地址是否有效
 echo "[Check] address variable"
 if [ "$ROS_MASTER_URI"="http://*:*" ]; then
 	echo " ~Pass"
+	B=1
 else
 	echo " Error"
+	B=0
 fi
 
 #检查连通性
@@ -25,8 +29,11 @@ echo "Checking ip : $IP"
 
 if [ `ping $IP -c 2 | grep 'rtt' | cut -c1-3` ]; then
 	echo " ~Pass"
+	C=1
+       
 else
 	echo " Error"
+	C=0
 fi
 
 #检查环境变量的IP是否与计算机处于同一子网
@@ -51,9 +58,23 @@ B=`echo "$(($b1 & $c1))"`
 
 if [ $A -eq $B ]; then 
 	echo " ~Pass"
+	D=1
 else
 	echo " Different"
+	D=0
 fi
 
 #结束
+if [[ $W -eq 1 && $B -eq 1 && $C -eq 1 && $D -eq 1 ]]; then
 echo "All Check Passed"
+else
+echo "Something wrong:"
+	if [ $W -eq 0 ]; then echo "#environment"
+	fi
+	if [ $B -eq 0 ]; then echo "#address"    
+	fi
+	if [ $C -eq 0 ]; then echo "#ping"
+	fi
+	if [ $D -eq 0 ]; then echo "#subnet"
+	fi
+fi
