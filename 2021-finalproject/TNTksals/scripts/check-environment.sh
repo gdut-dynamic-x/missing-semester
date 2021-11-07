@@ -41,7 +41,7 @@ ping_address ()
 {
 	echo -n "[Check] ping address...         "
 	ip=$(echo $ROS_MASTER_URI | sed -E "s/http:\/\///" | sed -E "s/:.*//")
-	ping -c 3 -w 5 ${ip} > /dev/null
+	#ping -c 3 -w 5 ${ip} > /dev/null
 	if [[ $? != 0 ]]
 	then
 		echo "Error"
@@ -59,11 +59,20 @@ ping_address
 same_subnet ()
 {
 	echo -n "[Check] same subset...     "
-	path=$(echo $ROS_MASTER_URI | awk '/((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(\.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}/ {print}')
-	echo ${path}
+	mask=$(ifconfig | grep "netmask" | grep "broadcast" | sed -E s/.*netmask// | awk '{print $1}' | tail -1)
+	ip=$(echo $ROS_MASTER_URI | sed -E "s/http:\/\///" | sed -E "s/:.*//")
 	localip=$(ip a | grep inet | grep -v inet6 | awk -F 'inet ' '{print $2}' | awk -F '/' '{print $1}' | tail -1)
-	iplist=`echo $localip | awk -F "." '{print $1,$2,$3,$4}'`
-	
+	ipn=$(aton $ip)
+	maskn=$(aton $mask)
+	localn=$(aton $localip)
+	if [[ $(($ipn & $maskn)) -ne $(($localip & $masken)) ]]
+	then
+		ehco "Pass"
+	else
+		echo "Error"
+		echo "Done"
+		exit
+	fi
 }
 
 same_subnet
