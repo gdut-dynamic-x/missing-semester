@@ -48,8 +48,8 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 echo "GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0""
 echo ip=$(ip addr show wlan0 | grep -o 'inet [0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+' | grep -o [0-9].*)>gedit ~/.bashrc
-export ROS_HOSTNAME=$ip
-export ROS_MASTER_URI=http://$ip:11311
+#export ROS_HOSTNAME=$ip
+#export ROS_MASTER_URI=http://$ip:11311
 export ROS_MASTER_URI=http://192.168.1.102:11311
 #only shows what happen after ip was correctly changed
 echo "local ip now :"
