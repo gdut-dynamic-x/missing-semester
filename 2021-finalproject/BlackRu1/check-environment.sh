@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #test the environment for the ipconfig(ifconfig)
-
+environment_finder(){
 export | grep ROS_MASTER_URI
 a=$?
 if [$a != '0' ];then
@@ -9,6 +9,7 @@ if [$a != '0' ];then
 else
 	echo "ok, I found the environment, let's go."
 fi
+}
 #check the environment address is available or not
 url=$(echo $ROS_MASTER_URI |awk -F. '$1<=255&&$2<=255&&$3<=255&&$4<=255{print"yes"}')
 
@@ -37,17 +38,17 @@ echo $ip1
 
 echo "It isn't the same apparently!"
 echo "now I will correct them to the same ip so that my ros system can connect to my PC correctly!"
- 
-#echo "Something maybe be hard because I can't get the hang of the shell. You have to add the code of line40 ""in to the popup by yourself.Sorry for that."
-#echo "tablename="GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"""
-#sudo gedit /etc/default/grub
-#sudo grub-mkconfig -o /boot/grub/grub.cfg
+change(){
+echo "Something maybe be hard because I can't get the hang of the shell. You have to add the code of line40 ""in to the popup by yourself.Sorry for that."
+echo "tablename="GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"""
+sudo gedit /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
 
-#echo "GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0""
-#echo ip=$(ip addr show wlan0 | grep -o 'inet [0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+' | grep -o [0-9].*)>gedit ~/.bashrc
-#export ROS_HOSTNAME=$ip
-#export ROS_MASTER_URI=http://$ip:11311
-
+echo "GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0""
+echo ip=$(ip addr show wlan0 | grep -o 'inet [0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+' | grep -o [0-9].*)>gedit ~/.bashrc
+export ROS_HOSTNAME=$ip
+export ROS_MASTER_URI=http://$ip:11311
+}
 export ROS_MASTER_URI=http://192.168.1.102:11311
 #only shows what happen after ip was correctly changed
 echo "local ip now :"
