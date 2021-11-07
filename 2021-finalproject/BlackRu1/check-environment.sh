@@ -38,18 +38,16 @@ echo $ip1
 echo "It isn't the same apparently!"
 echo "now I will correct them to the same ip so that my ros system can connect to my PC correctly!"
  
- #grep -B10
- #hangline=`grep -B2 -n   'DROP IF EXISTS PARTITION'  a.sql|grep 'FROM'|awk -F ' ' '{print $1}' |sed 's/-//g'`
- #sedcom="${hangline}s/${tablename}/${tablename}_BAKTEMP/"
-echo "Something maybe be hard because I can't get the hang of the shell. You have to add the code of line40 ""in to the popup by yourself.Sorry for that."
-echo "tablename="GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"""
-sudo gedit /etc/default/grub
-sudo grub-mkconfig -o /boot/grub/grub.cfg
+#echo "Something maybe be hard because I can't get the hang of the shell. You have to add the code of line40 ""in to the popup by yourself.Sorry for that."
+#echo "tablename="GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"""
+#sudo gedit /etc/default/grub
+#sudo grub-mkconfig -o /boot/grub/grub.cfg
 
-echo "GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0""
-echo ip=$(ip addr show wlan0 | grep -o 'inet [0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+' | grep -o [0-9].*)>gedit ~/.bashrc
+#echo "GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0""
+#echo ip=$(ip addr show wlan0 | grep -o 'inet [0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+' | grep -o [0-9].*)>gedit ~/.bashrc
 #export ROS_HOSTNAME=$ip
 #export ROS_MASTER_URI=http://$ip:11311
+
 export ROS_MASTER_URI=http://192.168.1.102:11311
 #only shows what happen after ip was correctly changed
 echo "local ip now :"
