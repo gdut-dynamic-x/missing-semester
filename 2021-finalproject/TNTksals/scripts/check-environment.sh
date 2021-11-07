@@ -21,7 +21,6 @@ environment_variable
 address_validation ()
 {
 	echo -n "[Check] address validation...   "
-	#echo $ROS_MASTER_URI | awk '/http:\/\/([\w.]+\/?)\S*/'
 	echo $ROS_MASTER_URI | awk '/http:\/\/((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})(.((2(5[0-5]|[0-4]\d))|[0-1]?\d{1,2})){3}:((6[0-4]\d{3}|65[0-4]\d{2}|655[0-2]\d|6553[0-5])|[0-5]?\d{0,4})/'
 	if [[ $? = 0 ]]
 	then
@@ -41,7 +40,7 @@ ping_address ()
 {
 	echo -n "[Check] ping address...         "
 	ip=$(echo $ROS_MASTER_URI | sed -E "s/http:\/\///" | sed -E "s/:.*//")
-	#ping -c 3 -w 5 ${ip} > /dev/null
+	ping -c 3 -w 5 ${ip} > /dev/null
 	if [[ $? != 0 ]]
 	then
 		echo "Error"
