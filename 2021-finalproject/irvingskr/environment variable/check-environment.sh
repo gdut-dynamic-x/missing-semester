@@ -20,7 +20,8 @@ if ping -q -w 5 $(echo $ROS_MASTER_URI | sed -E 's/http:\/\/(.*):.*/\1/');then
 else
 	echo "Failed"
 fi
-#判断环境变量ip是否与本级ip处于同一子网
+#判断环境变量ip是否与本级ip处于同一子网,提取本机ip与子网掩码并分段进行and运算，提取环境变量ip与子网掩码分段and运算，最后比较本机ip与环境变量ip and运算后#的
+#结果若全部相等则是同一子网（不用再转回二进制比较）
 echo -n "[Check] same subnet...         "
 a1=$(ifconfig wlp4s0 |sed -n 2p |awk -F ' ' '{print$2}'| sed -E 's/(.*)\..*\..*\..*/\1/')
 b1=$(ifconfig wlp4s0 |sed -n 2p |awk -F ' ' '{print$4}'| sed -E 's/(.*)\..*\..*\..*/\1/')
