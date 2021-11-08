@@ -9,5 +9,8 @@
 1.使用git merge
 2.使用git rebase
 
-  
+![avatar](1.png)
+![avatar](2.png)
+![avatar](3.png)
+![avatar](4.png)
   
