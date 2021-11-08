@@ -78,3 +78,5 @@ echo "Something wrong:"
 	if [ $D -eq 0 ]; then echo "#subnet"
 	fi
 fi
+
+#test
