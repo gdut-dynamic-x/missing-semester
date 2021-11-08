@@ -1,3 +1,4 @@
+#!/bin/bash
 #判断环境变量是否存在
 echo -n "[Check] environment varible... "
 if [ $ROS_MASTER_URI ];then
