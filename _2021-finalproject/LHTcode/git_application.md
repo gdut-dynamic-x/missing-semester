@@ -24,3 +24,14 @@
 	- 接着用同样的命令检查下面几个目录和文件，直至找到上一个`commit`的ID为止
 	- `git reset --hard original_commit_path_name+_file_name`
 	- `git log` 检查发现最新的commit消失
+
+3. 我们已经知道了合并分支可以使用 merge，但这不是唯一的方法，给出至少两种不同的合并分支的方式
+	**答案**：
+	
+	1. git rebase [branch name]
+
+![image-20211109201934806](https://typoranote-lht.oss-cn-guangzhou.aliyuncs.com/image/image-20211109201934806.png)
+
+	2. git cherry-pick [branch name]
+
+![image-20211109202139296](https://typoranote-lht.oss-cn-guangzhou.aliyuncs.com/image/image-20211109202139296.png)
