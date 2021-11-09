@@ -2,8 +2,10 @@
 #check environment variable
 if [ $ROS_MASTER_URI ];then
 	echo "[Check] environment variable... Pass"
+        A=0
 else
 	echo "[Check] environment variable... Failed"
+        A=1
 fi
 
 #check address validation " http://[[1-255].[0-255].[0-255].[1-255]]:[PORT] "
@@ -14,9 +16,11 @@ if (export | grep ROS_MASTER_URI | sed -E "s/.*=//" | sed -E "s/\"//" | sed -E "
         judge=$(echo $HTTP | awk '/^http:\/\/.:*[0-9]+/{print $0}')
         if [[ $judge ]];then
 		 echo "[Check] address validation...   Pass"
+                 B=0
         fi
 else
 	echo "[Check] address validation...   Failed"
+        B=1
 fi
 
 #check pinging address which is valid or not
@@ -24,8 +28,10 @@ IP=$(export | grep ROS_MASTER_URI | sed -E "s/.*=//" | sed -E "s/\"//" | sed -E 
 ping -c 1 $IP
 if [[ $? -eq 0 ]];then     
         echo "[Check] ping address...         Pass"
+        C=0
 else                   
         echo "[Check] ping address...         Failed"
+        C=1
 fi
 
 #check subnet 
@@ -56,9 +62,24 @@ t=$(echo "obase=2;$(($h&$l))" | bc)
 
 if (($m == $q && $n == $r && $o == $s && $p == $t));then
 	echo "[Check] same subnet...          Pass"
+        D=0
 else
 	echo "[Check] same subnet...          Failed"
+        D=1
 fi
 
+#Result of check
+if [[ $W -eq 0 && $B -eq 0 && $C -eq 0 && $D -eq 0 ]]; then
 echo "All Check Passed"
+else
+echo "Something wrong:"
+	if [ $A -eq 1 ]; then echo "#environment"
+	fi
+	if [ $B -eq 1 ]; then echo "#address"    
+	fi
+	if [ $C -eq 1 ]; then echo "#ping"
+	fi
+	if [ $D -eq 1 ]; then echo "#subnet"
+	fi
+fi
 
