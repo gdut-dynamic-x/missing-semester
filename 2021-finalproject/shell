@@ -1,0 +1,16 @@
+#!/bin/bash
+	foo=$ROS_MASTER_URI
+	if [[ $foo ]]
+	then
+                echo "[Check] environment variable... pass"
+	else
+		echo "[Check] environment variable... Null"
+	
+
+	fi
+	echo "$foo"
+	echo "[Check] ping address...         Not Pass"
+
+	ping $foo
+
+	echo "[Check] ping address...        Not Pass"
