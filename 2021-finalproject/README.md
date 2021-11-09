@@ -15,6 +15,7 @@ PR 考察分两阶段
    - 你需要主动为你的 PR 增加名为 `2021-finalproject` 的 label，否则视为无效的作业
    - 你需要主动查看 PR 的合并检查项目并且解决自己可以解决的检查项目，下面介绍检查项目
        - 你的 PR 需要至少一个 reviewer，如果你认为自己已经无事可做了，可以发送 request review 来使你的 PR 更快地合并
+       - 你的 PR 需要至少一个 reviewer，如果你认为自己已经无事可做了，可以发送 request review 来使你的 PR 更快地合并
        - 如果 reviewer 提出了修改意见，你需要在解决后回复，在确认完成后点击 resolved
        - 你的修改历史必须是线性的，也就是不能出现分支间 merge
        - 你增加的文件必须在 `2021-finalproject` 文件夹中
