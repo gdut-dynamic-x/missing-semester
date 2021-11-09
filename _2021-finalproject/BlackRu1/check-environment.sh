@@ -43,13 +43,13 @@ echo "now I will correct them to the same ip so that my ros system can connect t
  #sedcom="${hangline}s/${tablename}/${tablename}_BAKTEMP/"
 echo "Something maybe be hard because I can't get the hang of the shell. You have to add the code of line40 ""in to the popup by yourself.Sorry for that."
 echo "tablename="GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"""
-sudo gedit /etc/default/grub
-sudo grub-mkconfig -o /boot/grub/grub.cfg
+#sudo gedit /etc/default/grub
+#sudo grub-mkconfig -o /boot/grub/grub.cfg
 
-echo "GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0""
-echo ip=$(ip addr show wlan0 | grep -o 'inet [0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+' | grep -o [0-9].*)>gedit ~/.bashrc
-export ROS_HOSTNAME=$ip
-export ROS_MASTER_URI=http://$ip:11311
+#echo "GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0""
+#echo ip=$(ip addr show wlan0 | grep -o 'inet [0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+' | grep -o [0-9].*)>gedit ~/.bashrc
+#export ROS_HOSTNAME=$ip
+#export ROS_MASTER_URI=http://$ip:11311
 export ROS_MASTER_URI=http://192.168.1.102:11311
 #only shows what happen after ip was correctly changed
 echo "local ip now :"
