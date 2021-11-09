@@ -6,7 +6,6 @@
 
    git restore -- <filename>
 
-   ![git restore](git restore.png)
 
    第二种
 
@@ -14,7 +13,6 @@
    git checkout -- <file>     拉取暂存区文件 并将其替换成工作区文件
    git reset HEAD  -- <file>  拉取最近一次提交到版本库的文件到暂存区  操作不影响工作区
 
-   ![git reset](git reset.png)
 
 2. #### 若你已经提交了一个新版本，需要回退该版本，应该如何操作？分别给出不修改历史或修改历史的至少两种不同的方式
 
@@ -25,13 +23,11 @@
 
    $ git reset --hard <版本号>
 
-   ![git reset --hard version](git reset --hard version.png)
 
    (2)$git revert 
 
    #撤销之前的某一版本，保留目标版本后面的版本
 
-   ![git revert ](git revert .png)
 
 3. #### 我们已经知道了合并分支可以使用 merge，但这不是唯一的方法，给出至少两种不同的合并分支的方式。
 
@@ -42,12 +38,10 @@
    git checkout feature
    git merge master
 
-   ![git merge branch](git merge branch.png)
 
    （2）rebase，使得项目历史整洁（与merge有点相对），而且出来的项目线性。
    
    git checkout feature
    git rebase master
    
-   ![git rebase](git rebase.png)
 
