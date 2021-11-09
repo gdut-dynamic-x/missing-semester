@@ -7,4 +7,7 @@
 1）不修改历史，可以使用 "git log" ,查看每次提交的 "commit ID" ，将想回退的那次 "commit ID" 复制下来，并使用 "git reset <commit ID> --hard" 即可。
 2）历史已被修改，可以使用 "git reflog" ,查看所有操作记录，包括被删除的，复制想要回退版本的哈希值，即 "comit ID" ，再使用 "git reset <commit ID> --hard" 即可。
 
+
 问题3：我们已经知道了合并分支可以使用 merge，但这不是唯一的方法，给出至少两种不同的合并分支的方式
+1）可使用 "git cherry-pick <commit ID>" 将分支合并。
+2）也可·使用 "git merge –no-ff <branch name>" 将分支合并。
