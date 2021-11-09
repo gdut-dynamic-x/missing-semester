@@ -7,8 +7,8 @@ RETURN=$?
 if [ $RETURN == "0" ];then
 	echo  " pass"
 else 
-	echo  "\nThis environment variable is empty!"
-	exit 1
+	echo  "This environment variable is empty!"
+	exit 0
 fi
 
 #check the environment variable whether have a valid address
@@ -31,3 +31,5 @@ if [ address != "" ];then
 else
 	echo "the ip address couldn't be connected"
 fi
+
+echo "all check finish"
