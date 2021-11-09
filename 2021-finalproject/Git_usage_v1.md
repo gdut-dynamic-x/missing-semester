@@ -1,6 +1,6 @@
 问题1：若你已经修改了部分文件、并且将其中的一部分加入了暂存区，应该如何回退这些修改，恢复到修改前最后一次提交的状态？给出至少两种不同的方式  
 =====
-&ensp;&ensp;&ensp;&ensp;(1）可以使用 "git reset HEAD <filename>" 将最后一次修改的版本拉至暂存区，再用 "git checkout -- <filename>" ,将其拉到工作区，可发现，文件退了一个版本，即撤销了最后一次的修改。  ![Solution1](git_imgs/Git_Q1_1.jpg)
+&ensp;&ensp;&ensp;&ensp;(1）可以使用 "git reset HEAD <filename>" 将最后一次修改的版本拉至暂存区，再用 "git checkout -- <filename>" ,将其拉到工作区，可发现，文件退了一个版本，即撤销了最后一次的修改。  ![Solution1](git_imgs/git_Q1_1.jpg)
 &ensp;&ensp;&ensp;&ensp;(2）使用 "git reset HEAD <filname>" ，之后再使用 "git restore" ，效果与上条一致。![Solution2](git_imgs/git_Q1_2.jpg)  
 
 
