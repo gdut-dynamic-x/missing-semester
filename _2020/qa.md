@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: "提问&回答"
-date: 2020-01-30
+date: 2021-11-3
 ready: true
 sync: true
 syncdate: 2021-04-24

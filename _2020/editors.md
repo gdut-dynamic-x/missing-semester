@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: "编辑器 (Vim)"
-date: 2020-01-15
+date: 2021-10-21
 ready: true
 sync: true
 syncdate: 2021-04-24
@@ -12,6 +12,21 @@ solution:
     ready: true
     url: editors-solution
 ---
+
+# 开课注解
+
+*本节与[Shell 工具和脚本](../shell-tools)在同一节线下课讲授*
+
+线下课需要携带电脑并提前安装 vim：
+
+    sudo apt install vim
+
+注意，在第一次使用 vim 时你可能会面对如何退出的问题，你可以在下面找到答案。（或者粗暴地关掉 shell 窗口）
+
+线下课大纲
+![](../files/editors-shell-tools.png)
+
+# 介绍
 
 写作和写代码其实是两项非常不同的活动。当我们编程的时候，会经常在文件间进行切换、阅读、浏览和修改代码，而不是连续编写一大段的文字。因此代码编辑器和文本编辑器是很不同的两种工具（例如微软的 Word 与 Visual Studio Code）
 
@@ -25,7 +40,7 @@ solution:
 
 # 该学哪个编辑器？
 
-程序员们对自己正在使用的文本编辑器通常有着 [非常强的执念](https://en.wikipedia.org/wiki/Editor_war)。
+程序员们对自己正在使用的文本编辑器通常有着 [非常强的执念](https://en.wikipedia.org/wiki/Editor_war)（国内可访问的链接：[百度百科](https://baike.baidu.com/item/%E7%BC%96%E8%BE%91%E5%99%A8%E4%B9%8B%E6%88%98/1472185) / [UPC Linux](https://upclinux.github.io/intro/07/vim-and-emacs/)）。
 
 
 现在最流行的编辑器是什么？[Stack Overflow的调查](https://insights.stackoverflow.com/survey/2019/#development-environments-and-tools)(这个调查可能并不如我们想象的那样客观，因为Stack Overflow 的用户并不能代表所有程序员)显示，[Visual Studio Code](https://code.visualstudio.com/)是目前最流行的代码编辑器。而[Vim](https://www.vim.org/) 则是最流行的基于命令行的编辑器。
@@ -42,8 +57,7 @@ solution:
 
 # Vim的哲学
 
-在编程的时候，你会把大量时间花在阅读/编辑而不是在写代码上。所以，Vim 是一个_多模态_编辑
-器：它对于插入文字和操纵文字有不同的模式。Vim 是可编程的（可以使用 Vimscript 或者像
+在编程的时候，你会把大量时间花在阅读/编辑而不是在写代码上。所以，Vim 是一个*多模态*编辑器：它对于插入文字和操纵文字有不同的模式。Vim 是可编程的（可以使用 Vimscript 或者像
 Python 一样的其他程序语言），Vim 的接口本身也是一个程序语言：键入操作（以及其助记名）
 是命令，这些命令也是可组合的。Vim 避免了使用鼠标，因为那样太慢了；Vim 甚至避免用
 上下左右键因为那样需要太多的手指移动。
@@ -93,7 +107,7 @@ Vim 默认打开一个标签页，这个标签也包含一个窗口。
 
 在正常模式下键入 `:` 进入命令行模式。 在键入 `:` 后，你的光标会立即跳到屏幕下方的命令行。
 这个模式有很多功能，包括打开，保存，关闭文件，以及
-[退出 Vim](https://twitter.com/iamdevloper/status/435555976687923200)。
+[退出 Vim](https://twitter.com/iamdevloper/status/435555976687923200)（国内可访问的链接：[知乎](https://zhuanlan.zhihu.com/p/61277913) / [Stack Overflow](https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/)）。
 
 - `:q` 退出（关闭窗口）
 - `:w` 保存（写）
@@ -179,7 +193,7 @@ Vim 最重要的设计思想是 Vim 的界面本身是一个程序语言。键�
 
 # 演示
 
-这里是一个有问题的 [fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz)
+这里是一个有问题的 [fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz)（国内可访问的链接：[力扣](https://leetcode-cn.com/problems/fizz-buzz/)）
 实现：
 
 ```python
@@ -239,7 +253,7 @@ Vim 由一个位于 `~/.vimrc` 的文本配置文件（包含 Vim 脚本命令�
 
 我们提供一个文档详细的基本设置，你可以用它当作你的初始设置。我们推荐使用这个设置因为
 它修复了一些 Vim 默认设置奇怪行为。
-**在[这儿](/2020/files/vimrc) 下载我们的设置，然后将它保存成
+**在[这儿](../files/vimrc) 下载我们的设置，然后将它保存成
 `~/.vimrc`.**
 
 Vim 能够被重度自定义，花时间探索自定义选项是值得的。你可以参考其他人的在GitHub
@@ -376,13 +390,20 @@ notebooks](https://github.com/lambdalisue/jupyter-vim-binding) 中用 Vim 快捷
 - [Practical Vim](https://pragprog.com/titles/dnvim2/)（书籍）
 
 # 课后练习
-[习题解答]({{site.url}}/{{site.solution_url}}/{{page.solution.url}})
+
+[原习题解答]({{site.url}}/{{site.solution_url}}/{{page.solution.url}})
+
+**标记为「选做」的题目不要求完成且不计分**
+
 1. 完成 `vimtutor`。 备注：它在一个
    [80x24](https://en.wikipedia.org/wiki/VT100)（80 列，24 行）
    终端窗口看起来效果最好。
-1. 下载我们提供的 [vimrc](/2020/files/vimrc)，然后把它保存到 `~/.vimrc`。 通读这个注释详细的文件
-   （用 Vim!）， 然后观察 Vim 在这个新的设置下看起来和使用起来有哪些细微的区别。
-1. 安装和配置一个插件：
+1. 下载我们提供的 [vimrc](../files/vimrc)，然后把它保存到 `~/.vimrc`。 通读这个注释详细的文件
+   （用 Vim）， 然后观察 Vim 在这个新的设置下看起来和使用起来有哪些细微的区别，用**简短**的语言描述你观察的结果。
+1. 练习使用 Vim, 在你自己的机器上重做 [演示](#demo)。
+1. 「**必须**」以后的作业中用命令行编辑器（Vim、nano 等）完成*所有的*文件编辑。每当不够高效的时候，或者你感觉 “一定有一个更好的方式”时，
+   尝试求助搜索引擎，很有可能有一个更好的方式。~~如果你遇到难题，可以来我们的答疑时间或者给我们发邮件。~~
+1. 「选做」安装和配置一个插件：
    [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim).
    1. 用 `mkdir -p ~/.vim/pack/vendor/start` 创建插件文件夹
    1. 下载这个插件： `cd ~/.vim/pack/vendor/start; git clone
@@ -394,10 +415,7 @@ notebooks](https://github.com/lambdalisue/jupyter-vim-binding) 中用 Vim 快捷
     1. 自定义 CtrlP： 添加
        [configuration](https://github.com/ctrlpvim/ctrlp.vim/blob/master/readme.md#basic-options)
        到你的 `~/.vimrc` 来用按 Ctrl-P 打开 CtrlP
-1. 练习使用 Vim, 在你自己的机器上重做 [演示](#demo)。
-1. 下个月用 Vim 完成_所有的_文件编辑。每当不够高效的时候，或者你感觉 “一定有一个更好的方式”时，
-   尝试求助搜索引擎，很有可能有一个更好的方式。如果你遇到难题，可以来我们的答疑时间或者给我们发邮件。
-1. 在其他工具中设置 Vim 快捷键 （见上面的操作指南）。
-1. 进一步自定义你的 `~/.vimrc` 和安装更多插件。
-1. （高阶）用 Vim 宏将 XML 转换到 JSON ([例子文件](/2020/files/example-data.xml))。
+1. 「选做」在其他工具（比如CLion）中设置 Vim 快捷键 （见上面的操作指南）。
+1. 「选做」进一步自定义你的 `~/.vimrc` 和安装更多插件。
+1. 「选做」用 Vim 宏将 XML 转换到 JSON ([例子文件](/2020/files/example-data.xml))。
    尝试着先完全自己做，但是在你卡住的时候可以查看上面[宏](#macros) 章节。
