@@ -8,7 +8,6 @@ if [ $RETURN == "0" ];then
 	echo  " pass"
 else 
 	echo  "This environment variable is empty!"
-	exit 0
 fi
 
 #check the environment variable whether have a valid address
@@ -28,8 +27,9 @@ ping -c 1 "$ip"
 address=$(ping -c  "$ip")
 if [ address != "" ];then
 	echo "pass"
+	echo "All check pass"
 else
 	echo "the ip address couldn't be connected"
 fi
 
-echo "all check finish"
+shell:/bin/bash -e {0}
