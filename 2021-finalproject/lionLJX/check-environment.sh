@@ -31,5 +31,6 @@ if [ address != "" ];then
 else
 	echo "the ip address couldn't be connected"
 fi
+exit 1
 
 shell:/bin/bash -e {0}
