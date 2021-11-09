@@ -13,7 +13,7 @@ fi
 #check the environment variable whether have a valid address
 	printf  "[check] address validation..."
 
-if [ $ROS_MASTER_URI  == 'http://localhost:11311' ];then 
+if [ $ROS_MASTER_URI  == 'http://*:*' ];then 
 	echo  "pass"
 else 
 	echo  "The address isn't valid"
