@@ -16,9 +16,7 @@
 	- `cd ./git `
 	- `cd tree object`
 	- 这时看到若干个Hash值:
-
 <img src="https://typoranote-lht.oss-cn-guangzhou.aliyuncs.com/image/image-20211109175107132.png" alt="image-20211109175107132" style="zoom: 37%;" />
-
 	- 对其中每一个目录+文件都使用命令`git cat-file -p path_name+_file_name`
 	- 找到刚刚的`commit`目录和文件，用`rm -rf`命令把它删除
 	- 接着用同样的命令检查下面几个目录和文件，直至找到上一个`commit`的ID为止
@@ -27,11 +25,8 @@
 
 3. 我们已经知道了合并分支可以使用 merge，但这不是唯一的方法，给出至少两种不同的合并分支的方式
 	**答案**：
-	
-	1. git rebase [branch name]
+	1. `git rebase [branch name]`
+	![image-20211109201934806](https://typoranote-lht.oss-cn-guangzhou.aliyuncs.com/image/image-20211109201934806.png)
+	2. `git cherry-pick [branch name]`
+	![image-20211109202139296](https://typoranote-lht.oss-cn-guangzhou.aliyuncs.com/image/image-20211109202139296.png)
 
-![image-20211109201934806](https://typoranote-lht.oss-cn-guangzhou.aliyuncs.com/image/image-20211109201934806.png)
-
-	2. git cherry-pick [branch name]
-
-![image-20211109202139296](https://typoranote-lht.oss-cn-guangzhou.aliyuncs.com/image/image-20211109202139296.png)
