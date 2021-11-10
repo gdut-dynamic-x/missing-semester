@@ -5,9 +5,9 @@ result=$( cat IP.txt | grep "^http://[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[
 http=$( cat IP.txt | grep -o "http://" )
 IP=$( cat IP.txt | grep -o "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" )
 ip_and_port=$( cat IP.txt | grep -o "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}:[0-9]\{1,5\}" )
-echo "The link is-----$result"
-echo "The IP of the link is-----$IP"
-echo "The ip and port of the link is-----$ip_and_port"
+#echo "The link is-----$result"
+#echo "The IP of the link is-----$IP"
+#echo "The ip and port of the link is-----$ip_and_port"
 #using the regular expression to search what I want
 echo -e "\n Now is checking time.\n"
 
