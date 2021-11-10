@@ -17,5 +17,11 @@ else
 	rm ~/cache.txt
 	exit -1
 fi
-ping $(cat ~/cache.txt | sed -E 's/http:\/\/(.*):.*$/\1/') 
+ping -w5 $(cat ~/cache.txt | sed -E 's/http:\/\/(.*):.*$/\1/') >> ~/cache.txt
+
+if [[ $(cat ~/cache.txt | grep "已发送" | sed -E 's/^.*(100).*$/\1/') -eq 100 ]];then
+	echo "[Check] ping address...         Faile"
+else 
+	echo "[Check] ping address...         Pass"
+fi
 rm ~/cache.txt
