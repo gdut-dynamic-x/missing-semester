@@ -3,3 +3,7 @@
 2.git reset --hard HEAD^ ; git push -f origin master
 
 3.git merge  ; git rebase
+
+![avatar](1.png)
+![avatar](2.png)
+![avatar](3.png)
