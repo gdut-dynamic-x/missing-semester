@@ -5,3 +5,5 @@ git reset
 git push -f origin master
 
 *git merge 
+git rebase
+
