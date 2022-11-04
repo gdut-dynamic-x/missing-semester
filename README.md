@@ -1,42 +1,14 @@
-# The Missing Semester of Your CS Education 
+# 收获
 
-Website for the [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) class!
+从学习这个项目以来，我收获到了
+c+＋的基础学习
+linux 命令行的基础语法
+bash脚本基础
+vim编辑器的使用
+git入门语法
 
-[中文站点](https://missing-semester-cn.github.io)(<span style="float:right"><img src = "https://img.shields.io/badge/最近一次与英文版同步-2021--04--24-green"></span>)
+作为刚入门的一个纯小白，甚至连Windows都弄不明白，就加入到了Ubuntu系统的学习，通过B站相关网课学习对应的内容，以及每学习一个内容，我都会用手机的WPS便签记笔记。
 
+# 感想
 
-Contributions are most welcome! If you have edits or new content to add, please
-open an issue or submit a pull request.
-
-## Development
-
-To build and view the site locally, run:
-
-```bash
-bundle exec jekyll serve -w
-```
-
-## License
-
-All the content in this course, including the website source code, lecture notes, exercises, and lecture videos is licensed under Attribution-NonCommercial-ShareAlike 4.0 International [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [here](https://missing.csail.mit.edu/license) for more information on contributions or translations.
-
------------------
-
-## Project Status
-
-To contribute to this tanslation project, please book your topic by creating an issue and I will update this table accordingly to avoid rework.
-
-|  lectures   | translator  | status |
-|  ----  | ----  |----  |
-| [course-shell.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/course-shell.md)  | [@Lingfeng AI](https://github.com/hanxiaomax) | Done |
-| [shell-tools.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/shell-tools.md)  | [@Lingfeng AI](https://github.com/hanxiaomax) | Done |
-| [editors.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/editors.md)  |  [@stechu](https://github.com/stechu) | Done |
-| [data-wrangling.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/data-wrangling.md)  | [@Lingfeng AI](https://github.com/hanxiaomax) | Done |
-| [command-line.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/command-line.md)  | [@Lingfeng AI](https://github.com/hanxiaomax) | Done |
-| [version-control.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/version-control.md)  | [@Lingfeng AI](https://github.com/hanxiaomax) | Done |
-| [debugging-profiling.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/debugging-profiling.md)  |[@Lingfeng AI](https://github.com/hanxiaomax)  | Done  |
-| [metaprogramming.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/metaprogramming.md)  | [@Lingfeng AI](https://github.com/hanxiaomax) | Done |
-| [security.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/security.md)  | [@catcarbon](https://github.com/catcarbon) | Done |
-| [potpourri.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/potpourri.md) |  [@catcarbon](https://github.com/catcarbon) | Done |
-| [qa.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/qa.md) | [@AA1HSHH](https://github.com/AA1HSHH) | Done |
-| [about.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/about.md)  | [@Binlogo](https://github.com/Binlogo)  | Done |
+我是一名大一的小萌新，从高中开始就对机器人有着极大的热情，也对RM的赛事比较关注，在开学后了解到学校的对应的团队，我便报名加入了DynamicX团队的考核，但我对系统这方面简直是一窍不通，但通过团队这段时间的培训，我对系统的一些专有名词有所了解，并了解了对应的部分发挥怎么样的作用。即使现在的自己对很多东西都是一窍不通，但我相信，通过不断地学习，能够改变自己。但不管怎么说，我渴望拥有自己的一个机器人，渴望拥有一群机器人的伙伴，渴望拥有一支自己热爱的团队，渴望拥有一个为之奋斗的梦想。
