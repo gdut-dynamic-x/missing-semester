@@ -39,4 +39,13 @@ To contribute to this tanslation project, please book your topic by creating an 
 | [security.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/security.md)  | [@catcarbon](https://github.com/catcarbon) | Done |
 | [potpourri.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/potpourri.md) |  [@catcarbon](https://github.com/catcarbon) | Done |
 | [qa.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/qa.md) | [@AA1HSHH](https://github.com/AA1HSHH) | Done |
-| [about.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/about.md)  | [@Binlogo](https://github.com/Binlogo)  | Done |
+| [about.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/about.md)  | [@Binlogo](https://github.c
+#mai
+##shell学习经验总结
+初学shell的时候我最常查的是[www.baidu.com]
+但是后面在学习了更多功能后，我开始查[www.csdn.com]
+到现在为止，我对vim的使用还不太熟悉，只能用
+>读写模式
+>上下左右的移动以及添加色彩
+后面开始学git
+现在还没学明白
