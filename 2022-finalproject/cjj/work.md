@@ -7,14 +7,14 @@
 
 -  git rm --cached filename
 
-![](2022-finalproject/cjj/photos/2.jpeg)
+![2.jpeg](./2.jpeg)
 
 ### 问题二
 -  使用git revert -n +版本号
 
 -  先用git log查看提交的commit id,复制最后一次提交的commit id,使用git reset --hard +commit id恢复
 
-![](2022-finalproject/cjj/photos/1.jpeg)
+![1.jpeg](./1.jpeg)
 
 
 ### 问题三
@@ -22,4 +22,4 @@
 
 - git rebase -i
 
-![](2022-finalproject/cjj/photos/3.jpeg)
+![3.jpeg](./3.jpeg)
