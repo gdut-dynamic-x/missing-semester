@@ -28,7 +28,7 @@ git reset --soft <commit编号> 这个会保留暂存区和工作区
 只是撤销了commit ,上一次的更改还在，什么都没变
 
 在实际操作中，我先创建了自己的测试空间，然后创建了一个test.sh的文档，输入：你好呀，然后add,commit，提交了第一次修改，然后我再修改了test.sh，进行了第二次提交，这时候我用git log 得到对应的commit编号，git reset --hard 编号 就回到了第一次的版本，若使用git reset --soft 文件内容就没有对应改变。
-![](reset -hard.jpeg)
+![](reset-hard.jpeg)
 
 #第二种方法： git checkout 文件名
 这种方法可以直接将commit的文件直接回到未修改前
@@ -40,7 +40,7 @@ git reset --soft <commit编号> 这个会保留暂存区和工作区
 还有一种写法是 git reset HEAD^(个人觉得应该没多大区别)
 
 创建一个新的文档test.txt，进行两次add，commit ,之后git log 查看是否体交了两次版本，再使用git reset HEAD~,·那么最后一次的commit就会在暂存区被删除，但是这个方法会修改git log里的历史
-![](reset -head.jpeg)
+![](reset-head.jpeg)
 
 #第二种方法: git revert <commit编号>
 这是我第一次了解到这种方法，我在csdn上对相关资料进行了搜集，git log 找到对应的编号，当使用这个编号作为参数传入git revert时，本地文件就会回到这个编号之前的版本，然后这个操作也会作为历史记录在git log里。
