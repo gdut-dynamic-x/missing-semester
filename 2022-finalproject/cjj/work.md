@@ -1,17 +1,25 @@
 ## 回答
 
 ### 问题一
-* 使用 "git restore --staged <文件>..."
-* git reset HEAD +filename
+-  使用 "git restore --staged <文件>..."
 
+-  git reset HEAD --.
+
+-  git rm --cached filename
+
+![](2022-finalproject/cjj/photos/2.jpeg)
 
 ### 问题二
-* 使用git checkout HEAD +文件名
-* 先用git log查看提交的commit id,复制最后一次提交的commit id,使用git reset --hard +commit id恢复
+-  使用git revert -n +版本号
+
+-  先用git log查看提交的commit id,复制最后一次提交的commit id,使用git reset --hard +commit id恢复
+
+![](2022-finalproject/cjj/photos/1.jpeg)
 
 
 ### 问题三
-* git commit --amend
-* git rebase -i
+- git commit --amend
 
-[百度网盘](https://pan.baidu.com/s/1GuaTBC9J9wS6Gi3j0CWOBw?pwd=8734)
+- git rebase -i
+
+![](2022-finalproject/cjj/photos/3.jpeg)
