@@ -28,7 +28,6 @@ git reset --soft <commit编号> 这个会保留暂存区和工作区
 只是撤销了commit ,上一次的更改还在，什么都没变
 
 在实际操作中，我先创建了自己的测试空间，然后创建了一个test.sh的文档，输入：你好呀，然后add,commit，提交了第一次修改，然后我再修改了test.sh，进行了第二次提交，这时候我用git log 得到对应的commit编号，git reset --hard 编号 就回到了第一次的版本，若使用git reset --soft 文件内容就没有对应改变。
-！[](reset)
 ! [](reset -hard.jpeg)
 
 #第二种方法： git checkout 文件名
@@ -64,3 +63,6 @@ git branch -d branch_name #删除某个分支
 git checkout branch_name_1  #切换到某个分支
 git rebase branch_name_2  #但这么操作容易使在git status中造成冲突
 # 单机可以使用，多人合作尽量用merge 
+![](merge.jpeg)
+![](merge1.jpeg)
+![](merge2.jpeg)
