@@ -1,5 +1,5 @@
 # The Missing Semester of Your CS Education 
-
+czy
 Website for the [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) class!
 
 [中文站点](https://missing-semester-cn.github.io)(<span style="float:right"><img src = "https://img.shields.io/badge/最近一次与英文版同步-2021--04--24-green"></span>)
