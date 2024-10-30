@@ -1,3 +1,10 @@
+#**图片**
+![第一张](./image1.webp)
+
+![第二张](./image2.webp)
+
+![第三张](./image3.jpg)
+
 #**第一题**
 1.git reset --hard HEAD
 2.git reset HEAD 
