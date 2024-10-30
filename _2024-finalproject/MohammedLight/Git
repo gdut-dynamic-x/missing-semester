@@ -1,0 +1,14 @@
+方法一：使用 git reset --hard 回退到最后一次提交
+
+    查看当前状态：
+
+
+    git status
+
+
+
+回退到最后一次提交：
+
+
+    git reset --hard HEAD
+
