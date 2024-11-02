@@ -4,7 +4,7 @@
 
 ![](screenshot/GitLogo.png)
 
-![](screenshot/git-workflaw.png)
+![](screenshot/git-workflow.png)
 
 上面这张图，很形象地介绍了Git的工作流程，掌握上面几条命令，基本可以~~熟练Git的使用~~。
 
