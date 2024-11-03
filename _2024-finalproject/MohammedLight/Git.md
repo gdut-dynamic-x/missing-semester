@@ -8,33 +8,8 @@
 
     git reset --hard HEAD
 
-##方法二：使用 git checkout -- 撤销单个文件的
-查看当前状态：
+## 方法二：使用 git checkout -- 撤销单个文件的
 
-git status
-
-找出需要回退的文件。
-
-撤销单个文件的修改：
-
-git checkout -- <文件名>
-
-
-
-不修改历史的方式
-使用 git revert
-
-    查看提交历史：
-    git log
-    
-
-创建一个新的提交来撤销之前的提交：
-
-```
- git revert <commit-hash>
-```
-
-创建一个新的提交，其内容是对指定提交的撤销。
 ## Git 应用
 
 **要求：** 编写一个文档，回答下列问题，这些问题的答案都应当使用 git 命令实现  
@@ -44,7 +19,12 @@ git checkout -- <文件名>
 1. 若你已经提交了一个新版本，需要回退该版本，应该如何操作？分别给出不修改历史或修改历史的至少两种不同的方式
 1. 我们已经知道了合并分支可以使用 merge，但这不是唯一的方法，给出至少两种不同的合并分支的方式
 
-    
+# My Project  
+  
+Here are some images:  
+  
+![Image 1](images/image1.png)  
+![Image 2](images/image2.png)    
 
 
 
