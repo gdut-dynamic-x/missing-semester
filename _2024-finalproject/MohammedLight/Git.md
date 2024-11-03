@@ -21,7 +21,7 @@
 
 # 图片  
   
-![Image 1](images/image1.png)  
+![Image 1](https://github.com/MohammedLight/git_2024/blob/master/_2024-finalproject/MohammedLight/Images%20of%20Git/git1.png) 
 ![Image 2](images/image2.png)    
 
 
