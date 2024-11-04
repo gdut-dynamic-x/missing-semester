@@ -1,0 +1,6687 @@
+[33mcommit 0b89e3620565b9cd349582468221349bccfb280e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: fwEnjeru666 <enjeru2121@gmail.com>
+Date:   Sun Nov 3 20:36:47 2024 +0800
+
+    Update README.
+
+[33mcommit ca44eb3942e2002072fbeb8619619e329bbca594[m
+Author: fwEnjeru666 <enjeru2121@gmail.com>
+Date:   Sun Nov 3 18:10:34 2024 +0800
+
+    Add a README.md file in fwEnjeru666.
+
+[33mcommit 982af8ccbfb8a32df72e8cd693b6677fcba67875[m
+Author: 321aurora <2508260166@qq.com>
+Date:   Mon Oct 21 21:08:25 2024 +0800
+
+    Update the repo.
+
+[33mcommit ddcb4d904505a9e34464d16262a550a9a7fefeee[m
+Merge: dcb171d ee9c0ec
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Fri Nov 11 01:51:51 2022 +0800
+
+    Merge pull request #78 from liyixin135/master
+    
+    Test
+
+[33mcommit dcb171d3eeebfecef151258340eafcabd9351ba4[m
+Merge: fd982b0 c210d4f
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Fri Nov 11 01:42:17 2022 +0800
+
+    Merge pull request #87 from cappp666/master
+    
+    Cappp666's PR
+
+[33mcommit fd982b0eba4f94c0401447a80eaf55cabf3ac52c[m
+Merge: e3e6acb fdfa277
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Fri Nov 11 01:38:20 2022 +0800
+
+    Merge pull request #73 from BlanchardLj/master
+    
+    BlanchardLj's final-project
+
+[33mcommit c210d4f98804209ed6a47dbcf7e8a1cb4efdd580[m
+Author: cappp <2932908273@qq.com>
+Date:   Thu Nov 10 22:56:40 2022 +0800
+
+    2
+
+[33mcommit fdfa277661dc49d7404a8041193a77291d8c01fb[m
+Author: liu <1714148437@qq.com>
+Date:   Thu Nov 10 21:55:22 2022 +0800
+
+    chance folder
+
+[33mcommit ee9c0ec180931fd820dedb4e34adbbef964376d9[m
+Merge: ab47f29 c034ac4
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 21:25:08 2022 +0800
+
+    Merge branch 'master' of github.com:liyixin135/missing-semester
+    Again
+
+[33mcommit ab47f29e711cfe9030729bd158c975377ad9898a[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 21:24:21 2022 +0800
+
+    progress6
+
+[33mcommit d2c5992ea40acfe78154ddc3937eaf4da1a07915[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 21:22:50 2022 +0800
+
+    progress5
+
+[33mcommit db9a3e79a31d526cf27e43ae08b8ded2ed0a6982[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 21:17:28 2022 +0800
+
+    progress3
+
+[33mcommit 2999c4e4b01fbc2e01033cd875abd1df803b68eb[m
+Author: cappp666 <117030435+cappp666@users.noreply.github.com>
+Date:   Thu Nov 10 21:16:16 2022 +0800
+
+    Update git.md
+
+[33mcommit 104f01a73f10149d2f75886e71e956c066875b7f[m
+Merge: fe75cd8 e3e6acb
+Author: cappp666 <117030435+cappp666@users.noreply.github.com>
+Date:   Thu Nov 10 21:11:08 2022 +0800
+
+    Merge branch 'gdut-dynamic-x:master' into master
+
+[33mcommit b47d460f02fb181d93a5a3caaef3fa2f7e2d1c97[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 21:09:30 2022 +0800
+
+    progress2
+
+[33mcommit d56d0609ca578dd8443966948af824f6e77eb9b4[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 21:03:48 2022 +0800
+
+    progress2
+
+[33mcommit e3e6acb861bf711da06d9168357f093816a48886[m
+Merge: 1eb63c8 0d8f30a
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Thu Nov 10 20:57:22 2022 +0800
+
+    Merge pull request #89 from Rostone273/master
+    
+    Rostone's PR
+
+[33mcommit 1eb63c8f211f59354938a95d9e4dd1c5d67ab813[m
+Merge: 429bc1f a8163c1
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Thu Nov 10 20:52:53 2022 +0800
+
+    Merge pull request #75 from ZH970/master
+    
+    Zh 's PR
+
+[33mcommit 0d8f30a0fac894c49a8aa3d542f587bf5f842f68[m
+Merge: 81a11fd 429bc1f
+Author: Wilson <96069768+Rostone273@users.noreply.github.com>
+Date:   Thu Nov 10 20:28:53 2022 +0800
+
+    Merge branch 'gdut-dynamic-x:master' into master
+
+[33mcommit 877b0723294ea0fc13996ef1a2d03514210dc73b[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 20:18:45 2022 +0800
+
+    bin
+
+[33mcommit 81a11fd622553517cef22e898ddd02e4f9505933[m
+Author: Rostone <3299455428@qq.com>
+Date:   Thu Nov 10 20:13:30 2022 +0800
+
+    commit
+
+[33mcommit cd8dbe7b84162e706188c5a7af06f46c8ba28838[m
+Author: Rostone <3299455428@qq.com>
+Date:   Thu Nov 10 19:56:08 2022 +0800
+
+    change
+
+[33mcommit be1d764724b9873d9cdcf4ef24b3dac708a76434[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 19:48:02 2022 +0800
+
+    first try
+
+[33mcommit 60a7a69d98491249aa9bf6f3cfd393d9f7959ef2[m
+Author: Rostone <3299455428@qq.com>
+Date:   Thu Nov 10 19:48:00 2022 +0800
+
+    change folder name
+
+[33mcommit 38a5c27219bd75c505fe709dbcba270ab8a79ee2[m
+Author: Rostone <3299455428@qq.com>
+Date:   Thu Nov 10 19:35:45 2022 +0800
+
+    change folder name
+
+[33mcommit 9e6a70f14c3a19d30157ec611f0a67846b66f0c8[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 17:53:26 2022 +0800
+
+    try
+
+[33mcommit 429bc1fba184a7c180eb555edf56eebe6cdff876[m
+Merge: d42048a 550abba
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Thu Nov 10 15:02:19 2022 +0800
+
+    Merge pull request #88 from GuraMumei/master
+    
+    GuraMumei 's PR
+
+[33mcommit d42048a982f9d7b2d3aec08c4baaf001420c1009[m
+Merge: ffdef71 28e6ddc
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Thu Nov 10 14:53:08 2022 +0800
+
+    Merge pull request #90 from younmon/master
+    
+    younmon's PR
+
+[33mcommit c034ac49381a072043af0b5c0e778885ef3d5b07[m
+Merge: b54c5e5 ffdef71
+Author: liyixin135 <116912654+liyixin135@users.noreply.github.com>
+Date:   Thu Nov 10 12:21:51 2022 +0800
+
+    Merge branch 'gdut-dynamic-x:master' into master
+
+[33mcommit b54c5e5354d94ec6c7b406962862cce4a4ecebe1[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 09:45:22 2022 +0800
+
+    again
+
+[33mcommit 78c9d520cc9ab09c2651ba12c67ae85aa28a5bea[m
+Merge: 6094b60 7e01306
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 00:26:56 2022 +0800
+
+    Merge branch 'master' of github.com:liyixin135/missing-semester
+    this is my homework
+
+[33mcommit 6094b600161af9e4fa3a1b84938969beaeb946ad[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Thu Nov 10 00:26:24 2022 +0800
+
+    final project
+
+[33mcommit 550abbac2e7caa82978bae0dbf30886ab3bd416a[m
+Author: GuraMumei <2665141394@qq.com>
+Date:   Wed Nov 9 22:54:45 2022 +0800
+
+    final
+
+[33mcommit 369d0cc31014f155c203c7d361cb27ab97e724e6[m
+Merge: b00fe24 ffdef71
+Author: GuraMumei <115915981+GuraMumei@users.noreply.github.com>
+Date:   Wed Nov 9 22:07:47 2022 +0800
+
+    Merge branch 'gdut-dynamic-x:master' into master
+
+[33mcommit a8163c16caeed80a962984513ce1e0bf06420227[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Wed Nov 9 20:07:59 2022 +0800
+
+    add .github
+
+[33mcommit 28e6ddca1ac95063d6487b78ddc9e779e8662de2[m
+Author: younmon <117288057+younmon@users.noreply.github.com>
+Date:   Wed Nov 9 19:52:39 2022 +0800
+
+    younmon stage2
+
+[33mcommit 49a43bef65cd2c7879b5131151e94dc56baf149b[m
+Author: younmon <117288057+younmon@users.noreply.github.com>
+Date:   Wed Nov 9 19:50:09 2022 +0800
+
+    Delete 2022-finalproject/younmon directory
+
+[33mcommit 2ae1f249046f8cab5b3ac8c421a9072aed34d787[m
+Merge: b4646e0 ffdef71
+Author: younmon <117288057+younmon@users.noreply.github.com>
+Date:   Wed Nov 9 19:47:14 2022 +0800
+
+    Merge pull request #1 from gdut-dynamic-x/master
+    
+    stage2
+
+[33mcommit ffdef7174ae7771dc38f63a944fcc2a33792c84f[m
+Merge: bf4eb19 2cb73c3
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 9 15:55:13 2022 +0800
+
+    Merge pull request #81 from cc0h/cc0h
+    
+    Cc0h
+
+[33mcommit cda1bb3f4397d3ef49eba2b0fed8a0384182684d[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Wed Nov 9 15:42:18 2022 +0800
+
+    maybe pass
+
+[33mcommit 69a0dc9edcd592a89cc1562cc34eb5600cd90d82[m
+Merge: 2c59fde 34f16a3
+Author: ZH970 <1210106679@qq.com>
+Date:   Wed Nov 9 15:41:16 2022 +0800
+
+    Merge branch 'master' of https://github.com/ZH970/missing-semester-gdut
+    sync fork
+
+[33mcommit 2c59fde5c2928fa87611dd800bb6ccc91ea2e7ee[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Wed Nov 9 15:40:58 2022 +0800
+
+    maybe pass
+
+[33mcommit 34f16a3fa927d5fb540b8ba30c62d0f6dc21b208[m
+Merge: c2f463f bf4eb19
+Author: ZH970 <59546618+ZH970@users.noreply.github.com>
+Date:   Wed Nov 9 15:36:48 2022 +0800
+
+    Merge branch 'gdut-dynamic-x:master' into master
+
+[33mcommit c2f463fcf22a6e800543a0546a8e615462e683b2[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Wed Nov 9 15:28:25 2022 +0800
+
+    delete wrong file
+
+[33mcommit ebeebcad88ba0a182408b6fe35e81abcbc36f794[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Wed Nov 9 15:26:02 2022 +0800
+
+    clear
+
+[33mcommit 34e1b2f434fb72a8bacd8ba1d384003370078e3d[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Wed Nov 9 15:19:07 2022 +0800
+
+    try to back again
+
+[33mcommit b4646e076be98eec01e3454585eb8f912a981754[m
+Author: younmon <117288057+younmon@users.noreply.github.com>
+Date:   Wed Nov 9 00:50:31 2022 +0800
+
+    stage 2 homework commit
+    
+    ok
+
+[33mcommit 2cb73c37ff5dfc561fd93c2be64dcb6a5db7bfd2[m
+Merge: ae6f974 bf4eb19
+Author: cc0h <792166012@qq.com>
+Date:   Wed Nov 9 00:15:51 2022 +0800
+
+    Merge branch 'cc0h' of https://github.com/cc0h/missing-semester into cc0h
+
+[33mcommit 6063015056dba68a233d61146f707cb0a3550920[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Tue Nov 8 18:56:40 2022 +0800
+
+    fix the lose log1.jpg
+
+[33mcommit 03fa2d66a58ea4c45a1b29a035202679babdfc44[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Tue Nov 8 18:50:51 2022 +0800
+
+    Revert "add log1.jpg pic"
+    
+    This reverts commit 213a9ccbe71bca61e37b99f7c593471465e33a01.
+    
+    It's to withdrawal the changes that last revert.
+
+[33mcommit 6d5c450fce75f568c013e092790f7501f6ed6a62[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Tue Nov 8 18:46:30 2022 +0800
+
+    Revert "Modify as required"
+    
+    This reverts commit 2867ff1ed4284fccd478b1955ebe6980d6d118ca.
+    
+    Revert test.
+
+[33mcommit 213a9ccbe71bca61e37b99f7c593471465e33a01[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Tue Nov 8 18:43:11 2022 +0800
+
+    add log1.jpg pic
+
+[33mcommit 637062593bf3deda4e569a582732226001ccea5c[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Tue Nov 8 18:39:11 2022 +0800
+
+    add test.txt
+
+[33mcommit 7e01306d494a3023a87db2d9b55d09897243c95d[m
+Merge: 9b4c6ed bf4eb19
+Author: liyixin135 <116912654+liyixin135@users.noreply.github.com>
+Date:   Tue Nov 8 17:31:16 2022 +0800
+
+    Merge branch 'gdut-dynamic-x:master' into master
+
+[33mcommit bf4eb19b9db9208573cb6d7986dd99a8cc10bfc9[m
+Merge: 9ee981c f4eafe3
+Author: Ksals <2217210958@qq.com>
+Date:   Tue Nov 8 14:23:48 2022 +0800
+
+    Merge pull request #107 from gdut-dynamic-x/revert-68-master
+    
+    Revert "Asitaku's Pr_o"
+
+[33mcommit f4eafe334e0e43712907f542317be90288244614[m
+Author: Ksals <2217210958@qq.com>
+Date:   Tue Nov 8 13:43:29 2022 +0800
+
+    Revert "Asitaku's Pr_o"
+
+[33mcommit 9ee981c1f72ec30cba7c8dfa94440adfe4f9263a[m
+Merge: 74209a6 87bce0e
+Author: Ksals <2217210958@qq.com>
+Date:   Tue Nov 8 13:40:33 2022 +0800
+
+    Merge pull request #68 from asitaku/master
+    
+    Asitaku's Pr_o
+
+[33mcommit fe75cd83230bde750d5ca80fbca4184995a5cfb3[m
+Merge: 8bf6691 74209a6
+Author: cappp666 <117030435+cappp666@users.noreply.github.com>
+Date:   Tue Nov 8 11:46:43 2022 +0800
+
+    Merge branch 'gdut-dynamic-x:master' into master
+
+[33mcommit 74209a66ec496a2374bf406f14637ffbb186dca0[m
+Merge: 6b683cb 21bad4d
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Tue Nov 8 10:38:38 2022 +0800
+
+    Merge pull request #67 from Kr3hy/master
+    
+    Kr3hy 's PR(vision Kr3hy)
+
+[33mcommit 6b683cbefe272147edb3559c4f56706369fc3c93[m
+Merge: 81431e9 021158b
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Tue Nov 8 10:38:04 2022 +0800
+
+    Merge pull request #65 from Fawo011/mmmmm_master
+    
+    Creat Fawo011
+
+[33mcommit 08c0b5e507c08ad6ac6cc7892312a4912790ee0c[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Tue Nov 8 01:02:46 2022 +0800
+
+    forth
+
+[33mcommit b81ce1ead9e48ef1a302e3c5e054b6c46c7e17f7[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Mon Nov 7 23:39:17 2022 +0800
+
+    third
+
+[33mcommit ca5690a5bd7b8810b8438f06268bf401a04588f3[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Mon Nov 7 23:39:17 2022 +0800
+
+    second
+
+[33mcommit 761c80da794dd31ed472f07fc047b2cd3e233a16[m
+Merge: a0488c2 81431e9
+Author: BlanchardLj <116863539+BlanchardLj@users.noreply.github.com>
+Date:   Tue Nov 8 00:46:18 2022 +0800
+
+    Merge branch 'gdut-dynamic-x:master' into master
+
+[33mcommit 339e7b9bc67a98ed5392a4350c7a6cca5d2e5efd[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Mon Nov 7 23:39:17 2022 +0800
+
+    second
+
+[33mcommit 21bad4d15899754ff80542da3cf04fbc52e2819e[m
+Author: kr3hy <754643559@qq.com>
+Date:   Mon Nov 7 23:40:10 2022 +0800
+
+    second submit
+
+[33mcommit 7d440fcc0cabbd1530c0aa43eb47821058a73f77[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Mon Nov 7 23:39:17 2022 +0800
+
+    first
+
+[33mcommit d5c091b853ab61a38c1396e6a152a15d5fe29f3b[m
+Merge: 255c64f 81431e9
+Author: kr3hy <754643559@qq.com>
+Date:   Mon Nov 7 23:31:40 2022 +0800
+
+    submit-second_time
+
+[33mcommit 81431e9781dae1caa281c38c842758a0f93530da[m
+Merge: 7682a76 c9932f9
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Mon Nov 7 20:22:30 2022 +0800
+
+    Merge pull request #103 from irvingskr/master
+    
+    Update the 2022_final_project to stage 2
+
+[33mcommit c9932f903b2a08069177434bbec6cdcc37573454[m
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Mon Nov 7 20:05:53 2022 +0800
+
+    Update 2022-finalproject.yml
+    
+    Change the check directory from 2022-finalproject to_2022-finalproject.
+
+[33mcommit 628f681a1cb7008f80c8774e43bc4612f87fe3d2[m
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Mon Nov 7 20:04:07 2022 +0800
+
+    Rename 2022-finalproject/README.md to _2022-finalproject/README.md
+
+[33mcommit 6e6c88f6f3520fdff4ac7797f010f8f10517e6e8[m
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Mon Nov 7 20:03:08 2022 +0800
+
+    Update README.md
+
+[33mcommit 87bce0e04fd1aefb995c589207313353c6b87ae7[m
+Author: 余文基 <3482197316@qq.com>
+Date:   Mon Nov 7 19:38:47 2022 +0800
+
+    I finish my first task
+
+[33mcommit f3ac0b709032250ec5848507a3d0951f7f260bab[m
+Author: 余文基 <3482197316@qq.com>
+Date:   Mon Nov 7 19:14:08 2022 +0800
+
+    Create test0_Yu.txt
+
+[33mcommit 5b7398c63975366d08b655580e154e5cc28e9993[m
+Author: 余文基 <3482197316@qq.com>
+Date:   Mon Nov 7 18:59:24 2022 +0800
+
+    Revert "test3_change2"
+    
+    This reverts commit 693d1a02cffdb9377498c2be0526c56dec7003bd.
+
+[33mcommit 693d1a02cffdb9377498c2be0526c56dec7003bd[m
+Author: 余文基 <3482197316@qq.com>
+Date:   Mon Nov 7 18:57:41 2022 +0800
+
+    test3_change2
+
+[33mcommit 433889d4a68943c0f72fd5e12de68e9fd75bca0c[m
+Author: 余文基 <3482197316@qq.com>
+Date:   Mon Nov 7 18:53:53 2022 +0800
+
+    Revert "test3_change"
+    
+    This reverts commit 122465aa96b651ffe63a3e5391acb956864a6c43.
+
+[33mcommit 122465aa96b651ffe63a3e5391acb956864a6c43[m
+Author: 余文基 <3482197316@qq.com>
+Date:   Mon Nov 7 18:48:09 2022 +0800
+
+    test3_change
+
+[33mcommit 021158b4feacd80c6207d2be712552f6f04f8920[m
+Author: Fawool <LMLSDSG@hotmail.com>
+Date:   Mon Nov 7 16:34:38 2022 +0800
+
+    master
+
+[33mcommit 426c63f3bd36f311de607aecbc962ef103fdad08[m
+Author: czh <93626046+irvingskr@users.noreply.github.com>
+Date:   Mon Nov 7 14:24:27 2022 +0800
+
+    Update README.md
+    
+    Test.
+
+[33mcommit dccda625c2b2a1624e4fcdc012c4a5573643863e[m
+Author: 余文基 <3482197316@qq.com>
+Date:   Mon Nov 7 14:15:47 2022 +0800
+
+    test3
+
+[33mcommit 19afdee2307c078d48f301c5ef8678a38309c38a[m
+Author: 余文基 <3482197316@qq.com>
+Date:   Sun Nov 6 23:21:03 2022 +0800
+
+    test
+
+[33mcommit a0488c2a49fc61ac9be0a30e55bdddd731f2efb0[m
+Author: liu <1714148437@qq.com>
+Date:   Sun Nov 6 21:43:26 2022 +0800
+
+    update files
+
+[33mcommit ae6f9748220f007b68adb8e8370f45a13df42c9b[m
+Author: cc0h <792166012@qq.com>
+Date:   Sun Nov 6 21:25:05 2022 +0800
+
+    changed my answers
+
+[33mcommit 233d0e4ea13bd166e630edb7457b13082612c9fc[m
+Author: cc0h <792166012@qq.com>
+Date:   Sun Nov 6 21:21:19 2022 +0800
+
+    test
+
+[33mcommit e21622c4e02f051cfe2620d2db7537d799a95c82[m
+Author: cc0h <792166012@qq.com>
+Date:   Sun Nov 6 21:14:48 2022 +0800
+
+    test
+
+[33mcommit 8bf669126e99e26a26ac104a299e59a23237fc75[m
+Author: cappp <2932908273@qq.com>
+Date:   Sun Nov 6 18:37:53 2022 +0800
+
+    1
+
+[33mcommit ed470b9c9cb30c97e87e7a4e9edb2b1d0381b943[m
+Merge: 59bd944 e672afe
+Author: cappp <2932908273@qq.com>
+Date:   Sun Nov 6 17:42:30 2022 +0800
+
+    Merge branch 'master' of github.com:cappp666/missing-semester
+
+[33mcommit e672afe461a24ac5bb9b128aed30826802039f49[m
+Author: cappp666 <117030435+cappp666@users.noreply.github.com>
+Date:   Sun Nov 6 17:33:28 2022 +0800
+
+    Update README.md
+
+[33mcommit ad59423a337d56b3161daaf81f4ef44854ee2e6d[m
+Author: cappp666 <117030435+cappp666@users.noreply.github.com>
+Date:   Sun Nov 6 15:55:58 2022 +0800
+
+    Update git.md
+
+[33mcommit 517edbef9eb272bd35fe5e31c7df70bd430404bc[m
+Author: cappp666 <117030435+cappp666@users.noreply.github.com>
+Date:   Sun Nov 6 15:54:33 2022 +0800
+
+    Add files via upload
+
+[33mcommit 76a3d56423b11fdc6ee12695a833e151edfa7557[m
+Author: cappp666 <117030435+cappp666@users.noreply.github.com>
+Date:   Sun Nov 6 15:43:29 2022 +0800
+
+    Add files via upload
+
+[33mcommit 3daa115a0e3cf849f5c203c5c01d99a392f856cc[m
+Author: cappp666 <117030435+cappp666@users.noreply.github.com>
+Date:   Sun Nov 6 15:43:06 2022 +0800
+
+    Delete git.md
+
+[33mcommit 4a216f55dcc2ba5f3eacbb29746199a416966062[m
+Author: cappp666 <117030435+cappp666@users.noreply.github.com>
+Date:   Sun Nov 6 15:31:32 2022 +0800
+
+    add file
+
+[33mcommit 59bd9441336da754f850dd68a19ee7a7427f527b[m
+Author: cappp <2932908273@qq.com>
+Date:   Sun Nov 6 15:29:19 2022 +0800
+
+    git
+
+[33mcommit 15bf64723e228b4289a202d7de5cdffd675c5da2[m
+Author: younmon <117288057+younmon@users.noreply.github.com>
+Date:   Sun Nov 6 12:45:42 2022 +0800
+
+    Delete tet2
+
+[33mcommit ddbb91a76645af5bf5824c5e13ac032b40840ec4[m
+Author: younmon <117288057+younmon@users.noreply.github.com>
+Date:   Sun Nov 6 12:45:17 2022 +0800
+
+    Delete test1
+
+[33mcommit c03825c8298a997fd0b7e5b5e0a968e55095da43[m
+Author: younmon <117288057+younmon@users.noreply.github.com>
+Date:   Sun Nov 6 12:43:22 2022 +0800
+
+    Add README.md
+
+[33mcommit ed71fbe672ce5ef9db59994ca12f1ef745f192b9[m
+Author: younmon <117288057+younmon@users.noreply.github.com>
+Date:   Sun Nov 6 12:36:24 2022 +0800
+
+    Create tet2
+
+[33mcommit 901e367926c865456f8fe0445da591b37577281d[m
+Author: younmon <117288057+younmon@users.noreply.github.com>
+Date:   Sun Nov 6 12:31:29 2022 +0800
+
+    Create test1
+
+[33mcommit 1c3d4d8c8a27a72e4da61037de77163fed109cc9[m
+Author: Wilson <chenhanjal@gmail.com>
+Date:   Sun Nov 6 12:04:11 2022 +0800
+
+    finished
+
+[33mcommit b00fe2434b4d46984f613d69638719900420c735[m
+Author: GuraMumei <2665141394@qq.com>
+Date:   Sun Nov 6 10:18:46 2022 +0800
+
+    2
+
+[33mcommit b3c1fa0e51c1db8cb779c141594b501dcf34c443[m
+Author: GuraMumei <2665141394@qq.com>
+Date:   Sun Nov 6 01:25:02 2022 +0800
+
+    aaa
+
+[33mcommit 2f64fa71e5e193a549feef93b553ae45cac4d480[m
+Author: cappp666 <117030435+cappp666@users.noreply.github.com>
+Date:   Sun Nov 6 01:15:59 2022 +0800
+
+    Update README.md
+
+[33mcommit 2867ff1ed4284fccd478b1955ebe6980d6d118ca[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Sat Nov 5 21:44:28 2022 +0800
+
+    Modify as required
+
+[33mcommit 357e23943a4c4daca04b586a6cf7226dab01d2fb[m
+Author: Wilson <chenhanjal@gmail.com>
+Date:   Sat Nov 5 17:54:43 2022 +0800
+
+    first commit
+
+[33mcommit e00b267536244fb1f1773a33bb5516128d34768c[m
+Author: cc0h <792166012@qq.com>
+Date:   Sat Nov 5 17:02:31 2022 +0800
+
+    move the files into a folder
+
+[33mcommit 9890835dc68d7dd34d60b89acd74e0b449a642fe[m
+Merge: f0b0040 9a0095d
+Author: cc0h <792166012@qq.com>
+Date:   Sat Nov 5 16:59:54 2022 +0800
+
+    Merge branch 'cc0h' of https://github.com/cc0h/missing-semester into cc0h
+
+[33mcommit f0b0040928f9b248f849dab2903ee21695c5832d[m
+Author: cc0h <792166012@qq.com>
+Date:   Sat Nov 5 16:57:36 2022 +0800
+
+    add a folder
+
+[33mcommit 9a0095d03eb04ae960c770e2706ea34d6481cec4[m
+Author: cc0h <116955603+cc0h@users.noreply.github.com>
+Date:   Sat Nov 5 15:54:01 2022 +0800
+
+    Delete cch.me
+    
+    There is a README.md that is exactly the same.
+
+[33mcommit 027da5f978d0a9d39aa07a1d4a99c40a98b6a185[m
+Author: cc0h <792166012@qq.com>
+Date:   Sat Nov 5 15:46:45 2022 +0800
+
+    a fix to a silly mistake
+
+[33mcommit 68595aee8e67634178ada05e885e6be5d504140f[m
+Author: cch <792166012@qq.com>
+Date:   Sat Nov 5 15:18:23 2022 +0800
+
+    the second commit include other files
+
+[33mcommit 39ffcc6c3e2c37a499e5cc4404aa155f8ae1fa4f[m
+Author: cch <792166012@qq.com>
+Date:   Sat Nov 5 15:12:06 2022 +0800
+
+    the first commit include a txt
+
+[33mcommit 9b4c6ed0d8f5321c23a09d21c36ac0ee56681815[m
+Author: liyixin135 <421159734@qq.com>
+Date:   Sat Nov 5 14:11:22 2022 +0800
+
+    测试
+
+[33mcommit 9fc5c8570529b4d1369abc2ee4c9e635e18f6307[m
+Author: cch <792166012@qq.com>
+Date:   Sat Nov 5 12:03:08 2022 +0800
+
+    Revert "a commit for 2022_finalproject"
+    
+    This reverts commit 4d3023cc183d21c276e17559adb9ba2caac72ac2.
+
+[33mcommit 4d3023cc183d21c276e17559adb9ba2caac72ac2[m
+Author: cch <792166012@qq.com>
+Date:   Sat Nov 5 11:49:20 2022 +0800
+
+    a commit for 2022_finalproject
+
+[33mcommit 883f0ff4f08a4d63e25ad93f0418d3b236098444[m
+Author: cch <792166012@qq.com>
+Date:   Sat Nov 5 11:45:42 2022 +0800
+
+    Revert "a commit for the 2022_finalproject"
+    
+    This reverts commit 34f4d9a92e536726286d1eca404fd6064dab9cf8.
+
+[33mcommit 34f4d9a92e536726286d1eca404fd6064dab9cf8[m
+Author: cch <792166012@qq.com>
+Date:   Sat Nov 5 11:24:02 2022 +0800
+
+    a commit for the 2022_finalproject
+
+[33mcommit ee7d6a2f1a90404f884525e6f5f0ec2572e471fd[m
+Author: ZH970 <1210106679@qq.com>
+Date:   Fri Nov 4 23:09:32 2022 +0800
+
+    Test
+
+[33mcommit 5a830c4b16e5cb2b3ad86c87d6550e81dcbd819d[m
+Author: BlanchardLj <116863539+BlanchardLj@users.noreply.github.com>
+Date:   Fri Nov 4 14:16:39 2022 +0800
+
+    Update git.md
+
+[33mcommit 574ef3ce2b8285c4a263a0f942cd3f7829edf155[m
+Author: BlanchardLj <116863539+BlanchardLj@users.noreply.github.com>
+Date:   Fri Nov 4 14:16:20 2022 +0800
+
+    Update git.md
+
+[33mcommit 8cc40993231ee04ee765bc334d3df9d3f3a9430e[m
+Author: BlanchardLj <116863539+BlanchardLj@users.noreply.github.com>
+Date:   Fri Nov 4 14:14:39 2022 +0800
+
+    Update git.md
+
+[33mcommit 37c6bb8bf3ab607db5bc173fae51ff934fbf9c83[m
+Author: BlanchardLj <116863539+BlanchardLj@users.noreply.github.com>
+Date:   Fri Nov 4 14:13:26 2022 +0800
+
+    Add final-porject
+
+[33mcommit 255c64f7a004c9173886d123afddfc8005619959[m
+Author: kr3hy <754643559@qq.com>
+Date:   Fri Nov 4 13:04:18 2022 +0800
+
+    repair the wrong test
+
+[33mcommit 95caebe2da010d9193953293b045480566d4a94c[m
+Merge: df52b2e 380a229
+Author: kr3hy <754643559@qq.com>
+Date:   Thu Nov 3 22:30:25 2022 +0800
+
+    Merge branch 'master' of https://github.com/Kr3hy/missing-semester
+
+[33mcommit df52b2ee6c1798821d4f75a3420c64d20a80d421[m
+Author: kr3hy <754643559@qq.com>
+Date:   Thu Nov 3 22:29:58 2022 +0800
+
+    update path
+
+[33mcommit 380a229768ea48584052f45bd79b2130a8dc2127[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Thu Nov 3 21:22:50 2022 +0800
+
+    Delete 2022-finalproject/git_Kr3hy directory
+
+[33mcommit 57124a42520ac996da8a4d314fa61a8a5d40e165[m
+Author: kr3hy <754643559@qq.com>
+Date:   Thu Nov 3 21:21:46 2022 +0800
+
+    update folder
+
+[33mcommit d685c5d7a19f9e0a76927ae504305b11de4f0f87[m
+Author: kr3hy <754643559@qq.com>
+Date:   Thu Nov 3 21:18:16 2022 +0800
+
+    Kr3hy 's git Doc
+
+[33mcommit 56e3ce3e68be7b91839160be8978e444891e859c[m
+Author: 余文基 <3482197316@qq.com>
+Date:   Thu Nov 3 16:29:39 2022 +0800
+
+    delete text.txt
+
+[33mcommit 988951df3697d696d269b49997a0e10d7b4a311c[m
+Author: 余文基 <3482197316@qq.com>
+Date:   Thu Nov 3 16:13:30 2022 +0800
+
+    test
+
+[33mcommit f1f7788d2f7836bbbb65a4c87dc3afcc56e4a882[m
+Author: kr3hy <754643559@qq.com>
+Date:   Thu Nov 3 15:46:35 2022 +0800
+
+    README
+
+[33mcommit f536fb5ebda0f9b34a9bf69135bf126e65e0b0eb[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Thu Nov 3 15:43:19 2022 +0800
+
+    Delete test.txt
+
+[33mcommit cf4f9e8702c2a784d257bec7a2adda05688af8f9[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Thu Nov 3 15:43:10 2022 +0800
+
+    Delete Kr3hy_Doc
+
+[33mcommit fffc321b01856c35be768c4a59a337bc826fb754[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Thu Nov 3 15:31:29 2022 +0800
+
+    Delete my_thought.txt
+
+[33mcommit 7682a76c5c8057ed5f6c9d351fb25fb88b70af83[m
+Merge: 497b6b9 ed1a7dd
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Thu Nov 3 12:45:15 2022 +0800
+
+    Merge pull request #66 from irvingskr/master
+    
+    Update 2022-finalproject.yml
+
+[33mcommit ed1a7dd70ce3aa239a42ad009ee281dd09e464c4[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Thu Nov 3 12:44:01 2022 +0800
+
+    Update 2022-finalproject.yml
+    
+    Format the workflow file.
+
+[33mcommit 1c94ec8f0b18fc1602d9d4d7bd70d0526675d582[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Thu Nov 3 12:34:28 2022 +0800
+
+    Update 2022-finalproject.yml
+    
+    Delete the check qualifications of branch master.
+
+[33mcommit 54cb29e88d97ce61a962f2e28c0b40ac8c24d944[m
+Merge: 9558b9d 2b0051d
+Author: kr3hy <754643559@qq.com>
+Date:   Thu Nov 3 01:40:44 2022 +0800
+
+    Merge branch 'master' of https://github.com/Kr3hy/missing-semester
+
+[33mcommit 9558b9dd5dd5f725319a18ac529769937be23009[m
+Author: kr3hy <754643559@qq.com>
+Date:   Thu Nov 3 01:39:55 2022 +0800
+
+    another test
+
+[33mcommit 2b0051d9304676de3ea2a818ea4fe8e2f45d34ec[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Thu Nov 3 01:37:55 2022 +0800
+
+    Delete 2022-finalproject/Kr3hy 's PR(vision 翁泓楷) directory
+
+[33mcommit 9e67029fa1281116f94ab5f8dd0ceed3aa55180e[m
+Author: kr3hy <754643559@qq.com>
+Date:   Thu Nov 3 01:10:58 2022 +0800
+
+    mypr
+
+[33mcommit e4572bfff3f147049283334ecd6c9252c53adee4[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Wed Nov 2 23:43:48 2022 +0800
+
+    考核文档
+
+[33mcommit e5e9ba9c1fae19490cd02ac41467eff2a2302806[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Wed Nov 2 23:42:56 2022 +0800
+
+    test
+    
+    test
+
+[33mcommit d3bef349013b7bd9e7a8e25f29453e0097dcdb35[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Wed Nov 2 23:42:24 2022 +0800
+
+    Delete Kr3hy 's PR(vision 翁泓楷)
+
+[33mcommit 71b93bca280cede4bffdd949a637817cda2c968e[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Wed Nov 2 23:38:49 2022 +0800
+
+    test
+
+[33mcommit 33e7987d35a1f43ad1c2abdfbcdfc72b7c1f3e49[m
+Merge: 1259368 497b6b9
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Wed Nov 2 23:01:18 2022 +0800
+
+    Merge branch 'gdut-dynamic-x:master' into master
+
+[33mcommit 12593684c73729611cf7b903d70bbb977a852819[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Wed Nov 2 22:58:59 2022 +0800
+
+    Delete Kr3hy 's PR(vision 翁泓楷)
+
+[33mcommit e40bd714b6bce624d425506fe4cf1c7260df6fd1[m
+Author: Kr3hy <116450695+Kr3hy@users.noreply.github.com>
+Date:   Wed Nov 2 22:40:04 2022 +0800
+
+    Create Kr3hy 's PR(vision 翁泓楷)
+
+[33mcommit 497b6b970ac4d757d786f8b2585d2d3e4b22bb31[m
+Merge: f9c867d 99775a1
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 20:01:21 2022 +0800
+
+    Merge pull request #61 from irvingskr/master
+    
+    Update README.md
+
+[33mcommit 99775a1667d8411f80884815d96394f1ef851dd1[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 19:59:07 2022 +0800
+
+    Update README.md
+    
+    Delete the task of environment variable and connectivity detection script.
+
+[33mcommit 942cfc3e2f6795feccb0f0b56dfef7ab5a90e463[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 19:55:36 2022 +0800
+
+    Delete test.txt
+
+[33mcommit 959867d7da305e31856b83d968ec81803278f7a3[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 18:08:36 2022 +0800
+
+    Create test.txt
+    
+    Test for the second time.
+
+[33mcommit f9c867d17fb6c6bedd3d6265472783158b786f3f[m
+Merge: 8d2e23c 3f2ae09
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 18:07:02 2022 +0800
+
+    Merge pull request #59 from irvingskr/master
+    
+    Delete test.txt
+
+[33mcommit 3f2ae09753850d302fef4a97790671f464f54964[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 18:03:21 2022 +0800
+
+    Delete test.txt
+
+[33mcommit 8d2e23c9d94770cb0ae80eb9de8846bc608c493e[m
+Merge: 7029122 8a10744
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 17:54:58 2022 +0800
+
+    Merge pull request #58 from irvingskr/master
+    
+    Update 2021-finalproject.yml to 2022-finalproject.yml
+
+[33mcommit 8a107441528871cdd87a626f896681a5b83df5e6[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 17:53:44 2022 +0800
+
+    Update 2022-finalproject.yml
+    
+    The check will run only if the pull request have the label with 2022-finalproject.
+
+[33mcommit 16b69232656582408c8ec2cc0fe02f0475658564[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 17:45:58 2022 +0800
+
+    Create test.txt
+
+[33mcommit a9f3e649b092d0eab42368e7c39f8c4cba4d5c08[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 17:16:08 2022 +0800
+
+    Delete test.txt
+
+[33mcommit c30cdb6a2031de9a94bff3633211feb2abf85b75[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 17:14:09 2022 +0800
+
+    Create test.txt
+
+[33mcommit fc7076d7385058bb55851985e10910b30e8af126[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 17:07:21 2022 +0800
+
+    Update 2022-finalproject.yml
+    
+    Add workflow_dispatch.
+
+[33mcommit 71f8c04cb9ea9540280d43a0f31343efecead042[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 16:44:21 2022 +0800
+
+    Update and rename 2021-finalproject.yml to 2022-finalproject.yml
+    
+    Change the file name in filters from 2021 to 2022.
+
+[33mcommit 7029122420978b596120a448147342dff97fb719[m
+Merge: f75312a e8bfc61
+Author: LiHanTing <75188358+LHTcode@users.noreply.github.com>
+Date:   Wed Nov 2 13:37:06 2022 +0800
+
+    Merge pull request #57 from irvingskr/master
+    
+    Update the version of final_project to 2022
+
+[33mcommit e8bfc618f6b52fa6815e3a8fed8db0a05ff48f3a[m
+Author: LiHanTing <75188358+LHTcode@users.noreply.github.com>
+Date:   Wed Nov 2 13:36:25 2022 +0800
+
+    Update format.
+
+[33mcommit 46b3b3d3ce30d21d6c97bf2542f13745cc5f8d76[m
+Author: LiHanTing <75188358+LHTcode@users.noreply.github.com>
+Date:   Wed Nov 2 13:33:32 2022 +0800
+
+    Updated PR requirements.
+
+[33mcommit 0d8920456619d64f2c6d2855a090bf6184020f78[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 00:49:59 2022 +0800
+
+    Update README.md
+    
+    Add task of stage 2.
+
+[33mcommit fe8782168acc3c64d380593f74bf2bdbdcf5c46a[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 2 00:46:21 2022 +0800
+
+    Update README.md
+    
+    Add task of stage 2.
+
+[33mcommit 4be57cd4707cf4b479681726bf1a5e680fe78ea7[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Tue Nov 1 23:26:52 2022 +0800
+
+    Delete _2021-finalproject directory
+    
+    Delete 2021_version to prevent plagiarism.
+
+[33mcommit fc4c45fd3e1f079f9c383295321fac18fecac223[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Tue Nov 1 23:24:37 2022 +0800
+
+    Update and rename _2021-finalproject/README.md to 2022-finalproject/README.md
+    
+    Update the version to 2022.
+
+[33mcommit e1f1a8923a9bdd34bffd725626c6e39c47551f10[m
+Author: kr3hy <754643559@qq.com>
+Date:   Mon Oct 24 01:34:30 2022 +0800
+
+    test
+
+[33mcommit 316bb2da05a586e3df04aa18b39ad5ff21453aa5[m
+Author: kr3hy <754643559@qq.com>
+Date:   Mon Oct 24 01:14:12 2022 +0800
+
+    kr3hy
+
+[33mcommit f75312a32c64ffd63b753e7b9013033265063f35[m
+Author: YuuinIH <37664092+YuuinIH@users.noreply.github.com>
+Date:   Sun Oct 16 01:59:24 2022 +0800
+
+    Update command-line.md
+
+[33mcommit f10476b9340a3c1f5855befacf19b55d7f037769[m
+Author: YuuinIH <37664092+YuuinIH@users.noreply.github.com>
+Date:   Sat Oct 15 13:16:03 2022 +0800
+
+    update date
+
+[33mcommit 17d22b6582582af0756cdc7c9b9b5100d7ad3c64[m
+Author: YuuinIH <37664092+YuuinIH@users.noreply.github.com>
+Date:   Fri Oct 14 21:17:05 2022 +0800
+
+    Update course-shell.md
+
+[33mcommit 1c5d08ccb23404c283e7d910b9573a1375dfbf79[m
+Author: YuuinIH <37664092+YuuinIH@users.noreply.github.com>
+Date:   Tue Oct 11 22:54:05 2022 +0800
+
+    Update command-line.md
+
+[33mcommit 5abc3e04317f5e60fc6dae8a13ce8bdb14a2df27[m
+Author: YuuinIH <37664092+YuuinIH@users.noreply.github.com>
+Date:   Tue Oct 11 14:20:03 2022 +0800
+
+    Update command-line.md
+
+[33mcommit cd4161977c996dc81a22405d2300d0fe1f7380a1[m
+Author: YuuinIH <37664092+YuuinIH@users.noreply.github.com>
+Date:   Tue Oct 11 14:10:08 2022 +0800
+
+    Update class date
+
+[33mcommit 396f1586807acb1b38b17e4fd781bd0714d531ee[m
+Author: YuuinIH <37664092+YuuinIH@users.noreply.github.com>
+Date:   Tue Oct 11 14:02:17 2022 +0800
+
+    Update to 2022
+
+[33mcommit 86df68a8017099b22ead45bf28a796bc4dd72286[m
+Author: YuuinIH <37664092+YuuinIH@users.noreply.github.com>
+Date:   Tue Oct 11 13:57:37 2022 +0800
+
+    Update index.md
+
+[33mcommit 1d095a5ae9ef169e555053106b4e426cbdf53503[m
+Author: YuuinIH <37664092+YuuinIH@users.noreply.github.com>
+Date:   Tue Oct 11 13:48:01 2022 +0800
+
+    update to 2022
+
+[33mcommit 0ff296215a66cbe82d8cc27a7708a8d73a311334[m
+Author: Yamabukiss <91398981+Yamabukiss@users.noreply.github.com>
+Date:   Thu Nov 11 19:18:34 2021 +0800
+
+    It's the work for the final project from Yamabukiss (#21)
+
+[33mcommit 4cd3a7b617cfdc3e7ba0a706de8f88ccbdee4fb4[m
+Author: 1moule <93637020+1moule@users.noreply.github.com>
+Date:   Wed Nov 10 21:41:04 2021 +0800
+
+    1moule homework (#26)
+
+[33mcommit e69e8d1824a8f688c7924ffd424d3987a7171983[m
+Author: Koonyu <92536029+Koonyu@users.noreply.github.com>
+Date:   Wed Nov 10 13:07:38 2021 +0800
+
+    Koonyu's homework for 2021-finalproject (#50)
+
+[33mcommit 82478310bafb8e0a62bf70c87f65267abca84765[m
+Author: SparkChen <54394620+SparkChen927@users.noreply.github.com>
+Date:   Wed Nov 10 11:17:02 2021 +0800
+
+    Homework for 2021-finalproject (#36)
+
+[33mcommit a07b71f898f8cc0ec932b510e431db664a6555f2[m
+Author: irvingskr <93626046+irvingskr@users.noreply.github.com>
+Date:   Wed Nov 10 00:45:45 2021 +0800
+
+    irvingskr-2021-finalproject (#17)
+
+[33mcommit 6e880b67ea7b10f29f8aa46ce828a3f3ff039c81[m
+Author: Chenhui <92495063+chenhuiYu00@users.noreply.github.com>
+Date:   Tue Nov 9 22:31:00 2021 +0800
+
+    chenhuiYu00-2021-finalproject (#9)
+    
+    Co-authored-by: yuchen <116358@qq>
+
+[33mcommit 1ef51c1c2a2f31463661adae78bf0441303cdc35[m
+Author: LYD-cubing <81633730+LYD-cubing@users.noreply.github.com>
+Date:   Tue Nov 9 21:14:12 2021 +0800
+
+    LYD's homework (#23)
+    
+    Co-authored-by: 晴天 <740854989@qq.com>
+
+[33mcommit 82d1edff2fe6950f47fd8a422a2da071480a2f1f[m
+Author: Ksals <2217210958@qq.com>
+Date:   Mon Nov 8 19:44:54 2021 +0800
+
+    Homework of 2021-finalproject (#47)
+
+[33mcommit 5602f154ee7f062fa529ee9bc7550ffb55bdee56[m
+Author: 沐 <MuZhou233@outlook.com>
+Date:   Sun Nov 7 12:29:52 2021 +0800
+
+    Change finalproject folder name
+
+[33mcommit 28fa71b447c9ebb99c2a08b8bdd953745ac7d2b8[m
+Author: 沐 <MuZhou233@outlook.com>
+Date:   Thu Nov 4 11:22:14 2021 +0800
+
+    Update README.md
+
+[33mcommit 07826688bd63e1ee3265febee9971384e3cc2bda[m
+Author: 沐 <MuZhou233@outlook.com>
+Date:   Thu Nov 4 10:04:32 2021 +0800
+
+    Update 2021-finalproject.yml
+
+[33mcommit d71f7ab946df65e77b43d8bf83192ea735db8a59[m
+Author: 沐 <MuZhou233@outlook.com>
+Date:   Thu Nov 4 09:56:39 2021 +0800
+
+    Create 2021-finalproject.yml
+
+[33mcommit 9e5529940e00895a71bb55db66ec859ddb4bc4d8[m
+Author: MuZhou233 <MuZhou233@outlook.com>
+Date:   Wed Nov 3 18:28:07 2021 +0800
+
+    update
+    
+    Signed-off-by: MuZhou233 <MuZhou233@outlook.com>
+
+[33mcommit abd1d69d4e730964404c54f9fa255c6155c5bf8d[m
+Author: MuZhou233 <MuZhou233@outlook.com>
+Date:   Sun Oct 31 12:12:07 2021 +0800
+
+    Update
+    
+    Signed-off-by: MuZhou233 <MuZhou233@outlook.com>
+
+[33mcommit 9e7377efbc904e43b7ff90bf24146cc8ad1ad3a1[m
+Author: MuZhou233 <MuZhou233@outlook.com>
+Date:   Sat Oct 30 12:58:06 2021 +0800
+
+    update
+    
+    Signed-off-by: MuZhou233 <MuZhou233@outlook.com>
+
+[33mcommit 7c24657ed0d6503471fac1b334ed746a5508c14a[m
+Author: MuZhou233 <MuZhou233@outlook.com>
+Date:   Sat Oct 23 16:41:46 2021 +0800
+
+    Update
+    
+    Signed-off-by: MuZhou233 <MuZhou233@outlook.com>
+
+[33mcommit a7015e1c7dc581b81703ed8a5b0ee7ed2ac505e9[m
+Author: MuZhou233 <MuZhou233@outlook.com>
+Date:   Sat Oct 23 16:12:30 2021 +0800
+
+    Update
+    
+    Signed-off-by: MuZhou233 <MuZhou233@outlook.com>
+
+[33mcommit e5c95ee661dfaa11dfbd2393a9321dec6c61d7c0[m
+Author: MuZhou233 <muzhou233@outlook.com>
+Date:   Thu Oct 21 17:14:13 2021 +0800
+
+    Update
+    
+    Signed-off-by: MuZhou233 <muzhou233@outlook.com>
+
+[33mcommit d3b22b3b11182ce956635cccf332e9b826d8502e[m
+Author: MuZhou233 <MuZhou233@outlook.com>
+Date:   Wed Oct 20 00:55:26 2021 +0800
+
+    fix url
+    
+    Signed-off-by: MuZhou233 <MuZhou233@outlook.com>
+
+[33mcommit 003013ee8e291b57aac2c4ccbe27220a2524c698[m
+Author: MuZhou233 <MuZhou233@outlook.com>
+Date:   Wed Oct 20 00:38:19 2021 +0800
+
+    Update
+    
+    Signed-off-by: MuZhou233 <MuZhou233@outlook.com>
+
+[33mcommit 1c00b5290aacdd7330a58c07d278178a02522bb5[m
+Author: MuZhou233 <MuZhou233@outlook.com>
+Date:   Sun Oct 17 16:41:01 2021 +0800
+
+    Update editors
+    
+    Signed-off-by: MuZhou233 <MuZhou233@outlook.com>
+
+[33mcommit 24846ec6115b0098900a351d46473ad7d9e2d891[m
+Author: MuZhou233 <MuZhou233@outlook.com>
+Date:   Wed Oct 13 16:36:20 2021 +0800
+
+    Fix url
+    
+    Signed-off-by: MuZhou233 <MuZhou233@outlook.com>
+
+[33mcommit e04ef03327664ca467c8c9a7d979a0a878adfd45[m
+Author: MuZhou233 <MuZhou233@outlook.com>
+Date:   Wed Oct 13 16:30:39 2021 +0800
+
+    Update course-shell
+    
+    Signed-off-by: MuZhou233 <MuZhou233@outlook.com>
+
+[33mcommit bb82c2af8dd18a32044ea7a132463d37a63600e0[m
+Author: MuZhou233 <muzhou233@outlook.com>
+Date:   Wed Oct 13 12:20:02 2021 +0800
+
+    Fix url
+    
+    Signed-off-by: MuZhou233 <muzhou233@outlook.com>
+
+[33mcommit b53d58605b20eb77a4f2e82643573e3368ae083b[m
+Author: MuZhou233 <muzhou233@outlook.com>
+Date:   Wed Oct 13 12:14:45 2021 +0800
+
+    Adjust for github pages
+    
+    Signed-off-by: MuZhou233 <muzhou233@outlook.com>
+
+[33mcommit 39a84ebf90b4a72ce9bc95be193b4ba95e71a1d1[m
+Author: MuZhou233 <muzhou233@outlook.com>
+Date:   Wed Oct 13 12:10:34 2021 +0800
+
+    Adjust for github pages
+    
+    Signed-off-by: MuZhou233 <muzhou233@outlook.com>
+
+[33mcommit 18603883f3970b954cd76d42cb3973164fcca4c0[m
+Author: MuZhou233 <muzhou233@outlook.com>
+Date:   Wed Oct 13 12:02:00 2021 +0800
+
+    Adjust  content for DynamicX 2021 autumn
+    
+    Signed-off-by: MuZhou233 <muzhou233@outlook.com>
+
+[33mcommit 07a5af9548ad288670bf07120b6d9ff4665f3ad5[m
+Merge: e888fc3 1c73584
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Sep 11 11:26:30 2022 +0800
+
+    Merge pull request #124 from Reed-yang/patch-1
+    
+    改变省略号为更符合习惯的用法
+
+[33mcommit 1c73584e4a92367754f6b83992c1401210493d2d[m
+Author: Reed-yang <88141649+Reed-yang@users.noreply.github.com>
+Date:   Fri Sep 9 15:06:11 2022 +0800
+
+    改变省略号为更符合习惯的用法
+
+[33mcommit e888fc3c2b52875d204f6d43bf7cba375ea03cbd[m
+Merge: 5f20165 0e8c1b8
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Aug 7 21:57:01 2022 +0800
+
+    Merge pull request #122 from Cyl18/master
+    
+    fix typo in data-wrangling.md
+
+[33mcommit 0e8c1b876d288712eb5425e62206a1ffee424fa6[m
+Author: NostalgiaCyan <cyl18a@gmail.com>
+Date:   Wed Aug 3 22:57:06 2022 +0800
+
+    fix typo in data-wrangling.md
+
+[33mcommit 5f201651ba5a8a731565486a4cd12e2f462ae7b9[m
+Merge: 29dcb16 1173f54
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed Jul 20 20:24:10 2022 +0800
+
+    Merge pull request #120 from CCXXXI/patch-1
+    
+    fix typo
+
+[33mcommit 1173f54c48ae69d7c3dda01d37f64a4abaed38d1[m
+Author: CCXXXI <ccxxxi@qq.com>
+Date:   Tue Jul 19 13:52:41 2022 +0800
+
+    fix typo
+
+[33mcommit 29dcb16a1a069444f8f74d5557e3848fece191dc[m
+Merge: 86226d2 17aad80
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jun 25 11:18:53 2022 +0800
+
+    Merge pull request #119 from a2677331/patch-1
+    
+    安全和密码学的课后练习 1 中的翻译问题
+
+[33mcommit 17aad8098263f9d422567e92613270d6d4bbf98a[m
+Author: Jian Zhong <zhongjian089@gmail.com>
+Date:   Wed Jun 22 13:35:37 2022 -0700
+
+    安全和密码学的课后练习 1 中的翻译问题
+    
+    安全和密码学的课后练习 1 中：
+    “假设一个密码是从四个小写的单词拼接组成” 的 “从” 应改为 “由”。
+
+[33mcommit 86226d2acd0dfa354946b9dd3e3d4595560f9663[m
+Merge: 80b53fa 8f22b23
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Jun 5 22:27:10 2022 +0800
+
+    Merge pull request #118 from wolfyzhang-github/master
+    
+    修复一个错别字和一个语法错误
+
+[33mcommit 8f22b23b05f3416cee3772971f2766706785515d[m
+Author: wolfyzhang-github <53999569+wolfyzhang-github@users.noreply.github.com>
+Date:   Fri Jun 3 22:12:37 2022 +0800
+
+    修复一个错别字和一个语法错误
+
+[33mcommit 80b53fac47f1aaed70603e0ec49142d3fb660e4c[m
+Merge: 83aa769 6b4d8a3
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 28 15:30:56 2022 +0800
+
+    Merge pull request #116 from Fitz161/patch-2
+    
+    remove an extra backquote
+
+[33mcommit 83aa769ad84d12da92fd7e5c724873c61743f0e8[m
+Merge: 00cd253 ffe3316
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 28 15:30:47 2022 +0800
+
+    Merge pull request #117 from Fitz161/patch-3
+    
+    typo `如何` => `如果`
+
+[33mcommit 00cd2536f40822b403827b48cf9d0d8fe9ca29a1[m
+Merge: 682264e 7a517de
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 28 15:30:39 2022 +0800
+
+    Merge pull request #115 from Fitz161/patch-1
+    
+    typo `shh` => `ssh`
+
+[33mcommit ffe3316a2e2cd63738d8daaf1cd70fd8ef10878e[m
+Author: Fitz161 <Fitz1611@outlook.com>
+Date:   Thu May 26 15:46:00 2022 +0800
+
+    typo `如何` => `如果`
+
+[33mcommit 6b4d8a3ee1de302229f2505a1cb7adc7ded91993[m
+Author: Fitz161 <Fitz1611@outlook.com>
+Date:   Wed May 25 22:27:33 2022 +0800
+
+    remove an extra backquote
+
+[33mcommit 7a517de3c5dada5a04c3161dd893bd265d5fdb81[m
+Author: Fitz161 <Fitz1611@outlook.com>
+Date:   Wed May 25 15:33:25 2022 +0800
+
+    typo `shh` => `ssh`
+
+[33mcommit 682264e057f192e2d67f7f8130c5fa16bebd4a99[m
+Merge: fd46bdf 27c7f02
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon May 16 21:53:11 2022 +0800
+
+    Merge pull request #111 from ek1ng/patch-1
+    
+    修改命令行环境翻译问题
+
+[33mcommit fd46bdf7b0ae368b6e6616faef9d92e38516afec[m
+Merge: 72b6459 1423209
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu Apr 28 20:47:59 2022 +0800
+
+    Merge pull request #113 from elementsix/git-undoing-change
+    
+    补充git restore命令
+
+[33mcommit 1423209e6b564929d43100e2fc533cda63585f07[m
+Author: liyong <elementsixsoft@gmail.com>
+Date:   Wed Apr 27 01:34:15 2022 +0800
+
+    补充git restore命令
+
+[33mcommit 27c7f0232ba289c69f0726ee0ec14ca6d5218a80[m
+Author: ek1ng <761042182@qq.com>
+Date:   Mon Apr 4 12:01:38 2022 +0800
+
+    修改命令行环境翻译问题
+    
+    英语原文中是有写SIGTSTP是什么意思，去掉了英语原文中这句导致上下文看起来特别奇怪，前面在说SIGSTOP，而后面又说SIGTSTP，读者很难搞清楚两者到底是什么关系，甚至会认为后面是不是写错了，所以后面这句对SIGTSTP和STGSTOP的关系的解释应该要加上
+
+[33mcommit 72b645925e1aa37959e3dd40baf2dbcaf6f93b4e[m
+Merge: 3fa3fc8 676adbd
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Apr 3 22:56:07 2022 +0800
+
+    Merge pull request #110 from xuke-hat/patch-1
+    
+    修改翻译问题
+
+[33mcommit 676adbdaf00f7c2f0780cf9b757bf2bd047e1960[m
+Author: hat <35095001+xuke-hat@users.noreply.github.com>
+Date:   Sat Apr 2 18:07:27 2022 +0800
+
+    修改翻译问题
+
+[33mcommit d78a991a4193a56f97725d234019d3c98d9e557c[m
+Author: hat <35095001+xuke-hat@users.noreply.github.com>
+Date:   Sat Apr 2 17:14:28 2022 +0800
+
+    修改翻译问题
+
+[33mcommit 3fa3fc8982f43417a3d0d55e2403c5bb7b69c259[m
+Merge: bb28abf adf979b
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Mar 13 22:52:43 2022 +0800
+
+    Merge pull request #108 from Geno1024/patch-1
+    
+    (typo) in grammar.
+
+[33mcommit adf979bba7756cb7058cfbf932716335b73a98cc[m
+Merge: 0b99377 bb28abf
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Mar 13 22:52:33 2022 +0800
+
+    Merge branch 'master' into patch-1
+
+[33mcommit bb28abf406fbe832df2404fbea2af0d296f9fcfb[m
+Merge: b001a30 f6ad97e
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Mar 13 22:51:49 2022 +0800
+
+    Merge pull request #104 from Tinyu-Zhao/patch-1
+    
+    remove an extra comma
+
+[33mcommit b001a30cb4951fc6f70678f9cad1aa7e6e379b68[m
+Merge: 0a07f46 00de8f4
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Mar 13 22:51:30 2022 +0800
+
+    Merge pull request #105 from davidfeng88/patch-1
+    
+    typo `kill -t` => `kill -l`
+
+[33mcommit 0a07f4610d98f751ad146bb3dd6834cd392de107[m
+Merge: fecfb79 102debf
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Mar 13 22:50:04 2022 +0800
+
+    Merge pull request #107 from HtwoO/patch-1
+    
+    SSH 客户端 -i 参数接受的应该是私钥文件路径
+
+[33mcommit fecfb79c5f0b8cc88d587efb494473f327f2691b[m
+Merge: a67ab33 cc3fbf8
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Mar 13 22:49:31 2022 +0800
+
+    Merge pull request #103 from yihuajack/y-fixtypo
+    
+    fix type-settings in shell-tools.md
+
+[33mcommit 0b99377f62e1d69d1dcfb6bac26959a445f05254[m
+Author: Y. Z. Chen <754097987@qq.com>
+Date:   Thu Mar 10 17:06:37 2022 +0800
+
+    (typo) in grammar.
+
+[33mcommit 102debfffef5b4a6db620d4056f5f6a2cd2f71b4[m
+Author: HtwoO <hxf.prc+web@gmail.com>
+Date:   Wed Mar 2 22:10:48 2022 +0800
+
+    SSH 客户端 -i 参数接受的应该是私钥文件路径
+    
+    可以去看看 ssh 的 manpage 或者试跑一下，这边 macOS 上遇到的报错是 Permissions 0644 for '/Users/username/.ssh/id_ed25519.pub' are too open ，这个英文版也是需要更新的。
+
+[33mcommit 00de8f4f35ea9bccf2e94f0b0989d7d69952544d[m
+Author: Ge "David" Feng <david.feng.ge@gmail.com>
+Date:   Wed Feb 9 12:23:29 2022 -0500
+
+    typo `kill -t` => `kill -l`
+    
+    see original here https://github.com/missing-semester/missing-semester/blob/master/_2020/command-line.md
+
+[33mcommit f6ad97ead984263bfe496abc93151d388fdda591[m
+Author: Tinyu <Tinyu.Zhao@gmail.com>
+Date:   Thu Feb 3 11:57:39 2022 +0800
+
+    remove an extra comma
+
+[33mcommit cc3fbf8ecbc33777c24b720d7073122f3d1c90b6[m
+Author: yihuajack <yihuajack@live.cn>
+Date:   Tue Jan 25 21:17:21 2022 +0800
+
+    fix type-settings in shell-tools.md
+
+[33mcommit a67ab336e3d2c5756a27e56529546cb9e8f34fa6[m
+Merge: 12b21dd de67a58
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Oct 17 23:43:57 2021 +0800
+
+    Merge pull request #93 from YicunWendyWu/patch-1
+    
+    修改typo
+
+[33mcommit de67a5887d0ec66c3d65ea5a80e7330969dadb9b[m
+Author: Wendy Wu <YicunWendyWu@users.noreply.github.com>
+Date:   Sun Oct 17 00:02:15 2021 +0800
+
+    Update about.md
+
+[33mcommit 12b21dde5c6106e3625ec91749aeff09d071e815[m
+Merge: 94b2ca4 c523622
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon Aug 16 07:10:15 2021 +0800
+
+    Merge pull request #91 from fireairforce/patch-1
+    
+    fix: windows lost in docs
+
+[33mcommit c5236224c55002a5604ecb61dc0cb61be1ca77a3[m
+Author: zoomdong <1344492820@qq.com>
+Date:   Sun Aug 15 01:37:05 2021 +0800
+
+    fix: windows lost in docs
+
+[33mcommit 94b2ca47ca0d1d81bd0408e887ac1bc2a11d8667[m
+Merge: 9b4dca4 b8608d5
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri Aug 6 09:23:35 2021 +0800
+
+    Merge pull request #90 from haodaking/patch-1
+    
+    Shell 工具和脚本的翻译问题
+
+[33mcommit b8608d5c56090f4794666c81d9addbf69d0a65ac[m
+Author: Max <haodaking@163.com>
+Date:   Thu Aug 5 18:18:09 2021 +0800
+
+    Shell 工具和脚本的翻译问题
+    
+    Shell 脚本：
+    “它会创建一个函数并使用cd进入该文件夹”修改为“它会创建一个文件夹并使用cd进入该文件夹”
+
+[33mcommit 9b4dca4332240d560348e4d241fe232f25ee6416[m
+Merge: 45bc5e1 9a374a6
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed Jul 28 21:14:10 2021 +0800
+
+    Merge pull request #88 from jerrylususu/patch-1
+    
+    修正「版本控制(Git)」中的翻译错误
+
+[33mcommit 9a374a6f30ce527c0b3a59ccff06b669f6c50a5a[m
+Author: Neko Null <jerrylu.ms@outlook.com>
+Date:   Tue Jul 13 12:29:50 2021 +0300
+
+    fix typo
+
+[33mcommit 45bc5e1678a294282a68d40646d1f4560bf520e4[m
+Merge: a4480be 8e76602
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon Jun 14 21:21:43 2021 +0800
+
+    Merge pull request #87 from ziranl16/patch-1
+    
+    Update previous invalid url
+
+[33mcommit 8e76602540024e25523830d97715147f5aa7afa9[m
+Author: Liu <62609375+ziranl16@users.noreply.github.com>
+Date:   Sat Jun 12 14:48:36 2021 +0800
+
+    Update previous invalid url
+    
+    Previous URL is invalid. It was redirected to `https://missing-semester-cn.github.io/2020/potpourri/%60https://api.weather.gov/points/42.3604,-71.094%60`.
+    
+    Update the new URL
+
+[33mcommit a4480bed06fb195d49a5db3c89c083e3e3a3864d[m
+Merge: c271dc3 28aaf6f
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 28 20:49:32 2021 +0800
+
+    Merge branch 'master' of https://github.com/missing-semester-cn/missing-semester-cn.github.io
+
+[33mcommit c271dc3023949f2ddef489fb9a7037bb2dbc678e[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 28 20:42:30 2021 +0800
+
+    move solutions to a standalone repo
+
+[33mcommit 28aaf6f5be609c31e526451666dfaead1e480250[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri May 28 20:25:53 2021 +0800
+
+    Update nav.html
+
+[33mcommit bcd3b8e6da24d3a8ea4e4c888f6852a7d5ce67d6[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri May 28 20:20:48 2021 +0800
+
+    Update _config.yml
+
+[33mcommit 5a548db08ff3829d53869b479be51f716d61fd6e[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 28 18:16:21 2021 +0800
+
+    update
+
+[33mcommit 6209a04d89d6e6950be0688861d7f74a3033babf[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 28 15:35:22 2021 +0800
+
+    add solution links to lectures
+
+[33mcommit 5d9ba815410becd4d777f8c690b76eb77dbc8d81[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 28 14:29:45 2021 +0800
+
+    add solution 4
+
+[33mcommit 8b65e1b6841ed03a4c39acd7a01c92a3137c3ca6[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 28 14:26:24 2021 +0800
+
+    add solution 4
+
+[33mcommit f64c5becc16844874de29f9a197872a0db331265[m
+Merge: 90b176f 4d1ee60
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Thu May 27 21:32:11 2021 +0800
+
+    Merge branch 'master' of https://github.com/missing-semester-cn/missing-semester-cn.github.io
+
+[33mcommit 4d1ee60374c36d40447a806e545677587406cb66[m
+Merge: 736feca 08b2544
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu May 27 21:29:21 2021 +0800
+
+    Merge pull request #86 from ZBQtesla/patch-2
+    
+    fix typo (“空格”->“换行符”) in data-wrangling.md
+
+[33mcommit 08b2544db3fd35d997f9134619f511abaf0c1a9a[m
+Author: ZBQtesla <zbqtesla@gmail.com>
+Date:   Wed May 26 22:50:03 2021 +0800
+
+    fix typo (“空格”->“换行符”) in data-wrangling.md
+
+[33mcommit 736feca59c81acb2ef1e3f81ec639b4294525d1f[m
+Merge: cf8fe2f c585974
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 22 12:49:40 2021 +0800
+
+    Merge pull request #84 from yueneiqi/patch-2
+    
+    Update shell-tools-solution.md
+
+[33mcommit c58597487183bc1c6853066eb1a76d997ec25a07[m
+Author: yueneiqi <1046913247@qq.com>
+Date:   Thu May 20 22:04:18 2021 +0800
+
+    Update shell-tools-solution.md
+    
+    1.将“的符号错误修改过来
+    
+    2.`&>`把标准输出和错误一起重定向到一个文件中符合题意，但最后输出的结果并不包含"Everything went according to plan"
+    `2&>`意思我不明白，确实会输出"Everything went according to plan"，问题是"The error was using magic numbers"会输出两次
+    `2>`使用标准错误输出，得到的结果与`2&>`类似，区别"The error was using magic numbers"只输出一次
+
+[33mcommit 90b176f86e5a03ed2472db274147582247822fc2[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Tue May 18 22:35:55 2021 +0800
+
+    init new solution
+
+[33mcommit 95e5246a4896c2f48dfad5f3218b5d34a26276f6[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 16 23:48:02 2021 +0800
+
+    update solution#3
+
+[33mcommit cf8fe2f666b02eeaf5b15e50db0b3e65141e0ac1[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 16 23:40:08 2021 +0800
+
+    update solution#3
+
+[33mcommit cf7dceff6c4de946b412a60ff655c66f16a2e67f[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 16 23:26:26 2021 +0800
+
+    update solution#2
+
+[33mcommit 41ac7b47b616e2b519587465d1b75990cd63ee22[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 16 23:14:49 2021 +0800
+
+    update solution#1
+
+[33mcommit dd7108dd413b101575e4c60c35dce7402d2ad107[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 16 22:48:19 2021 +0800
+
+    add images
+
+[33mcommit 1a1e933da081aaefcb0e9a306edbf06d2df19298[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 16 22:34:20 2021 +0800
+
+    finish debugging solution
+
+[33mcommit 4e7c567d7df9c3dc293c6761eeb34363948cd195[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 16 22:30:41 2021 +0800
+
+    update
+
+[33mcommit de448a51d89a0b759f4218f1c4991dd362fc96e3[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 16 00:11:32 2021 +0800
+
+    security solution fix image
+
+[33mcommit 419b77bd60bab9ee825f53b5a9543ea544f22f34[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 16 00:09:21 2021 +0800
+
+    security solution update
+
+[33mcommit c40bb997835d44dc81974d8bcec4d6a34dd53d8e[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 15 21:25:14 2021 +0800
+
+    update solution status
+
+[33mcommit 673633153b4da583903af35ffde97907e9cabe63[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 15 21:18:43 2021 +0800
+
+    add solutions
+
+[33mcommit 20475a4641e777dacdf1702330d0f996fb8ddbd7[m
+Merge: 4a53b2e f5a237a
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 15 19:42:29 2021 +0800
+
+    Merge branch 'master' of https://github.com/missing-semester-cn/missing-semester-cn.github.io
+
+[33mcommit f5a237a5fe9001fb885309717a9d11db20119b1e[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 15 11:07:23 2021 +0800
+
+    Update index.md
+
+[33mcommit db24bcb83faaa06f0c367e5ae358fb261191176a[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed May 12 22:54:30 2021 +0800
+
+    Update editors.md
+
+[33mcommit 5db8d5562d2e1d1806ba199559d148f06b1cc23e[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed May 12 22:53:25 2021 +0800
+
+    Update editors.md
+
+[33mcommit 4a53b2e2bf9312d4b11cd6f5fe19ca5f3ab3e13b[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Tue May 11 22:04:44 2021 +0800
+
+    typo fix
+
+[33mcommit 6748c3e839168ee27b1f150505fb438817d4732e[m
+Merge: 1fb73f3 c1d9aa4
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Thu May 6 23:17:53 2021 +0800
+
+    Merge branch 'master' of https://github.com/missing-semester-cn/missing-semester-cn.github.io
+
+[33mcommit 1fb73f31d5d3e643038c31eb59d6d5c4a2e73f57[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Thu May 6 23:17:35 2021 +0800
+
+    typo fix
+
+[33mcommit c1d9aa4f814d8e88521ab07bc7376c346c5aa2f3[m
+Merge: 4dfe64a 4fdc13b
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu May 6 23:16:55 2021 +0800
+
+    Merge pull request #79 from ZBQtesla/patch-1
+    
+    fix typo in data-wrangling.md
+
+[33mcommit 4fdc13be650830477cfe50f70b4683390492393b[m
+Author: ZBQtesla <zbqtesla@gmail.com>
+Date:   Thu May 6 21:07:57 2021 +0800
+
+    fix typo in data-wrangling.md
+
+[33mcommit 4dfe64a6ba192d3565e79758ec58456533f24920[m
+Merge: 4e2178c 5b1119c
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed May 5 16:42:37 2021 +0800
+
+    Merge pull request #74 from missing-semester-cn/dependabot/bundler/nokogiri-1.11.2
+    
+    Bump nokogiri from 1.10.8 to 1.11.2
+
+[33mcommit 4e2178c987484b0f2c7146cf65ee76e01de95e6f[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Wed May 5 10:12:08 2021 +0800
+
+    typo fix
+
+[33mcommit a757b7d01d6dd6446830b83c2220d5b44b195da5[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Mon May 3 21:38:18 2021 +0800
+
+    typo fix
+
+[33mcommit f4bd5c97b4594ccd9ec17b31eba0bd9f9099e2c5[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 2 00:45:59 2021 +0800
+
+    typo fix
+
+[33mcommit 48413e8d116391f55e550fd1cc97a9fa91a8e749[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed Apr 28 22:03:42 2021 +0800
+
+    add notes for BSD xargs
+
+[33mcommit 92722b96207c0c0fd30f32ffeebe747bec5e656d[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Apr 27 22:38:45 2021 +0800
+
+    Update shell-tools.md
+
+[33mcommit a1370718a0cac82195778d7709c1c62777fc3521[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Apr 27 21:10:14 2021 +0800
+
+    Update shell-tools.md
+
+[33mcommit 724686b60c780e87692a63e6a5ad250dfb365365[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:36:40 2021 +0800
+
+    index
+
+[33mcommit 0a0e31953486e9a54eabd567f5b7b1402bf8f8a7[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:35:28 2021 +0800
+
+    index
+
+[33mcommit 472b1b58a501d1a71e65030db8e24c4d4878ebee[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:33:47 2021 +0800
+
+    index
+
+[33mcommit 8eec1d17050c19a7ed0d110ab834a3602a0c8396[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:32:42 2021 +0800
+
+    index
+
+[33mcommit 6a3bd59e3baf3f13e79936dfae42df4a5fdec259[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:31:10 2021 +0800
+
+    index
+
+[33mcommit 8c600f34144290b3902237afe493400c99d5d43c[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 23:26:14 2021 +0800
+
+    Update README.md
+
+[33mcommit 01825427d9f4c05ac5f4172ee545a8e27c1cc295[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 23:21:09 2021 +0800
+
+    add more translation links
+
+[33mcommit f9ab8308fad2a4fbfdb95f456b69bacafcbcd707[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:18:35 2021 +0800
+
+    [upstream sync] 00366e1
+
+[33mcommit bb8cb1515de50478b19d25fec0bf6097f096d384[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:16:20 2021 +0800
+
+    [upstream sync] ec4db15
+
+[33mcommit 3a55f92dd593ada1d1ab8de53997b44cce0303e1[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:14:31 2021 +0800
+
+    [upstream sync] 6291488
+
+[33mcommit f6963477e8388b9bfe5cb532f55330665eb2b3fa[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:11:49 2021 +0800
+
+    [upstream sync] 9839276
+
+[33mcommit 9d3718ebef61f4f1ea87fc35eaa539189707992d[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:08:56 2021 +0800
+
+    [upstream sync] db94dba
+
+[33mcommit 876d47e3767d777f1ed67cd822bad3e0f425dedf[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:08:14 2021 +0800
+
+    [upstream sync] 923ff93
+
+[33mcommit feae9b6f1bbc8b44f718838a3b1ea6db5dcd80fe[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:03:17 2021 +0800
+
+    [upstream sync] 7743827
+
+[33mcommit b0efc7f5378abe2fff9ac4fa8a2b176e64ba6b4e[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:02:22 2021 +0800
+
+    [upstream sync] 77107e7
+
+[33mcommit 20ec567b8a9aa76dc53183154eb2c3d74a6800f8[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:01:48 2021 +0800
+
+    [upstream sync] 60b245a
+
+[33mcommit 019a0413c93f3af4c1ff10caa67152e4407d3215[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 23:00:11 2021 +0800
+
+    [upstream sync] 7909cc5
+
+[33mcommit 98b9023c8a76918d806b6b6728bed800dce043cb[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:59:14 2021 +0800
+
+    [upstream sync] a6b0e39
+
+[33mcommit 10c3ea4c85e792d6f5e0809e836b43061c05c70c[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:58:35 2021 +0800
+
+    [upstream sync] 9dc244b
+
+[33mcommit 31aed7b5768f997bc48ec8e37b4af8ca0a8568e8[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:56:08 2021 +0800
+
+    [upstream sync] 03b4dae
+
+[33mcommit 62f272331e2103cbbc534afb26a237ad1d4ace68[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:55:15 2021 +0800
+
+    [upstream sync] da9e658
+
+[33mcommit aca0bbc5efdbdef6971998986fb7f7635f36d70c[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:50:59 2021 +0800
+
+    [upstream sync] 5e6ad9f
+
+[33mcommit 2e7643346bae7642e7fe205a235014a6d6c69b1a[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:49:02 2021 +0800
+
+    [upstream sync] fbdee8b
+
+[33mcommit 05dfd44fbe6c6b1917251bd1bc1d4d37d2cc8847[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:48:12 2021 +0800
+
+    [upstream sync] de828a1
+
+[33mcommit 6c2f8c0c151cb53fb7eb83ecdb53ad823525cf6c[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:47:39 2021 +0800
+
+    [upstream sync] 0c7efdb
+
+[33mcommit 96c74445c6b34b1497639a67eb79649c1bde552a[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:46:29 2021 +0800
+
+    [upstream sync] a3a7490
+
+[33mcommit 7c390a9bdfa5abbc9b7488379b03c4ce8ae8e29a[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:45:57 2021 +0800
+
+    [upstream sync] 368c003
+
+[33mcommit 4e8e3c80f80bdf063442490614ba18468c07ebc9[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:45:32 2021 +0800
+
+    [upstream sync] cb7f8ca
+
+[33mcommit 37986d03e72fddc3094b759fcaeefeae4a1044e4[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:40:21 2021 +0800
+
+    [upstream sync] 6291488
+
+[33mcommit d9fff7eaab2d90c894b7d87f90aa03716a48f4a0[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:33:03 2021 +0800
+
+    [upstream sync] 5e6ad9f
+
+[33mcommit 81b58e9b92d2fb0c1f71b476abc631540ecf6761[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:30:26 2021 +0800
+
+    [upstream sync] b3920a2
+
+[33mcommit 768fd165391fdc1965c43b937ab0936aad70fd92[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 22:25:17 2021 +0800
+
+    [upstream sync] 071f533
+
+[33mcommit 5da44ff52f325e824a63169d3601e98db6c453b3[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:47:08 2021 +0800
+
+    [upstream sync] 6a48623
+
+[33mcommit 84cfd06ecd8e3b3e74dc7506f9cad2ed8bbd1cc2[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:45:35 2021 +0800
+
+    [upstream sync] e8a8781
+
+[33mcommit 8df8788e6a1e67fece36a4be5c26b17ae177d2d3[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:44:29 2021 +0800
+
+    [upstream sync] 363d782
+
+[33mcommit 6e6e4a73cbdd7cb26c2ab47b7b0a76594f306eb6[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:40:00 2021 +0800
+
+    update
+
+[33mcommit 62f8eafb2051dcbbbd3a9dd63d6b7eb76e06e70c[m
+Merge: d233461 15f9111
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:38:11 2021 +0800
+
+    Merge branch 'master' of https://github.com/missing-semester-cn/missing-semester-cn.github.io
+
+[33mcommit d233461ffeb2f003bb5b8d73980495bff4d2d075[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:37:54 2021 +0800
+
+    [upstream sync] 79d143f
+
+[33mcommit 8e0f26a510f6282112dbf86358b5f8b9e2211a87[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:35:47 2021 +0800
+
+    [upstream sync] 8ac569b
+
+[33mcommit 01a176477dde285d499001341b9b3181b8ed5426[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:28:31 2021 +0800
+
+    [upstream sync] 90dfe09
+
+[33mcommit 91d46861556c5317975c3346e65375d060f3385e[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:22:33 2021 +0800
+
+    [upstream sync] c56cb05
+
+[33mcommit 67b336b39781f5965b05f692de6e8f44eb5ff4bb[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:21:04 2021 +0800
+
+    [upstream sync] cc71a6a
+
+[33mcommit b3c19ec40df84877601687b0cfd54a347a7cc6ce[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:16:16 2021 +0800
+
+    update
+
+[33mcommit 15f9111d93fea654118d23a32272869912a2fa84[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 19:16:01 2021 +0800
+
+    [upstream sync]  2c91a00
+    
+    Add link to short-circuiting operators …
+
+[33mcommit facf6a10a9345b516f761d7bbe5129a048e0ce23[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 19:12:38 2021 +0800
+
+    [upstream sync] 6291488
+
+[33mcommit e73e42785e0c31332f311b29ecd5cd8ef92ded4d[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 19:07:57 2021 +0800
+
+    [upstream update]dee513e
+    
+    Fix shebang technicality
+
+[33mcommit 3889ee75a2400bd380e8263ce53597f2a14bc8a6[m
+Merge: f977e98 3c0ce65
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 18:28:09 2021 +0800
+
+    Merge branch 'master' of https://github.com/missing-semester-cn/missing-semester-cn.github.io
+
+[33mcommit f977e981fccc43c116d1598ad38f7cf733c89bd7[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 18:27:56 2021 +0800
+
+    add metadata sync and syncdate
+
+[33mcommit 3c0ce65feaa60322c34d9b3915d5a64d34a682fe[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 18:26:29 2021 +0800
+
+    Update index.md
+
+[33mcommit ea805cdad134232fe8d5e53e37d1ba9d93293cf8[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 18:24:11 2021 +0800
+
+    Update index.md
+
+[33mcommit c2b2ff31dfedc5f22de8faac1bab15458c23e277[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Apr 24 18:20:47 2021 +0800
+
+    [upstream sync] 58959df
+
+[33mcommit bac83e1da19c1e4efbdd8b8b47cb9be48b6353d8[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 18:08:13 2021 +0800
+
+    Update course-shell.md
+
+[33mcommit 97458e07d605dccde7d2cdc0485bc53ed4818ca6[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 18:07:40 2021 +0800
+
+    Update index.md
+
+[33mcommit 27b71374c1e14358cd6b27916357c1f8f2ca1b15[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 18:05:49 2021 +0800
+
+    Update index.md
+
+[33mcommit 6b26766f375a4e6efea785f5caecfc6155409e80[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 18:04:43 2021 +0800
+
+    add metadata sync date
+
+[33mcommit 30956aa3f04126d2e422c61fc8e88ef53a6eba6e[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 18:01:19 2021 +0800
+
+    add metadata sync, set to true if synced with English version
+
+[33mcommit c8b5673931d6e453a6e2f2966911634adfa7d064[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 17:51:34 2021 +0800
+
+    [upstream sync] 58959df
+    
+    Make homepage schedule show year
+
+[33mcommit 96c1e5c5ad28ae49df68c6da11c1f5e82a318b2e[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 17:50:32 2021 +0800
+
+    [upstream sync] c3ae0e4
+    
+    Add note on (lack of) solutions to exercises
+
+[33mcommit febda460dffa05c7b8cf8fe0acd0d62f7d0fa689[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 17:46:23 2021 +0800
+
+    [upstream sync] 0cf3d52
+    
+    Add note about Windows and cmd.exe/PowerShell
+
+[33mcommit 2e78dd47dc266e21e25d1907a1ac0d6d7b172522[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Apr 24 17:40:05 2021 +0800
+
+    [upstream sync]60b245a
+    
+    Remove links to defunct r/hackertools subreddit
+
+[33mcommit 2b1fead49a92846230077c415a6ffa9de3713d1a[m
+Merge: 80f3767 54e8c49
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu Apr 22 22:03:34 2021 +0800
+
+    Merge pull request #76 from ziranl16/master
+    
+    Fix Chinese Grammar mistake in shell-tools.md
+
+[33mcommit 80f37672621d5782aa0ba6ac6a879e2f051b40b1[m
+Merge: facbbd5 c4e9244
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu Apr 22 22:02:10 2021 +0800
+
+    Merge pull request #75 from gennan/master
+    
+    修改关于home directory的翻译
+
+[33mcommit 54e8c492152ab3a6798c60edc3a3a5109affbb1c[m
+Author: Liu <62609375+ziranl16@users.noreply.github.com>
+Date:   Thu Apr 22 00:05:39 2021 +0800
+
+    Fix grammar mistake in shell-tools.md
+
+[33mcommit c4e92440370e95099637ead8d758d2ec84c96ebc[m
+Author: gennan <gennan@foxmail.com>
+Date:   Mon Mar 29 23:07:04 2021 +0800
+
+    修改关于home directory的翻译
+
+[33mcommit 5b1119c0f9580e27602320db13e83e2e97f746e8[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Mar 27 13:45:27 2021 +0000
+
+    Bump nokogiri from 1.10.8 to 1.11.2
+    
+    Bumps [nokogiri](https://github.com/sparklemotion/nokogiri) from 1.10.8 to 1.11.2.
+    - [Release notes](https://github.com/sparklemotion/nokogiri/releases)
+    - [Changelog](https://github.com/sparklemotion/nokogiri/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/sparklemotion/nokogiri/compare/v1.10.8...v1.11.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit facbbd530f2c5d4240840a763efab497a7be847c[m
+Merge: 3283d8f e4c6aab
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Mar 27 21:44:55 2021 +0800
+
+    Merge pull request #73 from iBug-forks/cn-typesetting-1
+    
+    Fix multiple typewriting issues
+
+[33mcommit e4c6aaba5e9ef43c58913a29233d9edd04cee283[m
+Author: iBug <git@ibugone.com>
+Date:   Tue Mar 16 00:04:54 2021 +0800
+
+    More fixes
+
+[33mcommit adfbafe4dd941162b5aaec0471a98d769c8c40cb[m
+Author: iBug <git@ibugone.com>
+Date:   Tue Mar 16 00:00:42 2021 +0800
+
+    Fix multiple typewriting issues
+    
+    Rules followed:
+    https://github.com/sparanoid/chinese-copywriting-guidelines
+
+[33mcommit 3283d8ff10319f09ec546cd28cc6b06a16d067d1[m
+Merge: 8493106 696a56e
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Mar 13 12:29:19 2021 +0800
+
+    Merge pull request #72 from adamqqqplay/master
+    
+    Improve translation in metaprogramming.md
+
+[33mcommit 696a56e0395f50a77eb9c0737cb162008cda2b28[m
+Author: adamqqq <adamqqq@163.com>
+Date:   Sat Mar 13 11:18:38 2021 +0800
+
+    Improve translation in metaprogramming.md
+    
+    测试套->测试套件
+    一个->一种
+
+[33mcommit 849310625da2d2e57d0f3a6f070db23d7a3c78bd[m
+Merge: 50ea158 8024466
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Feb 9 12:48:24 2021 +0800
+
+    Merge pull request #70 from wine99/patch-1
+    
+    Fix a typo in security.md
+
+[33mcommit 8024466a9f519c6aaa1805dced25647c1ca17bf3[m
+Author: 余梓俊 <51262296+wine99@users.noreply.github.com>
+Date:   Mon Feb 8 15:49:42 2021 +0800
+
+    Fix a typo in security.md
+    
+    使用`git commit -C`命令签名一个Git提交    -->    git commit -S
+
+[33mcommit 50ea158285b23d2029bfde74784ce6f9d830b6c0[m
+Merge: 58e327a 78dc242
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri Feb 5 14:44:45 2021 +0800
+
+    Merge pull request #68 from wine99/patch-1
+    
+    Fix a typo in data-wrangling.md
+
+[33mcommit 58e327a3451421381508d6763e0ec941fda1f1fe[m
+Merge: 5dda1a7 23cc27b
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri Feb 5 14:44:23 2021 +0800
+
+    Merge pull request #69 from wine99/patch-2
+    
+    Fix a typo in version-control.md
+
+[33mcommit 23cc27bfcf92b43cf99b27078c0c6bdcf0f9b64e[m
+Author: 余梓俊 <51262296+wine99@users.noreply.github.com>
+Date:   Wed Feb 3 22:46:40 2021 +0800
+
+    Fix a typo in version-control.md
+    
+    习题 2：“修改来” --> “修改了”
+
+[33mcommit 78dc242cc59af57261dafdce86c5bba844857c9b[m
+Author: 余梓俊 <51262296+wine99@users.noreply.github.com>
+Date:   Mon Feb 1 09:51:09 2021 +0800
+
+    Fix a typo in data-wrangling.md
+    
+    ln179：“正行” --> “整行”
+
+[33mcommit 5dda1a79486383cf0a3d014ca0cc2408d436c446[m
+Merge: 5032e71 803cd28
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jan 30 19:30:43 2021 +0800
+
+    Merge pull request #67 from fengxxc/master
+    
+    fix typos
+
+[33mcommit 803cd28399322be5974d5d239b335e7b6e5bbe95[m
+Author: fengxxc <fengxxc@gmail.com>
+Date:   Thu Jan 28 16:33:46 2021 +0800
+
+    fix typos
+
+[33mcommit e2bd60f68d17ad7c9228a886b38f76320c0c06fe[m
+Author: fengxxc <fengxxc@gmail.com>
+Date:   Wed Jan 27 18:35:15 2021 +0800
+
+    fix typos
+
+[33mcommit 36ae3438831da669aed3c1bb8855ed06d31c2780[m
+Author: fengxxc <fengxxc@gmail.com>
+Date:   Wed Jan 27 17:41:48 2021 +0800
+
+    fix typos
+
+[33mcommit c2ea07d96753b1552fd4ba2fbebe3840d8a4b1a9[m
+Author: fengxxc <fengxxc@gmail.com>
+Date:   Wed Jan 27 17:18:52 2021 +0800
+
+    fix typos
+
+[33mcommit 5032e71e96d2f43404edd8b249df44b4dcf3fa8c[m
+Merge: abf361e def523f
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed Jan 27 16:38:09 2021 +0800
+
+    Merge pull request #66 from fengxxc/master
+    
+    fix typos
+
+[33mcommit def523f6aad601c7e67429812c1899c86c26e75a[m
+Author: fengxxc <fengxxc@gmail.com>
+Date:   Wed Jan 27 15:57:30 2021 +0800
+
+    fix typos
+
+[33mcommit abf361e134f8e8a54a510fa67ed93522ce1ec15d[m
+Merge: 1ec9bb1 3d9289b
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed Jan 13 10:04:18 2021 +0800
+
+    Merge pull request #65 from doupongzeng/master
+    
+    Update version-control.md
+
+[33mcommit 3d9289b0b9ca398f8cc64b75bad57d551a584fd1[m
+Author: doupongzeng <huangzeng2016@126.com>
+Date:   Tue Jan 12 15:48:31 2021 +0800
+
+    Update debugging-profiling.md
+
+[33mcommit 06ef600cc6aa348f6f6908822fd35d14ff799159[m
+Author: doupongzeng <huangzeng2016@126.com>
+Date:   Tue Jan 12 15:20:59 2021 +0800
+
+    Update version-control.md
+
+[33mcommit 1ec9bb1261bc867d6e630e7cbc132c60d4b27415[m
+Merge: 2573260 4066bfe
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jan 12 13:04:51 2021 +0800
+
+    Merge pull request #64 from doupongzeng/master
+    
+    Update data-wrangling.md
+
+[33mcommit 25732602d0dd535ab05da92f81e65026329eaf37[m
+Merge: 2f77101 336f75f
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jan 12 13:04:29 2021 +0800
+
+    Merge pull request #63 from vifly/patch-1
+    
+    typo fix
+
+[33mcommit 4066bfe700d85679eaf0f60785c562fcd2faf5e2[m
+Author: doupongzeng <huangzeng2016@126.com>
+Date:   Tue Jan 12 09:16:36 2021 +0800
+
+    Update data-wrangling.md
+
+[33mcommit 336f75f3b9a345a34437668ca465d6a6e4e2eb25[m
+Author: Vifly <48406926+vifly@users.noreply.github.com>
+Date:   Mon Jan 11 22:37:35 2021 +0800
+
+    typo fix
+
+[33mcommit 2f77101ec74d6f182df8b8f828e19aa0f4f012e7[m
+Merge: 6ecd15a e7764ca
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon Jan 11 11:24:35 2021 +0800
+
+    Merge pull request #59 from saheibe/patch-1
+    
+    Update course-shell.md
+
+[33mcommit 6ecd15a24bfdfa212386dd2fa6b8885c55ed77c8[m
+Merge: ccc1b2f ca75bef
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon Jan 11 11:24:09 2021 +0800
+
+    Merge pull request #62 from ktang/patch-2
+    
+    fix two typos
+
+[33mcommit ca75bef0d0930733f79e3f7be0150f71b864f0d8[m
+Author: Kai Tang (唐恺） <ktang@users.noreply.github.com>
+Date:   Fri Jan 8 10:30:32 2021 -0500
+
+    Update debugging-profiling.md
+
+[33mcommit 1247b56a42b63e7227a093c85eb5441e94f514c7[m
+Author: Kai Tang (唐恺） <ktang@users.noreply.github.com>
+Date:   Fri Jan 8 10:24:26 2021 -0500
+
+    fix typo: 似乎=>时候
+
+[33mcommit ccc1b2ff58e6f39216b3a600cdfce617ce77b72a[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri Jan 8 14:00:11 2021 +0800
+
+    Update README.md
+
+[33mcommit 73ff123a6027a745c4e3968ac0d80d8a4e8c6cda[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri Jan 8 13:58:03 2021 +0800
+
+    Update README.md
+
+[33mcommit 2fbcb0dba977f2c3a460b16352feeb026beac76c[m
+Merge: 4b8ea7a ad28e44
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri Jan 8 13:46:40 2021 +0800
+
+    Merge pull request #60 from ycjiafei/patch-1
+    
+    文字勘误
+
+[33mcommit 4b8ea7a2d7f532fcac70185dc82775fa295f485f[m
+Merge: ccbe24e 8a055b7
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri Jan 8 13:45:07 2021 +0800
+
+    Merge pull request #61 from ktang/patch-1
+    
+    fix typo: 距离=>举例
+
+[33mcommit ccbe24e37534768c3662cd94c90780543f955bf4[m
+Merge: a56f713 2c2aada
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri Jan 8 13:44:26 2021 +0800
+
+    Merge pull request #58 from hongbo-zhu-cn/master
+    
+    fix typos: Chorme -> Chrome
+
+[33mcommit 8a055b7571f4d5d74d92ba149800c2a6fc51db69[m
+Author: Kai Tang (唐恺） <ktang@users.noreply.github.com>
+Date:   Thu Jan 7 10:29:03 2021 -0500
+
+    修改距离为举例
+
+[33mcommit ad28e443bc8e8305a7ecbb9729cca6b9d3d0877e[m
+Author: Gaffey <253896514@qq.com>
+Date:   Wed Jan 6 15:20:07 2021 +0800
+
+    文字勘误
+
+[33mcommit e7764caae5626096c0cfc677965a042fc5865183[m
+Author: iron <saheibe@gmail.com>
+Date:   Wed Jan 6 12:21:48 2021 +0800
+
+    Update course-shell.md
+    
+    No need for translation
+
+[33mcommit 2c2aada515338ad3370482db671acb6cb959658c[m
+Author: hongbo-zhu-cn <hongbo.zhu.cn@googlemail.com>
+Date:   Tue Jan 5 23:23:05 2021 +0100
+
+    Chorme -> Chrome
+    
+    fix typos: Chorme -> Chrome
+
+[33mcommit a56f7137d05bf8a73a2dc7ce3fb058bf99ca522c[m
+Merge: 03bf95f f4d5f8a
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jan 5 13:48:42 2021 +0800
+
+    Merge pull request #40 from shapeng1998/patch-1
+    
+    Update course-shell.md
+
+[33mcommit 03bf95fb4cdfc5e602c9a66550342ee45c3a072c[m
+Merge: 45a0831 337e0e8
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jan 5 13:47:52 2021 +0800
+
+    Merge pull request #56 from azl397985856/patch-1
+    
+    fix: typo
+
+[33mcommit 45a08314b0b3a4236206e9cfb1df850433ba94c7[m
+Merge: e80b81f 13e90c6
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jan 5 13:24:11 2021 +0800
+
+    Merge pull request #57 from azl397985856/patch-2
+    
+    fix: typo
+
+[33mcommit e80b81fe66028d81f024958fc1c2b24852aca964[m
+Merge: 04bcb9b 0ae9a80
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jan 5 13:23:19 2021 +0800
+
+    Merge pull request #55 from RoseauHan/patch-1
+    
+    Update shell-tools.md  修正笔误
+
+[33mcommit 04bcb9beb6a0d81e779a8d5a544c257fad4669db[m
+Merge: 8c5e262 0da80ca
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jan 5 13:22:46 2021 +0800
+
+    Merge pull request #54 from tiny656/patch-1
+    
+    Fix word typo
+
+[33mcommit 13e90c65d8438eb9b4a08417fcb818796f96467b[m
+Author: lucifer <azl397985856@gmail.com>
+Date:   Mon Jan 4 15:01:30 2021 +0800
+
+    Update shell-tools.md
+
+[33mcommit 337e0e82cd640c7db2fcd00af809adf6f92c99ea[m
+Author: lucifer <azl397985856@gmail.com>
+Date:   Mon Jan 4 14:52:04 2021 +0800
+
+    fix: typo
+
+[33mcommit 0ae9a80745b5c0891c23b7f4979fb9ab0ea402bd[m
+Author: roseauhan <roseauhan@gmail.com>
+Date:   Sun Jan 3 14:49:33 2021 +0800
+
+    Update shell-tools.md
+
+[33mcommit 0da80ca5aa5caf56ea275ab46949ec18946e4417[m
+Author: Sean Li <tiny656@hotmail.com>
+Date:   Sun Jan 3 11:50:53 2021 +0800
+
+    fix typo
+
+[33mcommit b9460abfd5a543678727223ca7be740fdd15ff8b[m
+Author: Sean Li <tiny656@hotmail.com>
+Date:   Fri Jan 1 21:27:32 2021 +0800
+
+    Fix words typo
+    
+    明知➡明智
+
+[33mcommit 8c5e2625e27533cc80284148f4584128bca65385[m
+Merge: 6110d21 f381863
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu Dec 31 21:58:16 2020 +0800
+
+    Merge pull request #53 from mustangxu/patch-1
+    
+    Update metaprogramming.md
+
+[33mcommit f381863e2db84b58ae13bcd458b39e02eaa80922[m
+Author: Jay Xu <mustangxu@users.noreply.github.com>
+Date:   Wed Dec 30 17:51:15 2020 +0800
+
+    Update metaprogramming.md
+    
+    引号 -> 冒号
+
+[33mcommit 6110d2167fd928aaf7597d1aa839763dc1074663[m
+Merge: 9cf1ae5 e862d55
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon Dec 28 22:48:17 2020 +0800
+
+    Merge pull request #52 from akiirokaede/master
+    
+    修改误输入的文字
+
+[33mcommit 9cf1ae5c83fb5af544932730cbf2fca730e796c7[m
+Merge: 36c18ad c0bb5db
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon Dec 28 22:47:38 2020 +0800
+
+    Merge pull request #51 from zhangchunlin/fix_typo
+    
+    所消耗都时间 -> 所消耗的时间
+
+[33mcommit e862d559dc547432d3a9e54df955582d6e4c68b2[m
+Author: akiirokaede <qiao.shang@outlook.com>
+Date:   Wed Dec 23 18:05:46 2020 +0800
+
+    修改误输入的文字
+
+[33mcommit c0bb5dbb9018cf94d255d55e6b6e2a2ca7fd4f36[m
+Author: Chunlin Zhang <zhangclb@lenovo.com>
+Date:   Wed Dec 23 14:00:40 2020 +0800
+
+    所消耗都时间 -> 所消耗的时间
+
+[33mcommit 36c18ad7e97bb88feb50cb96ef7cf945f4d7adfa[m
+Merge: 7b05ce4 d7229ca
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Dec 22 08:18:28 2020 +0800
+
+    Merge pull request #49 from yulanggong/patch-1
+    
+    fix typo
+
+[33mcommit 7b05ce45a0acd757d74e9458c4f56f0576c3bfce[m
+Merge: 334a75e ec96b1b
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Dec 22 08:18:10 2020 +0800
+
+    Merge pull request #50 from LGiki/master
+    
+    Fix typo in qa.md
+
+[33mcommit 334a75e0204fe90eca1da197ef4c3a6d3ed55b08[m
+Merge: 9c59234 972bbad
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Dec 22 08:17:02 2020 +0800
+
+    Merge pull request #48 from Nlzy/patch-1
+    
+    Fix broken link
+
+[33mcommit ec96b1bb1203b29b2b418fd8b5971bc0e591ba9d[m
+Author: LGiki <qq547221432@gmail.com>
+Date:   Sat Dec 19 08:57:50 2020 +0800
+
+    Fix typo in qa.md
+
+[33mcommit d7229cae6453c4b724f842d9d0e116e7eb37facf[m
+Author: 任文龙 <yulanggong@users.noreply.github.com>
+Date:   Fri Dec 18 11:59:24 2020 +0800
+
+    fix typo
+
+[33mcommit 972bbad757a1a7da04a3a8b4bc7e8fde02242e89[m
+Author: NaLan ZeYu <nalanzeyu@gmail.com>
+Date:   Fri Dec 18 06:53:54 2020 +0800
+
+    Fix broken link
+
+[33mcommit 9c5923489f2cf7e3f380fd12cd7e00e73593ee15[m
+Merge: c059a84 f3b5cf5
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu Dec 10 09:57:22 2020 +0800
+
+    Merge pull request #47 from skyfact/patch-1
+    
+    Update shell-tools.md
+
+[33mcommit f3b5cf5229eaf15d260469aa040208fa5223c3a7[m
+Author: 陈于衡 <65726360+skyfact@users.noreply.github.com>
+Date:   Thu Nov 19 17:03:11 2020 +0800
+
+    Update shell-tools.md
+    
+    fix a code error to be consistent with the original course
+
+[33mcommit c059a84b6b74f4489ade9d11e86e1b9edff3704b[m
+Merge: b24e965 558ee78
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu Nov 5 14:00:53 2020 +0800
+
+    Merge pull request #46 from uniquebby/uniquebby-fix-typo
+    
+    Fix-some-typo in shell_tools.md and version-control.md
+
+[33mcommit 558ee78ac399663496c79c20d0a1369a4f033258[m
+Author: uniquebby <15367145356@163.com>
+Date:   Tue Oct 6 14:36:37 2020 +0800
+
+    Fix-some-typo in shell_tools.md and version-control.md
+
+[33mcommit b24e965fb83783c3876efb5cf1afdafafff6623e[m
+Merge: a466550 21b46cc
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Oct 4 19:44:53 2020 +0800
+
+    Merge pull request #44 from SunsetWan/sunset_polish
+    
+    Lecture 1: 中英文之间适当添加空格
+
+[33mcommit a46655069552777d00845d60692587bc922ce695[m
+Merge: 1b925af ce470a2
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun Oct 4 18:30:55 2020 +0800
+
+    Merge pull request #45 from hzcheney/patch-1
+    
+    Update shell-tools.md
+
+[33mcommit ce470a2266b0bb18d90cb147b6035820521a5c9c[m
+Author: walter <32014404+hzcheney@users.noreply.github.com>
+Date:   Fri Oct 2 19:08:07 2020 +0800
+
+    Update shell-tools.md
+    
+    fixed:redundancy line deleted.
+
+[33mcommit 21b46cc76cf1b1130cdd5b53434abcdfece31415[m
+Author: sunset wan <sunsetwan@gmail.com>
+Date:   Mon Aug 31 23:34:06 2020 +0800
+
+    中英文之间适当添加空格
+
+[33mcommit 1b925afdaf910d5ec005535843b93e5f67a7ccc4[m
+Merge: 2976227 752dad7
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Aug 25 08:02:34 2020 +0800
+
+    Merge pull request #43 from weijiew/patch-1
+    
+    Update editors.md
+
+[33mcommit 752dad74cd816a5e6df088fff7b76df9d2f383bf[m
+Author: weijiew <49638002+weijiew@users.noreply.github.com>
+Date:   Mon Aug 24 21:26:53 2020 +0800
+
+    Update editors.md
+    
+    Vim 最重要的设计思想是 Vim 的界面本省是一个程序语言。 修改为 ： Vim 最重要的设计思想是 Vim 的界面本身是一个程序语言。
+
+[33mcommit 297622729e9118ce5d1f312a4f92c5fd04f0d6b6[m
+Merge: 5224b1f f5b69f2
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu Aug 20 22:47:58 2020 +0800
+
+    Merge pull request #42 from Binlogo/patch-1
+    
+    Fix typo
+
+[33mcommit f5b69f2735817be345ab39778326251aed7dbf4b[m
+Author: 棒棒彬_Binboy <binboy@live.com>
+Date:   Sat Aug 15 17:30:16 2020 +0800
+
+    Fix typo
+
+[33mcommit 5224b1f5062889c4ad9c08b7094e49f4b3d3561d[m
+Merge: f32ea3e 63f8964
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Aug 1 10:56:30 2020 +0800
+
+    Merge pull request #32 from hwj1995/patch-2
+    
+    Update data-wrangling.md
+
+[33mcommit f32ea3edca423629723ca8cdbbc54c0af918e0c8[m
+Merge: 5bcdb56 391913c
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Aug 1 10:55:37 2020 +0800
+
+    Merge pull request #33 from hwj1995/patch-3
+    
+    Update version-control.md
+
+[33mcommit 5bcdb561365adf40126e0eb2306671b43a876794[m
+Merge: e15f165 dbf0e50
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Aug 1 10:54:04 2020 +0800
+
+    Merge pull request #36 from hwj1995/patch-5
+    
+    Update potpourri.md
+
+[33mcommit e15f165d52a652b9540ce364c3c9c1566fea26f0[m
+Merge: be978d0 4e7baa7
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Aug 1 10:52:48 2020 +0800
+
+    Merge pull request #38 from SodaCris/patch-2
+    
+    翻译
+
+[33mcommit be978d083168abbcfa0a7aa3ea7ebe1ac1fa676b[m
+Merge: 1d5a920 9aef429
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Aug 1 10:50:33 2020 +0800
+
+    Merge pull request #37 from hwj1995/patch-6
+    
+    Update potpourri.md
+
+[33mcommit 1d5a920c91489c7c50c0572bcfe1adaa6e3e104b[m
+Merge: ff0fbdf a071733
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Aug 1 10:48:42 2020 +0800
+
+    Merge pull request #39 from MisakaCenter/typo-fix
+    
+    fix: typos in course-shell
+
+[33mcommit ff0fbdff0a76ada6aefd59861b28f657cff87ea5[m
+Merge: f621ff6 83146fd
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Aug 1 10:42:47 2020 +0800
+
+    Merge pull request #41 from shapeng1998/patch-2
+    
+    Update data-wrangling.md
+
+[33mcommit 83146fd2de91c54adf249d8b481d23bbd67ac9cc[m
+Author: 沙鹏 <jack@shapeng1998.com>
+Date:   Sat Aug 1 00:12:11 2020 +0800
+
+    Update data-wrangling.md
+
+[33mcommit f4d5f8a4704dce575f73cf9c886ab4bbc634d1e0[m
+Author: 沙鹏 <jack@shapeng1998.com>
+Date:   Thu Jul 30 00:59:30 2020 +0800
+
+    Update course-shell.md
+    
+    原文的 “home directory” 翻译成“家目录”更好一些吧
+
+[33mcommit a07173352b223813995e823adc20414c0dc293cb[m
+Author: Hanzhi Liu <55851864+MisakaCenter@users.noreply.github.com>
+Date:   Mon Jul 27 14:40:36 2020 +0800
+
+    [ fix ] typos in course-shell
+
+[33mcommit 4e7baa79d18f2b63c414f051186ed03603f6e72e[m
+Author: SodaCris <18463922396@163.com>
+Date:   Fri Jul 24 22:13:15 2020 +0800
+
+    Update editors.md
+
+[33mcommit 06d829fea6c0afd6a340306715b66b6962e94e26[m
+Author: SodaCris <18463922396@163.com>
+Date:   Fri Jul 24 11:07:55 2020 +0800
+
+    Update editors.md
+
+[33mcommit 5cab5cf88821bd2f00f42c7732cc05060724906d[m
+Author: SodaCris <18463922396@163.com>
+Date:   Fri Jul 24 11:06:56 2020 +0800
+
+    Update editors.md
+
+[33mcommit fa3e38bb492f019a7f458e3a26dc6dae93d3bdd1[m
+Author: SodaCris <18463922396@163.com>
+Date:   Fri Jul 24 11:02:03 2020 +0800
+
+    翻译
+
+[33mcommit 9aef4290f7c354c4a0a329dfa2e1f4415709f6bf[m
+Author: hwj <huangweijun1001@gmail.com>
+Date:   Tue Jul 21 18:36:48 2020 +0800
+
+    Update potpourri.md
+    
+    重复
+
+[33mcommit dbf0e502233be0146021ae88a3a27d8d756a9cf8[m
+Author: hwj1995 <huangweijun1001@gmail.com>
+Date:   Mon Jul 20 16:44:47 2020 +0800
+
+    Update potpourri.md
+    
+    课程时间错误
+
+[33mcommit f621ff6bb2d3ca06962f6206ff366c5b07e67a22[m
+Merge: 2ee7ed2 0eaea2d
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jul 18 21:18:12 2020 +0800
+
+    Merge pull request #34 from hjlarry/patch-3
+    
+    Update potpourri.md
+
+[33mcommit 2ee7ed2cdee84ff970a0cb4ab5778595a4de5fac[m
+Merge: 25babba 4dc7208
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jul 18 21:16:15 2020 +0800
+
+    Merge pull request #35 from hwj1995/patch-4
+    
+    Update debugging-profiling.md
+
+[33mcommit 4dc72080b36c105a605cb873913097e0de3469fd[m
+Author: hwj1995 <huangweijun1001@gmail.com>
+Date:   Fri Jul 17 17:48:22 2020 +0800
+
+    Update debugging-profiling.md
+    
+    修改翻译错误“差距” ==》 “插件”
+
+[33mcommit 0eaea2da6cc14595d7493ccaed20d2a9808f0e09[m
+Author: 非法操作 <hjlarry@163.com>
+Date:   Fri Jul 17 09:32:17 2020 +0800
+
+    Update potpourri.md
+
+[33mcommit 391913cd26f8b078cd9abfde0ef1663630709400[m
+Author: hwj1995 <huangweijun1001@gmail.com>
+Date:   Thu Jul 16 20:24:50 2020 +0800
+
+    Update version-control.md
+    
+    常见错误是
+
+[33mcommit 63f8964c244a08490c4ec90b0523a9fd504e1fc1[m
+Author: hwj1995 <huangweijun1001@gmail.com>
+Date:   Tue Jul 14 11:58:49 2020 +0800
+
+    Update data-wrangling.md
+    
+    `[^ ]+` 会匹配任意非空且不包含空格的序列
+
+[33mcommit 25babba7a3258c84b207254b83f2a747d74bd911[m
+Merge: 295dd9c e01d186
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu Jul 9 17:25:36 2020 +0800
+
+    Merge pull request #29 from hjlarry/patch-2
+    
+    Update editors.md
+
+[33mcommit 295dd9cde782c6941663d52cc8f198e6c540fc92[m
+Merge: 4cd23b2 d7b4884
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu Jul 9 17:22:41 2020 +0800
+
+    Merge pull request #30 from qilingzhao/patch-1
+    
+    Update shell-tools.md
+
+[33mcommit 4cd23b2ac8e3b2cf6b97d6ffad9cd75b6c5b69e9[m
+Merge: 164c4d4 d1abde2
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu Jul 9 17:21:09 2020 +0800
+
+    Merge pull request #31 from hwj1995/master
+    
+    Update editors.md
+
+[33mcommit d1abde255932f81107e4e479c675f3f092fc8568[m
+Author: hwj1995 <huangweijun1001@gmail.com>
+Date:   Wed Jul 8 23:24:35 2020 +0800
+
+    Update editors.md
+    
+    修改为O / o 在之上/之下插入行
+
+[33mcommit d7b4884a9ca9c576d0b983515c98cc746d4d5fa6[m
+Author: qilingzhao <67507976+qilingzhao@users.noreply.github.com>
+Date:   Fri Jul 3 20:01:19 2020 +0800
+
+    Update shell-tools.md
+
+[33mcommit 164c4d4ad558097f71e8694dd43b4d67c17f12cc[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed Jun 24 13:22:24 2020 +0800
+
+    add translation link
+
+[33mcommit e01d186b1c4cfd00102bb3867a90f791e671bb21[m
+Author: 非法操作 <hjlarry@163.com>
+Date:   Tue Jun 23 09:30:05 2020 +0800
+
+    Update editors.md
+
+[33mcommit e23949678b6a05ff85805b108ddee9430794cde1[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon Jun 22 17:44:01 2020 +0800
+
+    Update potpourri.md
+
+[33mcommit f231b41af400d041ae34d27701c9f4028e9b74a4[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon Jun 22 17:40:42 2020 +0800
+
+    Update README.md
+
+[33mcommit 544e6296ff9a6ae5171de0c547c12e7127fe8798[m
+Merge: fcd71f6 c22082a
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon Jun 22 17:39:50 2020 +0800
+
+    Merge pull request #25 from catcarbon/master
+    
+    potpourri translate update
+
+[33mcommit fcd71f6ae28a2305869fc2d3a69d34440b8f6cd1[m
+Merge: d73c899 a68d2c2
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon Jun 22 17:18:18 2020 +0800
+
+    Merge pull request #28 from hjlarry/patch-1
+    
+    fix a missing translate
+
+[33mcommit a68d2c229b768bc495a1281812014935c67a46bc[m
+Author: 非法操作 <hjlarry@163.com>
+Date:   Mon Jun 22 16:30:39 2020 +0800
+
+    Update editors.md
+
+[33mcommit c22082ae4272a5f1f8715a1b99930037d52d8a50[m
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Sun Jun 21 21:57:53 2020 -0400
+
+    potpourri update: completed translation, some punctuation and formatting changes
+
+[33mcommit d73c899608ca76d5e1ed2dc84421e857f54c5f68[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jun 20 19:58:21 2020 +0800
+
+    Update nav.html
+
+[33mcommit 0ba603bd25977f5114b648186c89b11fac4f55f0[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jun 20 19:52:20 2020 +0800
+
+    Update index.md
+
+[33mcommit ff94abb35f184900527dc74363ba817870d41536[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jun 20 19:27:32 2020 +0800
+
+    Update index.md
+
+[33mcommit 9058a4f1ddadada74b3e24d4efb66512f0c724cc[m
+Merge: 4c59acd 7ac3826
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jun 20 19:24:20 2020 +0800
+
+    Merge pull request #26 from hjlarry/patch-1
+    
+    Update shell-tools.md
+
+[33mcommit 7ac382680c523a37eb090e70d639c21639c3f502[m
+Author: 非法操作 <hjlarry@163.com>
+Date:   Sat Jun 20 14:51:09 2020 +0800
+
+    Update _2020/shell-tools.md
+    
+    Co-authored-by: Lingfeng_Ai <hanxiaomax@qq.com>
+
+[33mcommit f09300e5d455feca9e432348690bd3e17398dd62[m
+Author: 非法操作 <hjlarry@163.com>
+Date:   Sat Jun 20 14:51:02 2020 +0800
+
+    Update _2020/shell-tools.md
+    
+    Co-authored-by: Lingfeng_Ai <hanxiaomax@qq.com>
+
+[33mcommit 7ccb0e499c6f10679de7c610fda5f61e6e9f3ad8[m
+Author: 非法操作 <hjlarry@163.com>
+Date:   Sat Jun 20 14:50:55 2020 +0800
+
+    Update _2020/shell-tools.md
+    
+    Co-authored-by: Lingfeng_Ai <hanxiaomax@qq.com>
+
+[33mcommit 7a5825a12217e195ff06978c56eaf4031b363854[m
+Author: 非法操作 <hjlarry@163.com>
+Date:   Thu Jun 18 14:36:57 2020 +0800
+
+    Update shell-tools.md
+    
+    修正翻译内容
+
+[33mcommit 4c59acdc1312c405fa556145f5493e0c5ff5b523[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed Jun 17 20:54:27 2020 +0800
+
+    Update README.md
+
+[33mcommit 1caa6c63dff90a17438d0b24f356a318242a928a[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jun 16 20:50:44 2020 +0800
+
+    Update editors.md
+
+[33mcommit 15e6e5542d9e8e9148ed30837cce7317741ede47[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jun 16 20:48:03 2020 +0800
+
+    Update editors.md
+
+[33mcommit ca72c45d08260d83836bd4852b5ffc440099daa1[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jun 16 12:36:12 2020 +0800
+
+    Update editors.md
+
+[33mcommit 4ee508b8166b8188c1a2a505969b01aa8b0f518c[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jun 16 12:31:31 2020 +0800
+
+    publish editor.md
+
+[33mcommit 5015d4afa6669a19cfaac18c41c806388d34a412[m
+Merge: c3ae823 706b368
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue Jun 16 10:19:02 2020 +0800
+
+    Merge pull request #1 from stechu/shumo-translate
+    
+    editor translate
+
+[33mcommit 6f2fbae242860c22fdbdbe039576d2b6eb63ddc6[m
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Mon Jun 15 17:26:56 2020 -0400
+
+    potpourri update: daemon, window manager, hammerspoon
+
+[33mcommit 706b36888a6011d4af4b5c84fa53d11f6004932a[m
+Author: Shumo Chu <shumo.chu@gmail.com>
+Date:   Mon Jun 15 16:29:37 2020 -0400
+
+    address comments
+
+[33mcommit 4bdb8e88202631aee313336c2769aa27c5ef2230[m
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Mon Jun 15 01:53:06 2020 -0400
+
+    update potpourri: FUSE
+
+[33mcommit f5f1c4f4751997b27e301b381b8d5017589861b9[m
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Sun Jun 14 20:03:51 2020 -0400
+
+    update porpourri
+
+[33mcommit cf29087b33a05ebf25faa8f7cbcc3c8349e6dce8[m
+Author: Shumo Chu <shumo.chu@gmail.com>
+Date:   Sat Jun 13 01:08:58 2020 -0400
+
+    editor done
+
+[33mcommit 916e032400030a06124b4a4ef53d30625f35f37a[m
+Author: Shumo Chu <shumo.chu@gmail.com>
+Date:   Sat Jun 13 00:26:13 2020 -0400
+
+    progress editor.md
+
+[33mcommit c3ae823d4b01dc15216ca851155f3b3df5921bcd[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri Jun 12 08:51:12 2020 +0800
+
+    typo
+
+[33mcommit 230c1f807c0986753dc150ce816435c78a8b9de5[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun Jun 7 10:58:49 2020 +0800
+
+    update
+
+[33mcommit d59c3fa76006c30b5ad025f9b12d5c405134abf1[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun Jun 7 10:57:01 2020 +0800
+
+    fix security
+
+[33mcommit 7c7384a730697094660af6febbd1a67c2ccb87de[m
+Author: Shumo Chu <shumo.chu@gmail.com>
+Date:   Sat Jun 6 18:08:20 2020 -0400
+
+    wip editor
+
+[33mcommit 68324c445cb6c26b24a68352874167cf2c42881c[m
+Merge: ca1e01a 9d80d64
+Author: Shumo Chu <shumo.chu@gmail.com>
+Date:   Sat Jun 6 16:49:06 2020 -0400
+
+    Merge remote-tracking branch 'upstream/master' into shumo-translate
+
+[33mcommit 9d80d6457511fcde1f2065ba65d90e8d3f21f52f[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Jun 6 20:36:37 2020 +0800
+
+    qa and security done
+
+[33mcommit 56020a51dbe26c527967f3d77a613789317f0079[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat Jun 6 20:34:44 2020 +0800
+
+    fix mobile view
+
+[33mcommit bfe61875becb7f132b6b0358315f3446c009d222[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jun 6 16:15:35 2020 +0800
+
+    Update security.md
+
+[33mcommit 6cb3645b45e7cf551257e07c4885fd9c3f228725[m
+Merge: a4ff0e4 33838a6
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jun 6 15:56:01 2020 +0800
+
+    Merge pull request #20 from AA1HSHH/qa
+    
+    qa.md is done
+
+[33mcommit a4ff0e4e4623a7c0c03d75fa8748879e0a2065a2[m
+Merge: 949c07a 5c0f5d1
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat Jun 6 15:51:19 2020 +0800
+
+    Merge pull request #10 from catcarbon/master
+    
+    security.md translation
+
+[33mcommit 33838a6f5bf84c09a00ae8d08c73a2d9558fce0d[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Fri Jun 5 17:40:05 2020 +0800
+
+    Update qa.md
+
+[33mcommit 5c0f5d119afd1f0ba3bcab11919d1af8dd11ba08[m
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Fri Jun 5 04:46:44 2020 -0400
+
+    applied requested changes
+
+[33mcommit df6c93ee1a74f17568a56e580ee2966f6dbc6529[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Fri Jun 5 16:38:35 2020 +0800
+
+    Update qa.md
+
+[33mcommit 56cf07f88960e99def84595827625c66dbd1b2a2[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Fri Jun 5 11:21:31 2020 +0800
+
+    Update qa.md
+
+[33mcommit 03e8176aed55988d67cf7e62b9022f0bfa45c5f4[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Fri Jun 5 11:15:15 2020 +0800
+
+    Update qa.md
+
+[33mcommit 38da01f7ce5c00c79fe7f9fdf41e46937efaa15c[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Fri Jun 5 11:11:51 2020 +0800
+
+    Update qa.md
+
+[33mcommit 949c07a1580083d6b7845061e60e343370721f1b[m
+Merge: 6aad59d 101ee02
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri Jun 5 06:55:01 2020 +0800
+
+    Merge pull request #22 from xlfsummer/patch-1
+    
+    fix typos and styles
+
+[33mcommit 101ee027f8dbf7bfd5fac095cce70e97e0703db4[m
+Author: xlfsummer <20750969+xlfsummer@users.noreply.github.com>
+Date:   Tue Jun 2 01:28:06 2020 +0800
+
+    fix typos and styles
+
+[33mcommit 25c3aed63c85f60a36b52735e3bfb9d74341b4e9[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 16:50:36 2020 +0800
+
+    Update qa.md
+
+[33mcommit ae7228fda84bbaa28b078d962523dd9325c3ecfc[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 16:40:54 2020 +0800
+
+    Update qa.md
+
+[33mcommit b5b17ea5dd1291d8548eecfffc0ad4a4f78bb8b8[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 15:29:15 2020 +0800
+
+    Update qa.md
+
+[33mcommit 54a28cb414dd6acb63bc70e74715236fbd150343[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 15:16:53 2020 +0800
+
+    Update qa.md
+
+[33mcommit 523ecbf94e46d50a507ff84288f09c9b65da88e6[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 15:13:01 2020 +0800
+
+    Update qa.md
+
+[33mcommit c97cb6f8cabc9d3ac27d26a4ed00277a58ef6620[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 15:09:05 2020 +0800
+
+    Update qa.md
+
+[33mcommit 893ec3e0781232d750d4ebb062eae141e3af4b98[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 15:08:01 2020 +0800
+
+    Update qa.md
+
+[33mcommit cc7910b6b52562c1915096ed45d3b8a95493b5fc[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 14:59:20 2020 +0800
+
+    Update qa.md
+
+[33mcommit c6807a11c38792718e200bab1b4a261e7c2f61ee[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 14:55:55 2020 +0800
+
+    Update qa.md
+
+[33mcommit 1e358c5b9ae95ce4018a915e9390756353840500[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 14:53:27 2020 +0800
+
+    Update qa.md
+
+[33mcommit c4c8e0ddf183877f9cde872301504cff3979104a[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 14:51:10 2020 +0800
+
+    Update qa.md
+
+[33mcommit 27abce779ab59ee7c3ce4c4660e38332cba7ccb8[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 14:47:54 2020 +0800
+
+    Update qa.md
+
+[33mcommit 6943a8adc5aad5af967c3b16bc98aa94bf9ecbc8[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 14:42:36 2020 +0800
+
+    Update qa.md
+
+[33mcommit ccfe16ea39fa436a4fb2840c774de56c35f802df[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 14:33:07 2020 +0800
+
+    Update qa.md
+
+[33mcommit 781dd3f26a04a50a3f22b500343f162ae4dd7ee6[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 14:18:34 2020 +0800
+
+    Update qa.md
+
+[33mcommit b972b971d6f91fc1d7835ddd621f7698770cf088[m
+Merge: a3a5aa4 6aad59d
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Sun May 31 01:10:04 2020 -0400
+
+    Merge fork with upstream for new chapter translation.
+
+[33mcommit a3a5aa4b404bcd6d40f6104fa7b4756c4d4193fe[m
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Sun May 31 01:05:43 2020 -0400
+
+    last part done, ready for review
+
+[33mcommit 6aad59da430f3224bf1c08660a15724cc5a867ac[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun May 31 10:45:43 2020 +0800
+
+    Update README.md
+
+[33mcommit 5e477a75d61984784d6cc51c318f36871fbd4c4c[m
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 09:31:37 2020 +0800
+
+    Update qa.md
+
+[33mcommit fc80eb5e689b4a1d8c2e02032eceb3be7202063d[m
+Merge: 75c5dad 8306a31
+Author: AA1HSHH <48511594+AA1HSHH@users.noreply.github.com>
+Date:   Sun May 31 08:43:03 2020 +0800
+
+    Merge pull request #1 from missing-semester-cn/master
+    
+    new
+
+[33mcommit 8306a312789aaf1f7b100c19473a523ca01f2eb2[m
+Merge: a4982c4 4333abc
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 30 22:37:36 2020 +0800
+
+    Merge branch 'master' of https://github.com/missing-semester-cn/missing-semester-cn.github.io
+
+[33mcommit a4982c4d9472aeb70e8cac360bf04fc37e1afe05[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 30 22:37:11 2020 +0800
+
+    add english link and social badge
+
+[33mcommit 4333abc6516d773a5309ee4c01e7bc9f5193416b[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 30 18:23:15 2020 +0800
+
+    Update README.md
+
+[33mcommit 7d69dd47e19a9386bd493ce6d50520b2909ed9a7[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 30 18:11:09 2020 +0800
+
+    add badge and ribbon
+
+[33mcommit c84d9fdd69bddb04a21e2914b2bd540dda1dd51b[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 30 16:55:40 2020 +0800
+
+    mark debugging as done
+
+[33mcommit cd40c77ca18e66fd213ee8e8f833c5aced9cc91e[m
+Merge: 3051c1a 6488d65
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 30 16:54:25 2020 +0800
+
+    Merge pull request #18 from missing-semester-cn/debugging-profiling
+    
+    Debugging profiling
+
+[33mcommit 6488d653189f6094bd26fc882b67b6281d4e7ce5[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 30 16:53:32 2020 +0800
+
+    fix typo
+
+[33mcommit 39177ad71be18722cfb0b6f72c8418bdc2adea88[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 30 16:38:39 2020 +0800
+
+    update trans
+
+[33mcommit 2a9a4fadda63fa2f2ff03ab302208520fb891548[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 30 15:58:56 2020 +0800
+
+    update trans
+
+[33mcommit 8f1e3c564f2de24e6eefbd9a1a2fb235c7d824cd[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 30 14:55:07 2020 +0800
+
+    update trans
+
+[33mcommit 984d221d6a0b7a86f887a024d14e67682c678ed1[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 30 14:01:50 2020 +0800
+
+    update trans
+
+[33mcommit c156c3a172278853240a0b7a16775df1f258f563[m
+Merge: 0621f9a 3051c1a
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Fri May 29 18:54:11 2020 -0400
+
+    Merge branch 'master' of github.com:missing-semester-cn/missing-semester-cn.github.io
+
+[33mcommit 0621f9aacd4a1f30784e791e5865786f6ab1be12[m
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Fri May 29 18:15:53 2020 -0400
+
+    some case study
+
+[33mcommit bf8e6a2714a14218d21dd5fc2e95aa961680dfed[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 30 01:01:42 2020 +0800
+
+    update trans
+
+[33mcommit 70efecbd8beaba3dcc715b742943b755ae1330ad[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 30 00:06:29 2020 +0800
+
+    update trans
+
+[33mcommit fc5d776b4ea118ce7b559d1b455d0e03039da2b6[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 29 23:24:49 2020 +0800
+
+    update trans
+
+[33mcommit 207fefb4f08dfa2a317403406c73cbc11b5a58f1[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 29 23:07:02 2020 +0800
+
+    update trans
+
+[33mcommit 7c0fb6e652762b8eaa332a8e83097941ff1c4aed[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 29 23:01:41 2020 +0800
+
+    update trans
+
+[33mcommit 0f72edb2671f39080e72328f04cd54e255732bde[m
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Fri May 29 02:57:44 2020 -0400
+
+    commitment scheme, kdf, symmetric crypto
+
+[33mcommit 5c17a118c79ac1560cc0054e4427a55bb64c04b7[m
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Thu May 28 23:59:34 2020 -0400
+
+    update kdf
+
+[33mcommit 3051c1a8c6cca2fb9db595c51447f371f116793f[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed May 27 23:33:30 2020 +0800
+
+    Update nav.html
+
+[33mcommit 9552703291763c2e8a319349fb89a9a45f3f533e[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed May 27 23:30:41 2020 +0800
+
+    mark about.md as done
+
+[33mcommit 2981fc62fad61645ab211e6ab9005b4c5e1a094a[m
+Merge: 189f085 06bc7bb
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed May 27 23:29:16 2020 +0800
+
+    Merge pull request #14 from Binlogo/master
+    
+    Translate about.md: "Why we are teaching this class"
+
+[33mcommit 06bc7bb0f3cc017740c00e9c28649c0806a6ce5e[m
+Author: 棒棒彬_Binboy <binboy@live.com>
+Date:   Wed May 27 20:21:39 2020 +0800
+
+    Apply suggestions from code review
+    
+    Co-authored-by: Lingfeng_Ai <hanxiaomax@qq.com>
+
+[33mcommit 85fb522106698ff2e0f46c55674e1392d39259a8[m
+Author: 棒棒彬_Binboy <binboy@live.com>
+Date:   Wed May 27 20:15:53 2020 +0800
+
+    Update about.md
+    
+    Co-authored-by: Lingfeng_Ai <hanxiaomax@qq.com>
+
+[33mcommit 189f085cd597e84d2c49b17f74cedba5af745f07[m
+Merge: 7a64996 20445dc
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Wed May 27 09:23:42 2020 +0800
+
+    Merge pull request #17 from missing-semester-cn/dependabot/bundler/activesupport-6.0.3.1
+    
+    Bump activesupport from 6.0.2.1 to 6.0.3.1
+
+[33mcommit 20445dce651ed416a276b2b4e2393aefc7ab994d[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue May 26 20:08:51 2020 +0000
+
+    Bump activesupport from 6.0.2.1 to 6.0.3.1
+    
+    Bumps [activesupport](https://github.com/rails/rails) from 6.0.2.1 to 6.0.3.1.
+    - [Release notes](https://github.com/rails/rails/releases)
+    - [Changelog](https://github.com/rails/rails/blob/v6.0.3.1/activesupport/CHANGELOG.md)
+    - [Commits](https://github.com/rails/rails/compare/v6.0.2.1...v6.0.3.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 0c5e8111fca91601d56972336c2849d66ec47df2[m
+Author: 王兴彬_Binboy <binboy@live.com>
+Date:   Fri May 22 00:16:26 2020 +0800
+
+    Translate about
+
+[33mcommit 3e2e8f6de1f35e02c51ab1a398ce236730b34030[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Tue May 26 08:37:36 2020 +0800
+
+    update trans
+
+[33mcommit fc9208085fea78a60f681dd1f410c7491397b1cc[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Tue May 26 08:18:34 2020 +0800
+
+    update trans
+
+[33mcommit c29eb3ce676f9e00cc2c6a399787500297d5ed1f[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Tue May 26 08:06:36 2020 +0800
+
+    update trans
+
+[33mcommit 7a64996b1f4e9833f57e82755a7fffb5836bbf94[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon May 25 20:24:34 2020 +0800
+
+    book debugging
+
+[33mcommit 9d3a77fa29c0f30138d50df1678544ca97278d85[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Mon May 25 10:32:01 2020 +0800
+
+    mark metaprogramming as done
+
+[33mcommit 6829bc9a7225c3a94d1be1c5e32ab2612f1b9f49[m
+Merge: 60b9c6a e1ead8b
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Mon May 25 10:28:43 2020 +0800
+
+    Merge pull request #15 from missing-semester-cn/metaprogramming
+    
+    Metaprogramming
+
+[33mcommit e1ead8b6e75d902671c5cad08cec218a34339d62[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Mon May 25 10:28:14 2020 +0800
+
+    reveiw
+
+[33mcommit b15c3ff791f3619b6101f479933c294d82c0ea1e[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Mon May 25 10:15:32 2020 +0800
+
+    update trans
+
+[33mcommit 6b3288c14074996f80f73d580f24543349e37f6a[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Mon May 25 08:52:02 2020 +0800
+
+    update trans
+
+[33mcommit 60b9c6ab6edeb2a77812159301749da1cd3be67b[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun May 24 19:39:06 2020 +0800
+
+    book metaprogramming
+
+[33mcommit b41a578244b58a73056fd27b916d8dc5bb2ac96e[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun May 24 19:37:22 2020 +0800
+
+    Update README.md
+
+[33mcommit 66f57b9d14be69dea700b02b0e16a5c55c59c255[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun May 24 19:35:33 2020 +0800
+
+    command line finished
+
+[33mcommit ed8b223be5fb3e7a62d2e313d43f6b73c549a435[m
+Merge: 689f1a9 07a0b64
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun May 24 19:33:52 2020 +0800
+
+    Merge pull request #12 from missing-semester-cn/command-line
+    
+    command line marked as ready
+
+[33mcommit 07a0b6434c6ee715772e1cba67a252d3fb2619c0[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 24 19:31:18 2020 +0800
+
+    marked as ready
+
+[33mcommit 689f1a9782ef5f7db42e8ac3af11b0fd5b36141d[m
+Merge: 98bb96f 95fba24
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sun May 24 19:30:38 2020 +0800
+
+    Merge pull request #11 from missing-semester-cn/command-line
+    
+    Command line
+
+[33mcommit 95fba245e1478cd657296171cfce7b10ef779b13[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 24 19:29:52 2020 +0800
+
+    fix errors
+
+[33mcommit 91744e19b5ee8a981336f7520b5de530ee0f2bd3[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 24 17:30:51 2020 +0800
+
+    fix link
+
+[33mcommit 619088009257065d8fb54d46a917b52e1e79b48f[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 24 17:26:02 2020 +0800
+
+    udate trans
+
+[33mcommit 1859b216199524d5cd1d1b5daf95129c4bf17feb[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 24 16:53:00 2020 +0800
+
+    update trans
+
+[33mcommit eaa862fbb6fe544d93721716922a4919fc7b0bb2[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 24 16:37:05 2020 +0800
+
+    update trans
+
+[33mcommit 5c6c88a80145f878b34db945722ab4d157dada2e[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 24 15:38:49 2020 +0800
+
+    update trans
+
+[33mcommit d24cbf2f4f0de9e1ed606ac34f86b5ae07a93132[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 24 00:55:07 2020 +0800
+
+    update trans
+
+[33mcommit 7b79312a4b7ccd69766cbec5377808cedab533bb[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 24 00:30:38 2020 +0800
+
+    update trans
+
+[33mcommit 988ebe739770daa7dda51db8e541d354ce44b737[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 24 00:10:52 2020 +0800
+
+    update trans
+
+[33mcommit 96db15bf081a0c76cefb3e83c0ab8b7e3557dcf7[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 23 17:32:24 2020 +0800
+
+    update  trrans
+
+[33mcommit db57a329dfa755bedb62e1c1d10a16f4524f378b[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 23 17:22:25 2020 +0800
+
+    update trans
+
+[33mcommit 1e7c87536a293a65a7b180db0ef79bf16000a123[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 23 13:56:02 2020 +0800
+
+    update trans
+
+[33mcommit 05f51cf642f2f65f3b89170a7e1ba83655068af7[m
+Merge: 0415f73 98bb96f
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Sat May 23 00:50:17 2020 -0400
+
+    Merge branch 'master' of github.com:missing-semester-cn/missing-semester-cn.github.io
+
+[33mcommit 0415f7322ed4826e4f6d3c35176aef4e2f248cc1[m
+Author: Yi Zhang <z@wtmsb.io>
+Date:   Sat May 23 00:44:48 2020 -0400
+
+    translate until little before KDF
+
+[33mcommit 98bb96f17bed606c287fdf66d3b8e119b895eef9[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 23 12:28:28 2020 +0800
+
+    small changes in index like remove the translator name
+
+[33mcommit 0857b5b92b6151d8657d1557e2a66c22b4065fa8[m
+Merge: 28dcd05 4ff9429
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 23 12:23:05 2020 +0800
+
+    fix
+
+[33mcommit 28dcd05113dd5f1f4823d32d26b3af5379c9747a[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 23 12:20:24 2020 +0800
+
+    mark vcs as done
+
+[33mcommit 4ff942983e399de03d82fba124ff506bd5edb8df[m
+Merge: 059d2ed b43df62
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 23 12:16:50 2020 +0800
+
+    Merge pull request #6 from missing-semester-cn/version-control-system
+    
+    Version control system
+
+[33mcommit b43df62453ca83dc17f98aadfb0b9dcd8b1eecc4[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 23 12:16:06 2020 +0800
+
+    review and fix
+
+[33mcommit c44a021741558d2cedb7433696404a0f46952fc5[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 23 08:51:24 2020 +0800
+
+    change ready to true
+
+[33mcommit 059d2ed485767fece1fb558229fd20b1e9187356[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 23 08:23:46 2020 +0800
+
+    Update README.md
+
+[33mcommit b9e5232f4d228b01759f0e6af314d0b24e0f20ac[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Sat May 23 08:23:23 2020 +0800
+
+    book security.md for catcarbon
+    
+    thanks in advance
+
+[33mcommit 6590617b5510619c5e1d3d6fcf49b3633f29ca43[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 23 08:16:02 2020 +0800
+
+    finished. not including the part marked as comments
+
+[33mcommit bda6d3cf193fd385cc139054ffaeb49c85d5852e[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 23 00:37:54 2020 +0800
+
+    update trans
+
+[33mcommit 4ef6cff3dbd0422dd1b07c0109141e819630a6ee[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 22 23:36:37 2020 +0800
+
+    update trans
+
+[33mcommit d75bfa3eda9d5defbdf91b7408bfb2bb3769ccb1[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 22 23:15:01 2020 +0800
+
+    update trans
+
+[33mcommit 25f524b8356ede300604e9da8819c0e199b5dcc7[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri May 22 22:49:16 2020 +0800
+
+    Update README.md
+
+[33mcommit a653cd1b5cc52fafb26b0f8c628e372bc0e2b65b[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri May 22 22:48:44 2020 +0800
+
+    book qa.md for AA1HSHH
+
+[33mcommit fe35a25be553e1344a1837de2fbff53ff7e38020[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 22 22:46:02 2020 +0800
+
+    update trans
+
+[33mcommit 75c5dad1ce22e9828839d4da588a53588f609115[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri May 22 17:07:58 2020 +0800
+
+    book one more lectures
+
+[33mcommit 82f4b5853732d4f1b2cbd360d509d28211474ed8[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri May 22 16:59:00 2020 +0800
+
+    change status for data-wrangling.md
+    
+    marked as done
+
+[33mcommit 53a374595c5d29756b49b62be1001cb66a4ba2b0[m
+Merge: 0b481e2 c45bca8
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Fri May 22 16:55:28 2020 +0800
+
+    Merge pull request #3 from missing-semester-cn/data-wrangling
+    
+    Data wrangling
+
+[33mcommit c45bca8ae6988693f609abac4f71b0dfa96d1dbb[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 22 16:55:07 2020 +0800
+
+    fix typo and so on
+
+[33mcommit f27de0a9006f4401a709686876c1d062b2d7b4ae[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 22 16:43:33 2020 +0800
+
+    finish
+
+[33mcommit 3411b7ed6a99750a3849ffab5a4117b41dcc4c89[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Fri May 22 12:52:09 2020 +0800
+
+    update trans
+
+[33mcommit 18246f8cb1da77c78f27e496ca34cb87496a9f6a[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Thu May 21 22:52:44 2020 +0800
+
+    update trans
+
+[33mcommit 54fed9e92509a01a4e4c7c15015b9e3a801468b6[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu May 21 16:16:24 2020 +0800
+
+    Update data-wrangling.md
+
+[33mcommit abc81131a0c38c0ee52ffbb9b301e9ac05adc197[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu May 21 14:30:11 2020 +0800
+
+    Update data-wrangling.md
+
+[33mcommit 0b481e29b274f303bfe4137f5efe5050cb09b748[m
+Author: Lingfeng_Ai <hanxiaomax@qq.com>
+Date:   Thu May 21 13:53:25 2020 +0800
+
+    Update issue templates
+
+[33mcommit 035a50a68977830c32eb00d098622a684ddb24e6[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu May 21 13:45:33 2020 +0800
+
+    Update data-wrangling.md
+
+[33mcommit 2266cc84ca94301a908b043f106fb249e622bb12[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu May 21 11:27:23 2020 +0800
+
+    Update README.md
+
+[33mcommit 60980d16892d2d340f979d0f6c657ca1ce010ddd[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu May 21 11:01:56 2020 +0800
+
+    Update README.md
+
+[33mcommit 8bb23f4f2f13b95cee0c16d42f299ef32bb1ee8a[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Thu May 21 10:59:20 2020 +0800
+
+    add Project Status
+
+[33mcommit ca1e01abe905107dc3f0292b1ce142367ea80b96[m
+Author: Shumo Chu <shumo.chu@gmail.com>
+Date:   Wed May 20 21:33:06 2020 -0400
+
+    wip editor
+
+[33mcommit c8c89d1dec7ed9b6881b34fb9ae3b3a9549d8a8c[m
+Author: Shumo Chu <shumo.chu@gmail.com>
+Date:   Tue May 19 19:23:05 2020 -0400
+
+    wip editor translate
+
+[33mcommit 678255ed0b6cd3fdf30a166bf22ff7ddad3e147f[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue May 19 09:07:50 2020 +0800
+
+    Update index.md
+
+[33mcommit 9a5788043710ac7b94a603804c4bc2ea3d0b403e[m
+Author: Lingfeng_Ai <hanxiaomax@gmail.com>
+Date:   Tue May 19 07:53:42 2020 +0800
+
+    fix typo
+
+[33mcommit 9d72d61d6a04ecc6de0ce909b8825ca48c38cc56[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 23:03:42 2020 +0800
+
+    add trans status
+
+[33mcommit c394aaf862e76c0abf3a3e09fa3ede3cd415aa2d[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 22:12:49 2020 +0800
+
+    change title
+
+[33mcommit d38371383b34c42ec9c19dbdc6159cec4950ae6f[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 18:55:01 2020 +0800
+
+    add trans status
+
+[33mcommit d7a7e6f1b97c7d970bca35fb80ee78c7864ba23f[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 18:32:23 2020 +0800
+
+    add trans status
+
+[33mcommit 77e17b3ac129e0f2f2fb25e418b2880179d5974e[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 18:07:51 2020 +0800
+
+    add trans status
+
+[33mcommit d99ad6131ecf75608517706cdaf874d908c810c5[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 17:50:44 2020 +0800
+
+    add trans status
+
+[33mcommit e2ea2c95e4ee05ec94a57b56a607f940da2bc92b[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 17:09:00 2020 +0800
+
+    add trans status
+
+[33mcommit b7acd7a7dbeab29d4fd2f879d4273380217b7dd3[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 16:21:32 2020 +0800
+
+    add trans status
+
+[33mcommit fe9e51bd5f45602f00075b5c95adef166df80e23[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 11:02:06 2020 +0800
+
+    change title
+
+[33mcommit 0a35548fea0f4f5da4d710ba57319c87488d6e0a[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 10:59:12 2020 +0800
+
+    update trans
+
+[33mcommit 60822945d27cc6316ccab52856210240dbfc0bf9[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 10:58:57 2020 +0800
+
+    add author
+
+[33mcommit f19f42034e3e5782196fc42aa83d1e4bf2f8c666[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 10:14:38 2020 +0800
+
+    update trans
+
+[33mcommit 5697c0892d89a5ef46ee2c1f4d18e4a895efbc49[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 09:29:13 2020 +0800
+
+    finish charpter 1 course-shell
+
+[33mcommit f41cc80ad0df346447731b156578984911ac0908[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 00:38:24 2020 +0800
+
+    trans lectures
+
+[33mcommit 29fb9bf5318be61babb98be24b5b5e9f545bf740[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 00:31:44 2020 +0800
+
+    translate index
+
+[33mcommit fa2c3347f93eb16ccf57797564f2e40a330e7e18[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 00:10:10 2020 +0800
+
+    update edit link
+
+[33mcommit 6bf915bfe04ba32818944949d12d7ff3a3ceb760[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sun May 17 00:06:41 2020 +0800
+
+    update the title
+
+[33mcommit 6ee36e86658e1a11b755a474f6f95c702a1d4667[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 23:53:30 2020 +0800
+
+    update the title
+
+[33mcommit 724ce5bf1b4c9910f7391dd2444fd4a5b86cee2f[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 23:44:06 2020 +0800
+
+    update trans
+
+[33mcommit 79a33b13be282e2bbeae39b82a4c44c5a3e9a16a[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 23:25:16 2020 +0800
+
+    update trans
+
+[33mcommit 24b20103a2c6f23b0fc2f9505875811246a9ab7f[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 23:19:04 2020 +0800
+
+    update trans
+
+[33mcommit 8787a32f7eae2d44c04833cf4e890a6a64aa57a8[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 23:02:03 2020 +0800
+
+    update trans
+
+[33mcommit 18398bc652cd6e309b7af632c5fc0cdab782df40[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 22:49:41 2020 +0800
+
+    update trans
+
+[33mcommit b490959eb3efb3407608c2feca4dccd2a721dd70[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 21:53:34 2020 +0800
+
+    update trans
+
+[33mcommit aa128c87c55fb7eee7d13f92145e0c1532b439a9[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 21:48:14 2020 +0800
+
+    update trans
+
+[33mcommit 9db51cd42131eb05b8e738f93d7cba57c03d8e1a[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 21:37:27 2020 +0800
+
+    update trans
+
+[33mcommit 644a82adaa0bbc79640ffa6521a9ebca83b2a219[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 21:31:01 2020 +0800
+
+    update trans
+
+[33mcommit 7f18ca08cb43ba1b6e5f359a48148b1cd24d2f7f[m
+Author: hanxiaomax-mac <hanxiaomax@qq.com>
+Date:   Sat May 16 21:30:29 2020 +0800
+
+    fix cname
+
+[33mcommit 1926cd77df44c04748278b2318de9f2482957f7e[m
+Merge: 2c39f81 396ba17
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed May 13 15:14:58 2020 -0400
+
+    Merge branch 'devanshrj/master'
+
+[33mcommit 396ba17febda9d473b96ed98f95ddf0a04d640d2[m
+Author: devanshrj <devanshrj@outlook.com>
+Date:   Thu May 14 00:42:01 2020 +0530
+
+    Typo in command-line.md
+
+[33mcommit 2c39f810389970ea977938a85d6c2013c3081f16[m
+Merge: 8c5a2d8 8e1b9d6
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon May 11 18:20:33 2020 -0400
+
+    Merge pull request #44 from Corbin-A/master
+    
+    Small formatting and grammar tweaks
+
+[33mcommit 8e1b9d64614a1cbf7c59aa2ac264df3da8b7a44e[m
+Author: Corbin Albert <corbin.albert@gmail.com>
+Date:   Mon May 11 15:07:12 2020 -0700
+
+    Small formatting and grammar tweaks
+    
+    Nothing too special, mostly just adding a few words to assist in
+    sentence flow. I also elaborated a bit more on the tmux prefix to
+    hopefully make it a bit easier to understand, though it was pretty
+    self-explanatory to begin with.
+
+[33mcommit 8c5a2d8c22e42c482061d652ea797a1a2f12484b[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri May 8 10:55:16 2020 -0400
+
+    Remove use of "said"
+    
+    Thanks to @rtvkiz for bringing this up.
+
+[33mcommit 5c0097c9fb3dfef62460b6fc9fe6071a8b5c31f9[m
+Merge: f05f6e3 f5401d0
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon May 4 16:35:41 2020 -0400
+
+    Merge pull request #42 from FMJansen/patch-1
+    
+    fix typo
+
+[33mcommit f5401d0100cc032372cabf6a384ac47dcca54b10[m
+Author: Floris <floris@fmjansen.nl>
+Date:   Mon May 4 22:34:38 2020 +0200
+
+    fix typo
+    
+    The sentence missed an ‘it’
+
+[33mcommit f05f6e34c91252a207c7f57c729245aca7bb3217[m
+Merge: 036b488 e1e9297
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Apr 25 07:12:20 2020 -0400
+
+    Merge branch 'EthanVieira/master'
+
+[33mcommit e1e92975321a26af716db5cd0bb007787e7492dc[m
+Author: Ethan Vieira <ethanvieira@gmail.com>
+Date:   Sat Apr 25 03:01:29 2020 -0500
+
+    fix small typo
+
+[33mcommit 036b488da271d8120c2c4b477dab324015120fff[m
+Merge: 64017d4 4fd5ac3
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Tue Apr 21 17:42:14 2020 -0400
+
+    Merge pull request #40 from StevenMaude/correct-shell-parameter-term
+    
+    Describe the shell parameter $! correctly
+
+[33mcommit 4fd5ac39f50449dc784d17674a6215cbe99f3f62[m
+Author: Steven Maude <StevenMaude@users.noreply.github.com>
+Date:   Tue Apr 21 22:34:34 2020 +0100
+
+    Describe the shell parameter $! correctly
+    
+    `$!` is a special parameter, not an environment variable.
+    
+    "special parameter" is used in both the Open Group specification:
+    https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html
+    
+    and the bash documentation:
+    https://www.gnu.org/software/bash/manual/html_node/Special-Parameters.html
+
+[33mcommit 64017d45f89c0060bd758e917cfedffbe5397f8a[m
+Merge: d364ef3 b32ad5c
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Apr 10 22:06:03 2020 -0400
+
+    Merge pull request #38 from connorrose/typo
+    
+    Debugging-Profiling - fix exercise autonumbers and indenting
+
+[33mcommit b32ad5c31636d99210ae2515b979ffa9c70c3223[m
+Author: Connor Rose <connorrose.git@gmail.com>
+Date:   Fri Apr 10 17:58:26 2020 -0700
+
+    Fix exercise autonumber and indents
+
+[33mcommit d364ef3e328508cb067ffcbfc3fd418dc6bbce63[m
+Merge: d4dabb7 49a8040
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Thu Apr 9 10:09:43 2020 -0400
+
+    Merge branch 'nishkakotian/my_branch'
+
+[33mcommit 49a804028aec20a413f8e730853bebebe213de5a[m
+Author: nishkakotian <nishka308@gmail.com>
+Date:   Thu Apr 9 19:29:33 2020 +0530
+
+    Removed a letter
+
+[33mcommit d4dabb71e175963c0f8a44c4f94eec56ff01a258[m
+Merge: 112f7d4 370beb1
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Apr 6 10:54:49 2020 -0400
+
+    Merge pull request #35 from eldarkurtic/master
+    
+    Fix small typos
+
+[33mcommit 370beb1de03c3bb35c53a56cd83b0d861a3c0fb7[m
+Author: cijad <eldar.ciki@gmail.com>
+Date:   Mon Apr 6 09:20:44 2020 +0200
+
+    Fix 'the math' -> 'math'
+
+[33mcommit 9d61ea6f207e73be71852f7719284d6513b90905[m
+Author: cijad <eldar.ciki@gmail.com>
+Date:   Sun Apr 5 20:18:51 2020 +0200
+
+    Fix small typos
+
+[33mcommit 112f7d46a6a4a7992dfae477ea7899343617dae1[m
+Merge: 5b86715 a1a133a
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Apr 3 15:00:26 2020 -0400
+
+    Merge branch 'krishnakumarg1984/krishna_fix_typos'
+
+[33mcommit a1a133af9081e42a1814358c870e4a3824580c39[m
+Author: Krishnakumar Gopalakrishnan <krishna.kumar@ucl.ac.uk>
+Date:   Fri Apr 3 19:53:26 2020 +0100
+
+    adds a number of typo fixes to markdown files in the project repo
+
+[33mcommit 5b86715669a0eb8cd02c2a656907c1c757096861[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Mar 27 09:02:40 2020 -0400
+
+    Typo; fixes #33
+
+[33mcommit d6b1988c80c605906f393920cef0600b0e65b9f0[m
+Merge: 5172ab6 5158694
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Mar 27 09:01:41 2020 -0400
+
+    Merge pull request #32 from carpdiem/patch-3
+    
+    Change link to cProfile from python2 -> python3 docs
+
+[33mcommit 5158694497bbe4c4bfbf568ce2e9d450bd4dd1d7[m
+Author: Michael <carpdiem@gmail.com>
+Date:   Thu Mar 26 17:21:00 2020 -0700
+
+    Change link to cProfile from python2 -> python3 docs
+    
+    The current link to cProfile in the exercises links to the python2 documentation. Maybe this should be the python3 documentation instead?
+
+[33mcommit 5172ab6d4888a883cdaf1f277efc0adb4a5ea99f[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Mar 23 22:17:54 2020 -0400
+
+    Fix mixup between RemoteForward and LocalForward
+    
+    Thanks to @carpdiem for pointing this out in
+    https://github.com/missing-semester/missing-semester/issues/31.
+
+[33mcommit 3fb62b082917447e9d4c2aa4f7b29e3426c64776[m
+Merge: 143625b 8397324
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Mar 23 18:49:12 2020 -0400
+
+    Merge pull request #30 from carpdiem/patch-2
+    
+    link to info about ssh-agent is incorrect
+
+[33mcommit 83973242fe6a9eef14461efc4b6ba479d14daca3[m
+Author: Michael <carpdiem@gmail.com>
+Date:   Mon Mar 23 15:10:12 2020 -0700
+
+    link to info about ssh-agent is incorrect
+    
+    linked url: https://www.ssh.com/ssh/agents
+    correct url: https://www.ssh.com/ssh/agent
+
+[33mcommit 143625be17088b45c8c8b7e606e614ebaec139f0[m
+Merge: cb458ee a0e32fe
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sun Mar 22 12:00:47 2020 -0400
+
+    Merge pull request #29 from lepasq/typo-shell-lecture
+    
+    Fix typo inside shell-tools.md
+
+[33mcommit a0e32fe98ca0c5db5c9ecb75a4dd9271a42ba4f0[m
+Author: lepasq <53230128+lepasq@users.noreply.github.com>
+Date:   Sun Mar 22 14:08:08 2020 +0100
+
+    Fix typo inside shell-tools.md
+    
+    Added missing period.
+
+[33mcommit cb458ee45a76af1e113437db5edf8e734405e48e[m
+Merge: 505f7c4 2598a38
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sat Mar 21 17:18:13 2020 -0400
+
+    Merge pull request #27 from rbnsl/master
+    
+    Added prettier as example of a code formatter
+
+[33mcommit 505f7c4dd9358cd08cf8a6fe7a0571d58d33c939[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Mar 21 10:51:05 2020 -0400
+
+    Fix typo
+
+[33mcommit 2598a388d582ddf042f8f14be1518c3e1e8c29c7[m
+Author: Rohan Bansal <rohanarunbansal@gmail.com>
+Date:   Fri Mar 20 20:36:26 2020 -0700
+
+    Added prettier as example of a code formatter
+
+[33mcommit d1107eb3004c721bbd22abd1df1035841c971f9f[m
+Merge: 9d87979 53cd428
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Mar 16 16:03:04 2020 -0400
+
+    Merge branch 'J16053/patch-1'
+
+[33mcommit 53cd42893551591ab676e5a96445a3a622a71f41[m
+Author: Jacinta <jh5372@nyu.edu>
+Date:   Mon Mar 16 23:50:09 2020 +0400
+
+    Fix typo in example
+
+[33mcommit 9d8797992961841a997a08bf586f68daed45defa[m
+Merge: 98e673d bc6aefb
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Mar 13 10:48:04 2020 -0400
+
+    Merge branch 'lcynot/patch-1'
+
+[33mcommit bc6aefb28c339e0c446f8c2e59335c602b2e61ff[m
+Author: Tony Liu <lcynot@users.noreply.github.com>
+Date:   Fri Mar 13 00:42:08 2020 +0800
+
+    fix the typo
+    
+    fix the typo of "hash function"
+
+[33mcommit 98e673d56a5bb372c18813d80cdcad2c46f602ba[m
+Merge: b73b4a2 12b8808
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sun Mar 8 12:16:12 2020 -0400
+
+    Merge pull request #23 from Mendoza2909/typo
+    
+    Typo
+
+[33mcommit 12b8808e0e2cad6ccb66639c26e107eef51b599d[m
+Author: Colin Menzies <colin@hyperexponential.com>
+Date:   Sun Mar 8 16:04:53 2020 +0000
+
+    Typo
+
+[33mcommit b73b4a267bdf0a5ecd8cf0b63560ae9316ca55c5[m
+Merge: 55b5a2e 075b313
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Thu Mar 5 08:18:52 2020 -0500
+
+    Merge branch 'carpdiem/patch-1'
+
+[33mcommit 075b31309392be59468dcb45d86d91f64bd53d50[m
+Author: Michael <carpdiem@gmail.com>
+Date:   Wed Mar 4 16:23:59 2020 -0800
+
+    incorrect link in exercises: terminal multiplexer
+    
+    Second link in Exercises: Terminal multiplexer is a duplicate of the first link.
+    Currently, both point to https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
+    Did you mean to direct the second link (about customizing your tmux conf) to the sequel blog post from the Ham Vocke at https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/ ?
+
+[33mcommit 55b5a2e8def9196a92c48e735b31cf2802685a5e[m
+Merge: cb2b3c8 4febdca
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Feb 28 10:36:23 2020 -0500
+
+    Merge pull request #21 from piaoliangkb/master
+    
+    fix typo
+
+[33mcommit 4febdca9b3c21654cd94fdc5f8cd850ac0a19b72[m
+Author: piaoliangkb <418508556@qq.com>
+Date:   Fri Feb 28 12:56:40 2020 +0800
+
+    fix typo
+
+[33mcommit cb2b3c80a1716e34a2e18345747fb9aa84327f83[m
+Merge: 541accb ed37dcc
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Wed Feb 26 08:51:52 2020 -0500
+
+    Merge pull request #20 from missing-semester/dependabot/bundler/nokogiri-1.10.8
+    
+    Bump nokogiri from 1.10.7 to 1.10.8
+
+[33mcommit ed37dcc4af58c287e28f9b8db838fd5c46bae2d5[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Feb 26 12:02:50 2020 +0000
+
+    Bump nokogiri from 1.10.7 to 1.10.8
+    
+    Bumps [nokogiri](https://github.com/sparklemotion/nokogiri) from 1.10.7 to 1.10.8.
+    - [Release notes](https://github.com/sparklemotion/nokogiri/releases)
+    - [Changelog](https://github.com/sparklemotion/nokogiri/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/sparklemotion/nokogiri/compare/v1.10.7...v1.10.8)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 541accb0b2df129b049319cf0121e1be6ab56d5d[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 24 10:50:59 2020 -0500
+
+    Add more info on shebang
+
+[33mcommit a8cf2e7567d8e581751f6f1b90f1942e70e11805[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 24 10:42:29 2020 -0500
+
+    Clarify `./semester` vs `sh semester` in exercises
+
+[33mcommit a7592dd1e03ad64135c0560d1f66c66409509e2a[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 24 10:42:13 2020 -0500
+
+    Clarify lack of sysfs on macOS/Windows
+
+[33mcommit de99a3901fdc9be88de6f6c0518e54a3474b60a1[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Thu Feb 13 17:29:17 2020 -0500
+
+    Fix numbering
+
+[33mcommit dd235b84830a149819bb8e2530f01103ddad650b[m
+Merge: c7391e7 dfa763c
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 10 07:21:47 2020 -0500
+
+    Merge branch 'cthogg/patch-1'
+
+[33mcommit dfa763c42a844126e914151229e647d87b55a231[m
+Author: Christopher Hogg <cthogg@users.noreply.github.com>
+Date:   Mon Feb 10 10:11:40 2020 +0100
+
+    fix: typo
+    
+    basic change to the sentence structure to make it clearer.
+
+[33mcommit c7391e74e32f111d614fab5298a3c0ff48791aa2[m
+Merge: e2b716f 0fcfe45
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sun Feb 9 11:37:38 2020 -0500
+
+    Merge pull request #18 from krohnta/master
+    
+    Fix wrong option in alias example
+
+[33mcommit 0fcfe45ab91db93fd78584134e4aa3c8fed4c5ff[m
+Author: Teresa Krohn <tkrohn@posteo.de>
+Date:   Sun Feb 9 15:35:45 2020 +0100
+
+    Fix wrong option in alias example
+
+[33mcommit e2b716f3aee7a91189c5a3bf194c7e5fb82f7743[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Feb 8 20:15:48 2020 -0500
+
+    Add link to website license page
+
+[33mcommit 9389a075a030e2a4b5234cbc0c46a5d36c58f88c[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Feb 7 14:40:42 2020 -0500
+
+    Clarify that license covers source code
+
+[33mcommit 3366d228efca0181a8e738373be8a6ac6d5c2bd8[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Feb 7 12:35:48 2020 -0500
+
+    Tweak license wording
+    
+    - Add back source code link
+    - Shorten "Licensed under..." wording
+    - Remove link to CC license on homepage
+
+[33mcommit c3b3045ce6294f21f4a72ad42c8b5b18092c7ae4[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Feb 7 12:17:11 2020 -0500
+
+    Add license and guidelines
+
+[33mcommit a6bed6aadb0386b4559461a5df050c09ca336329[m
+Merge: b7dd961 d5d76e2
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Thu Feb 6 14:10:36 2020 -0500
+
+    Merge branch 'manzt/patch-1'
+
+[33mcommit d5d76e2b36be7324eff02014e9ae93423f681912[m
+Author: Trevor Manz <trevor.j.manz@gmail.com>
+Date:   Thu Feb 6 14:07:05 2020 -0500
+
+    tmux -t is illegal option
+
+[33mcommit b7dd961603de32208230d06e0be58589140e7d95[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Feb 5 22:18:35 2020 -0500
+
+    Fix typos in example
+    
+    Thanks to Victor Engmark for pointing this out
+    (https://github.com/missing-semester/missing-semester/issues/13).
+
+[33mcommit 0819942b6ea9e85ac3da9edec7f48cdcc118c960[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Feb 5 21:56:07 2020 -0500
+
+    Add note on SHA-1 being broken
+    
+    Thanks to Ben Keith for suggesting this:
+    https://github.com/missing-semester/missing-semester/pull/15#issuecomment-582686785.
+
+[33mcommit 0c3327f7094c1cb8b1d44a628aa7137621e89fa5[m
+Merge: 90961b5 84e9163
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Feb 5 21:43:26 2020 -0500
+
+    Merge branch 'benlk/patch-1'
+
+[33mcommit 84e91630ed98cfa0b2ce4a7ee8e863cd442f4773[m
+Author: Ben Keith <1754187+benlk@users.noreply.github.com>
+Date:   Wed Feb 5 19:54:16 2020 -0500
+
+    Enlarge upon the sha1sum examples
+    
+    To demonstrate how slightly-differing inputs have widely different outputs, and how repeating the same input generates the same output.
+
+[33mcommit 90961b56717f5fb9848a742d17864b595d1410ae[m
+Merge: 2a2d4f2 8e49a02
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Feb 5 16:25:14 2020 -0500
+
+    Merge branch 'nixon/master'
+
+[33mcommit 8e49a02f30951ae639a30df80acf9ede3b523567[m
+Author: nixon <nixon@shun.org>
+Date:   Wed Feb 5 15:09:41 2020 -0600
+
+    fix typo
+
+[33mcommit 2a2d4f22d004aea249f39ab58001146968d63df0[m
+Merge: c875d6d f3f3237
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Feb 5 07:58:17 2020 -0500
+
+    Merge branch 'StTronn/versionundo'
+
+[33mcommit f3f3237ceb11b635d71d6771c2ead578e8fcf226[m
+Author: rishav <rishav.21m@gmail.com>
+Date:   Wed Feb 5 01:23:00 2020 +0530
+
+    Add undo commands
+
+[33mcommit c875d6d39b8cd51c1ea9676c81a010e085940a83[m
+Merge: 78e0840 b0bfd9f
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Feb 4 19:45:04 2020 -0500
+
+    Merge branch 'SeanPedersen/patch-2'
+
+[33mcommit b0bfd9f15166662695dc5676e72d027092b6d27b[m
+Author: Sean Pedersen <37712604+SeanPedersen@users.noreply.github.com>
+Date:   Wed Feb 5 01:43:00 2020 +0100
+
+    Update security.md
+    
+    Would make no sense to encrypt the public key...
+
+[33mcommit 78e084091c2463bb0dde2f101f4150ce1b70c6dc[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Tue Feb 4 12:15:25 2020 -0500
+
+    Note about 'real' metaprogramming meaning (#9)
+
+[33mcommit 55e5c8150aaae23bcda139e22ad3a01d3f7785fb[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Feb 4 11:44:39 2020 -0500
+
+    Add note about ZSH
+    
+    Thanks to Jon for catching this. See discussion in
+    https://github.com/missing-semester/missing-semester/pull/8.
+
+[33mcommit a70337c5e37936724582a5acc09881707f0e410a[m
+Merge: 1f3faa9 761f0d8
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Feb 4 10:59:55 2020 -0500
+
+    Merge branch 'm-laniakea/patch-1'
+
+[33mcommit 761f0d8f566d5393af8df48b9266b6e5248c9eb4[m
+Author: eir <m-laniakea@users.noreply.github.com>
+Date:   Tue Feb 4 07:26:13 2020 -0800
+
+    command-line.md/Aliases: Fix top-10 history script
+    
+    `history 1` returns only the current event, making it look like the only command in history is the script people just pasted into their terminal.
+    Note that tail prints the last 10 lines by default.
+
+[33mcommit 1f3faa9f22c0c0ac35e2ab291e9ebda1754bb933[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Feb 3 22:11:26 2020 -0500
+
+    Fix incorrect use of WebKit in Q&A notes
+
+[33mcommit 5e9ddfbb9433187aa8664024ab8daae0df812cc1[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Mon Feb 3 12:54:06 2020 -0500
+
+    Add captions for lecture 2
+
+[33mcommit de1ecd2b232076ab3504e3f1b214901f12d27580[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 3 12:49:13 2020 -0500
+
+    Fix link
+
+[33mcommit 2f1b015783b2636082c7265cca5426079854085a[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 3 12:44:32 2020 -0500
+
+    Add redirect
+
+[33mcommit c99c9bda2e2517e29decd3e29984597f20428646[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 3 12:37:23 2020 -0500
+
+    Update links
+
+[33mcommit 1ada0a5465bc41dc8cce8f0665b4b1f87ff7f294[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 3 10:11:12 2020 -0500
+
+    Update description
+
+[33mcommit 6362f6ba055b17796ce2e92e86864a2857257039[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 3 10:10:00 2020 -0500
+
+    Remove irrelevant info now that class is over
+
+[33mcommit 1fb1b4efc6fed7188ec61f849db9e353cff182ae[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 3 08:33:49 2020 -0500
+
+    Do editing pass on Q&A lecture
+
+[33mcommit 18753d25d17dfa3f70c4ff998b8b9feba4e1ed99[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Mon Feb 3 02:12:13 2020 -0500
+
+    Add subtitles for lectures 5,7,11
+
+[33mcommit df9b9259118a016870beb631a13b4fbb299a0f81[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Mon Feb 3 02:05:35 2020 -0500
+
+    Add notes for Q&A lecture
+
+[33mcommit b62d1ce984a7d92a94b435fe5ecb4380b944bab0[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sun Feb 2 21:34:24 2020 -0500
+
+    Fix "video coming soon" on /about/ page
+    
+    With this patch, if there's no mention of video, nothing is shown. If
+    the video has an ID, then the video is shown. Otherwise, if there's
+    something like `video: false`, then the notice about the pending video
+    will be shown.
+
+[33mcommit 39bd31d01fb7b0a40caa4e1f01ec1dea80bd7374[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sun Feb 2 16:23:00 2020 -0500
+
+    Add Q&A video
+
+[33mcommit d030d5d88d2613e7eb37ac2b0f9ca811f812ab6c[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sun Feb 2 14:19:25 2020 -0500
+
+    Publish potpourri video
+
+[33mcommit 209f3cc685fc5692a5a5b4a7494f120c6b8721c4[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sat Feb 1 22:39:11 2020 -0500
+
+    New videos for all lectures
+
+[33mcommit 47c8699a7650050f318a173d9f5f88ace59da302[m
+Merge: 5da3fe5 df77502
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sat Feb 1 17:22:53 2020 -0500
+
+    Merge pull request #6 from martinplattnr/patch-1
+    
+    Update potpourri.md
+
+[33mcommit df77502d0c182af852f85a12eb72f0a52b020555[m
+Author: Martin Plattner <mrtn@plattner.me>
+Date:   Sat Feb 1 22:59:56 2020 +0100
+
+    Update potpourri.md
+
+[33mcommit 5da3fe53bfce5f4bea4f6095d73a981b1f1c85fb[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Jan 29 19:48:38 2020 -0500
+
+    Remove stray 1
+
+[33mcommit a5467b512b211fdaeab89002608b52411f0f5894[m
+Merge: 7278613 8b7f440
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Jan 29 17:00:55 2020 -0500
+
+    Merge branch 'master' of github.com:missing-semester/missing-semester
+
+[33mcommit 8b7f4407556ac98692b27715c5503f48fa09ff09[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Wed Jan 29 16:45:34 2020 -0500
+
+    Nicer page break points
+
+[33mcommit 72786137b007ea8d682601992f0d9bf01925b308[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Jan 29 16:29:46 2020 -0500
+
+    Add TOC for Potpourri
+
+[33mcommit d06a8c3032ce1bdaec20402c043676b98e835518[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Jan 29 13:12:17 2020 -0500
+
+    Jose's Potpourri
+
+[33mcommit a6131224c570970545987a624f03d76bab53cc0a[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Wed Jan 29 12:58:32 2020 -0500
+
+    adjustments
+
+[33mcommit d868af3e6db57a7cabe3d3a0b1d2bbe1ff987e24[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 29 12:17:09 2020 -0500
+
+    Remove names from lecture notes
+
+[33mcommit a1ac1bc93bc9fdc8dfb5e850e01de1f62e2ec504[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 29 12:15:07 2020 -0500
+
+    Add my content
+
+[33mcommit 09fafb8dcc538acb10d519cf51f03fd9a12e2a44[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Wed Jan 29 09:44:29 2020 -0500
+
+    jon potpourri
+
+[33mcommit 4d923c320afac2ffc180b60956411abb5be13d94[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Tue Jan 28 17:11:30 2020 -0500
+
+    Add basic structure to potpourri
+
+[33mcommit 19f761e0af7115fb17bb9563268c7f0a0908aaee[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 28 13:39:01 2020 -0500
+
+    Add resources
+
+[33mcommit d64d0d86e24953e11b5f30cc1063511f17983c51[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 28 13:32:36 2020 -0500
+
+    Clarify that hash is deterministic
+
+[33mcommit 5eb737fca9a571cefdb1bbf1a7a30241f18ac564[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 28 13:19:29 2020 -0500
+
+    Add some more case studies
+
+[33mcommit ca57678d503d50a8c3cb11747cf264e54b95aeb6[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 28 11:34:08 2020 -0500
+
+    Add notes for security lecture
+
+[33mcommit 81f0ba5e7a858702b983875134079de7dcbe5a29[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Tue Jan 28 10:48:25 2020 -0500
+
+    Release lec7 and lec8 videos
+
+[33mcommit 40f3193e5c96defec919d8180edf7ea763ce9faa[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Jan 27 11:48:49 2020 -0500
+
+    Sane print styles
+
+[33mcommit 2ea7c7522072d9551410d10c21c846c498d22ffa[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Jan 27 09:31:23 2020 -0500
+
+    Release meta
+
+[33mcommit 7ec08436e69a5b072d0f8e5aec81b8f567fe2687[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Jan 27 09:11:37 2020 -0500
+
+    Python 2/3, testing, and exercises
+
+[33mcommit a438dacbb4c5f3d2ad4190f7006cd585ada8f699[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Sun Jan 26 21:35:17 2020 -0500
+
+    Rename lecture notes
+
+[33mcommit ce7fa626d56d52efc4ffd4721c13b0647ddcdcf9[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sun Jan 26 17:01:55 2020 -0500
+
+    First draft of meta
+
+[33mcommit 230f88bb7bb1bfdecfaade20ff0e6923f9569c82[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Sun Jan 26 11:42:21 2020 -0500
+
+    Minor edits to debug/profiling
+
+[33mcommit bdbebf81c02f1cf16d13d1f80e66e914f211a25c[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 23 00:37:30 2020 -0500
+
+    Toggle lecture visibility
+
+[33mcommit 4d0ae52e8c7837ec6d584ea228a6ecb943d88e07[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 23 00:22:51 2020 -0500
+
+    Remove hanging TODO
+
+[33mcommit e9157bea462d57cbda6ea96054b324ee2a1d84a4[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 23 00:21:53 2020 -0500
+
+    Finish debug-profile lecture notes
+
+[33mcommit 3122df03ed6ed2930cad017bd00b90a198e46359[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 23 00:17:45 2020 -0500
+
+    Some writing edits to debug-profile
+
+[33mcommit aede0327c02050c13d302d531b1a341ca58b4044[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Jan 22 23:11:33 2020 -0500
+
+    Finish cProfile example
+
+[33mcommit 70a546ceccad9ac2f1619e89746d4a9d2cadab8f[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Jan 22 22:36:19 2020 -0500
+
+    Finish exercises for debug and profiling
+
+[33mcommit 0bb9a2f495d98024debe584151fddfd2648dcf8f[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Wed Jan 22 22:20:24 2020 -0500
+
+    Fix insane date value scheme
+
+[33mcommit 654202824c6925d5eb6dda8a0a4c63aa64bfc601[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Wed Jan 22 22:20:01 2020 -0500
+
+    Fix missing EOF newline
+
+[33mcommit 3e50d5476dd505ac4ebae071a8a07def19a4ee95[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Wed Jan 22 22:19:49 2020 -0500
+
+    Add command-line lecture video
+
+[33mcommit c3010183cdcb1dcf6daea8b8fd088be596704292[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 22 12:27:28 2020 -0500
+
+    Move
+
+[33mcommit 66db6c4e49c2f5530fd36301fa89b7e7fa09742c[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 22 12:12:09 2020 -0500
+
+    Process Jon and Jose's feedback
+
+[33mcommit 26a9d54742709b0cd220bbd63cd3983ba75947a7[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 22 08:29:53 2020 -0500
+
+    Fix typo
+
+[33mcommit 8ffa46e0397547382b585221549becc37e777741[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 22 08:27:24 2020 -0500
+
+    Add text on immutable objects and mutable refs
+
+[33mcommit 0a59ae7d4a4c0440da660e8fe6d98d56a0533f41[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 22 08:20:47 2020 -0500
+
+    Flip direction of arrows for consistency
+
+[33mcommit 72dc42928ef2104c82650411e55e4fff18931aba[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 21 23:30:33 2020 -0500
+
+    Fix typo
+
+[33mcommit 6922089feff2594873381e731a0a677cf73d43eb[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 21 23:28:32 2020 -0500
+
+    Reformat exercise
+
+[33mcommit bfedd4d14093d2377e488459bdbff73492c71a30[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 21 23:25:21 2020 -0500
+
+    Add notes for version control lecture
+
+[33mcommit eee6580cd87659afb2361138961fdb00f19fedc8[m
+Merge: 26a8147 7b4d317
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 21 17:30:00 2020 -0500
+
+    Merge branch 'cnord/zsh-autosuggest'
+
+[33mcommit 7b4d317b130c84ec2b68c8792a229a46e4671973[m
+Author: Claire Nord <cnord@mit.edu>
+Date:   Tue Jan 21 17:26:57 2020 -0500
+
+    Clarify zsh history search vs. autosuggestions in shell tools lecture
+
+[33mcommit 26a81475a34780871c138aef3976a22816a35b71[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 21 17:03:22 2020 -0500
+
+    Update notes for command line environment
+
+[33mcommit d31a732ef5ec372ef5afe775abd1b4e93e791aa9[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 21 10:34:15 2020 -0500
+
+    Add more tmux notes to command-line
+
+[33mcommit b92de5a64210b4d3c22d7f380ce8d83757879c0d[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Mon Jan 20 23:24:58 2020 -0500
+
+    Unready debugging and profiling notes
+
+[33mcommit 6c6dfa9c4d177387f6f57956e7272076a102caa9[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Mon Jan 20 23:21:31 2020 -0500
+
+    Minor fix in shell-tools notes
+
+[33mcommit c6504d7043ad2fa7293a8c89fbabcf9778660125[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Mon Jan 20 23:20:08 2020 -0500
+
+    First draft of debugging-profiling notes
+
+[33mcommit 69024dfeec00b91e948893d929085157f51e38cb[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Mon Jan 20 23:15:19 2020 -0500
+
+    Draft of command line environment notes
+
+[33mcommit 56ecc3465b8961211ac8b8c69b1e79712ea73790[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 20 10:07:13 2020 -0500
+
+    Remove link to Hacker Tools from README
+    
+    This was here for when the current class year had no content. Now that
+    we have a couple lectures, this link isn't necessary anymore.
+
+[33mcommit 67660c233094a8f5a4d8172a2e4ac86f3e8f0ad1[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Jan 17 18:37:44 2020 -0500
+
+    Rewrite exercise possible ambiguity
+
+[33mcommit 583a6782d97bff9b00047d2cce3c9c78fb1f0c6b[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 17 16:17:31 2020 -0500
+
+    Fix aspect ratio
+
+[33mcommit 5a27b149e3691b2ac39e5e00ffd298484213619c[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Jan 17 16:09:07 2020 -0500
+
+    Link to YouTube playlist
+
+[33mcommit f20b8b4334f792c4604073e8a9c5e36477aef7da[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 17 16:04:43 2020 -0500
+
+    Fix
+
+[33mcommit 4aa7224298d14a743dfc4d28159e8b1a7fa594ee[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 17 15:44:49 2020 -0500
+
+    Add lecture videos
+
+[33mcommit 31247f65f55511fe9cf8a192c2f3e8b436fd366a[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 17 15:41:47 2020 -0500
+
+    Fix broken links
+
+[33mcommit 986a301914dc9b24541e0f9a7bf1a301947d4d49[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 17 15:37:32 2020 -0500
+
+    Fix broken links in 2019 site
+
+[33mcommit a88b4eac326483e29bdac5ee0a39b180948ae7fc[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 17 15:26:30 2020 -0500
+
+    Redo lectures as a collection
+
+[33mcommit cc2e5247438221be154b20d7cad1d1ca9b781edb[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 17 14:30:09 2020 -0500
+
+    Add redirect
+
+[33mcommit 7d25aa862d66a9b294fe404ccc147adde28bddcf[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 17 14:28:27 2020 -0500
+
+    Organize site by year
+
+[33mcommit 83b651eb4367ea1c7d595cfc006746f58746949e[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Jan 16 11:13:41 2020 -0500
+
+    exercise tidying
+
+[33mcommit 2864497c4b68b7f06961a637d0023a09591fe5b6[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Jan 16 09:43:11 2020 -0500
+
+    Less Linux-specific exercises
+
+[33mcommit f58fb71870ee4ccdbe20849ba89207a42dafe1c7[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 16 08:49:45 2020 -0500
+
+    Fix accent color in dark mode
+
+[33mcommit 3bb18f7412fe859d3b511604a2f71d422158cc79[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 16 08:47:09 2020 -0500
+
+    Fix CSS for monofont links on dark mode
+
+[33mcommit 0de61d53f47b259ea3945549178e9e30e5881709[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Jan 15 18:02:00 2020 -0500
+
+    Fix coming soon for MLK day
+
+[33mcommit d4fa95563dd2daeb98fe0abc9c045015d378f926[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Jan 15 14:34:39 2020 -0500
+
+    Fix arrow key remaps in insert mode
+
+[33mcommit faa88e7a77db8b71eda90825c4d270ae730687ad[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 15 12:25:59 2020 -0500
+
+    Process Jose's feedback
+
+[33mcommit 5e2367b8f82c5837b828347f9369fe54d321b785[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Wed Jan 15 12:21:24 2020 -0500
+
+    jjgo comments
+
+[33mcommit 2e9f973f9e3ea31bdf1f436451d11f51232b530a[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Wed Jan 15 12:14:55 2020 -0500
+
+    Exercises for data wrangling
+
+[33mcommit 6d2214aec34a0a71aaab96c03ea00214df3f94a6[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Tue Jan 14 19:48:19 2020 -0500
+
+    First draft of data wrangling lecture notes
+
+[33mcommit d736e42c2a384b5cff19e1d2ed71d32b5e49d191[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 14 16:32:58 2020 -0500
+
+    Add exercise
+
+[33mcommit 8eccae848ce8ec5ae8a8088b73389cd84a11a40a[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 14 16:32:10 2020 -0500
+
+    Add reference
+
+[33mcommit 53a49a8a4e765f92a33e404d7286e59270b6e922[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 14 16:25:14 2020 -0500
+
+    Improve exercises
+
+[33mcommit 79195f8a39b7a0f74d2888cdc68fa4993455584e[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 14 15:33:20 2020 -0500
+
+    Swap lectures
+
+[33mcommit ab3148f2263dc023b8101c8427f2177c61936f84[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 14 15:15:29 2020 -0500
+
+    Add note on macOS and sysfs
+
+[33mcommit 36bc5f3284e236fc0fa1ce11f5a0c01cee86e5ca[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 14 10:48:22 2020 -0500
+
+    Process Jon's feedback
+
+[33mcommit 047cd49bd8057b42a0c9620fed0aedcd8682a154[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 14 11:28:04 2020 -0500
+
+    Fix issues with shell tools notes
+
+[33mcommit db9fb43bb87aeb3ca9cb307264a9c74b9e3f28cb[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 14 10:16:27 2020 -0500
+
+    Make heading levels more consistent
+
+[33mcommit 419629b167014d8070c295f0cf48edf0f6539d53[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 14 09:55:44 2020 -0500
+
+    Fix exercise numbering
+    
+    The HTML-style comments break Markdown's automatic numbering. Replacing
+    them with Liquid comments fixes it.
+    
+    Also, some extra indentation was required to make paragraphs be part of
+    a list item rather than a separate paragraph at the top level.
+
+[33mcommit fa8433545e6276b4fccad767bfe73f48415c15a9[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 14 09:51:19 2020 -0500
+
+    Remove alias from shell tools notes
+
+[33mcommit 5c9e87024b36eb8727149ac96c0abec71065ce5b[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 14 09:10:12 2020 -0500
+
+    Add acks
+
+[33mcommit 4f9b8ff6a12ef5d58be0a8884b40cc428d57b0dc[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 14 09:00:03 2020 -0500
+
+    Add shell tools exercises
+
+[33mcommit 0c71a5af12e7f055e49f9f7ccf788a65af023ad5[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 14 08:54:33 2020 -0500
+
+    Add acks
+
+[33mcommit 67d364ba2871ee2e6622ed862520cf4c06d797c8[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 13 22:41:17 2020 -0500
+
+    Link editors lecture notes
+
+[33mcommit be75afb3391027e6a2026922377f55f8a5733968[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 13 22:39:40 2020 -0500
+
+    Add editors lecture for 2020
+
+[33mcommit 075cfc16b00ed8713c7b2d6f0cd9c025f375ea48[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 13 21:22:35 2020 -0500
+
+    Fix CSS class naming conflict
+    
+    This broke syntax highlighting.
+
+[33mcommit d5f2af235311d6c6cc19343e1ef71436f3bce078[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 13 15:47:18 2020 -0500
+
+    Add hint: man, not find
+
+[33mcommit 40e1b70d6ad814751750fb130f3aac521e65b6c7[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 13 15:46:15 2020 -0500
+
+    Add hint on quoting
+
+[33mcommit 9261bcfdbcbd0d21fbd00d8637bcd884a50260e4[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Jan 13 15:39:26 2020 -0500
+
+    Tweaks
+
+[33mcommit b5c4e3db5065fe7bab2ae6d50269da0c4eaf2f8e[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Jan 13 12:42:21 2020 -0500
+
+    Where questions go
+
+[33mcommit 27b27f8b37291fca1de9d8d2e6d894d6a90a0161[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 13 08:49:55 2020 -0500
+
+    Make it clear that videos will be added to notes
+
+[33mcommit 7fe3dc189b6eafed833b22c9b31c48441e7b7292[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Jan 13 08:50:02 2020 -0500
+
+    Don't break lines in code segments
+
+[33mcommit 80e5d8d8fea6a9b2e433e66ef8d4fa65d1bb6cdc[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Jan 13 08:49:52 2020 -0500
+
+    Minor language nit in 1st lecture
+
+[33mcommit 092c9cf9ebc313e11b05a4ec1f88354150b4f0dd[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sun Jan 12 20:24:19 2020 -0500
+
+    Some sudo + sysfs bits for the advanced
+
+[33mcommit 315d2a229284f7712ea244ff7c7d49ac90cfd78e[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Sun Jan 12 21:40:39 2020 +0100
+
+    Add shell tools and scripting lecture notes
+
+[33mcommit ebd69900754badf6426d203a648f62e37c0d8791[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Jan 10 14:30:24 2020 -0500
+
+    Add exercise for first lecture
+
+[33mcommit 6092375a899e8865a2a90c927fa5f63eeb32ede7[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Jan 10 14:19:37 2020 -0500
+
+    Another unnecessarily long line
+
+[33mcommit dfdc21a629a7d5aadc2439916684b12a9e2ae528[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Jan 10 14:18:04 2020 -0500
+
+    Shorten long line
+
+[33mcommit 632aa383269296ec09dd9c4c9704a1f8e04a4ef4[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Jan 10 14:17:06 2020 -0500
+
+    Trailing prompt is distracting
+    
+    This leaves one of them in place where we explicitly call it out.
+
+[33mcommit 9abc739519b514518f41c0d1644aaff220dd6a1a[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Jan 10 14:16:14 2020 -0500
+
+    Link to lecture notes from home page schedule
+
+[33mcommit 246bd17c53361bf510ad70482576ea49d7851c57[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Jan 10 14:09:31 2020 -0500
+
+    Make padding on code blocks a little nicer
+
+[33mcommit 755625adb883be976920d2d81da2c51a76ea1d63[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Jan 10 14:08:15 2020 -0500
+
+    Gemfile bump
+
+[33mcommit 52332dfad0ef7b48e2941f9e81f6f13a4670ca13[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Jan 10 14:08:08 2020 -0500
+
+    First lecture notes (no exercise yet)
+
+[33mcommit c882769e3bc1a5dad5bfbb758d519618a03fc6d8[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Thu Jan 9 09:45:49 2020 -0500
+
+    Simplify homepage
+
+[33mcommit 6573ae4479a78a2dce7521a67aea0f813dee6ae4[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Dec 27 13:50:05 2019 -0500
+
+    Process Jose's feedback
+
+[33mcommit 03a16659cf60142068f8bcdc0cbc8351598dcd82[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Dec 24 13:52:18 2019 -0500
+
+    Update homepage and lectures list
+    
+    Homepage:
+    
+    - Remove "under construction" notice
+    - Link to blog post from homepage
+    - Unify lectures list
+    - Make headings bigger
+    
+    Lectures list:
+    
+    - Show this year's topic list, currently without links
+    - Add links to specific lectures from last year
+
+[33mcommit bc0a779632f4a81a59e333166edb7efbb12ca9dd[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Dec 24 13:23:34 2019 -0500
+
+    Reorder topics
+
+[33mcommit 83d540f571c60f5018f8d9fd5d73f57be3f062a0[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Dec 24 13:21:46 2019 -0500
+
+    Make another editing pass over about page
+
+[33mcommit 6f6e8f00eacc91ea281b5ba36462b0f9eac27a41[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Dec 24 11:04:14 2019 -0500
+
+    Fix validation errors
+
+[33mcommit ae4d208dcba5931079c43cba03b59a616c2a121e[m
+Merge: 4ef377a 8bd6de7
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Dec 23 07:02:35 2019 -0500
+
+    Merge pull request #1 from missing-semester/dependabot/bundler/rubyzip-2.0.0
+    
+    Bump rubyzip from 1.2.2 to 2.0.0
+
+[33mcommit 4ef377a9cb127d52d5cf4671004b0a1e423a9cbc[m
+Author: Austin Green <austinzgreen@gmail.com>
+Date:   Sun Dec 22 10:50:11 2019 -0500
+
+    nit: add space after parenthesis
+
+[33mcommit 787ec0e5575ecf64bbe08bd5564101a7887abc46[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Dec 20 21:44:00 2019 +0100
+
+    Remove hacky js for asciinemas
+
+[33mcommit 71591432d5fadc1a141be44bc11d2dedaa94fd95[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Dec 20 21:42:34 2019 +0100
+
+    Fix autoplay on mobile
+
+[33mcommit 406a6970480a25a62a5fbbd1c58d9d249ec76342[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Dec 20 21:36:03 2019 +0100
+
+    Redo demos using videos and outside comments
+
+[33mcommit 7a38011163b7e45c284488d4d37d1108370ea1b3[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Dec 18 14:22:56 2019 +0100
+
+    Minor fix for inline code blocks
+
+[33mcommit 85b9c9e355b92ddd17608211570aae0fdec0e09c[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Dec 18 14:20:24 2019 +0100
+
+    Import fonts, increase font & add dark theme
+
+[33mcommit 0d9004e25b43c313796870931e069bc1d86b6b0e[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Dec 18 14:19:14 2019 +0100
+
+    Include asciicasts in the about page
+
+[33mcommit ff29732fd7c8d45b868558da9fcddfbcf1a16ad2[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Dec 13 14:56:57 2019 -0500
+
+    Add lecture time and location
+
+[33mcommit fd582f25907849b7e84919771d860c97f2a927ff[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Dec 10 17:06:51 2019 -0500
+
+    Add description and partial info for 2020
+
+[33mcommit 5f6a4f63d9877c5e2854dc5525b05647c0ee6698[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Dec 10 16:55:03 2019 -0500
+
+    Change color scheme
+    
+    Change color scheme to be different from hacker-tools.github.io.
+
+[33mcommit 80f2e68d02f809eb77e56e544b4002ab19c89693[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Dec 5 14:07:30 2019 -0500
+
+    Add first draft of 'about the class' blog post
+
+[33mcommit 8bd6de7733e9f5e9a74be17cafdec708b5712fb6[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 2 02:29:17 2019 +0000
+
+    Bump rubyzip from 1.2.2 to 2.0.0
+    
+    Bumps [rubyzip](https://github.com/rubyzip/rubyzip) from 1.2.2 to 2.0.0.
+    - [Release notes](https://github.com/rubyzip/rubyzip/releases)
+    - [Changelog](https://github.com/rubyzip/rubyzip/blob/master/Changelog.md)
+    - [Commits](https://github.com/rubyzip/rubyzip/compare/v1.2.2...v2.0.0)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit d53526ffd9c90048e086c99f9cc33885ca6e26bd[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sun Dec 1 21:27:19 2019 -0500
+
+    Update dependencies
+
+[33mcommit d4412ead0bd63f24cd836f0ac021243200f8c255[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sun Dec 1 21:26:19 2019 -0500
+
+    Begin transition to new name and domain
+
+[33mcommit b0d857fc10da1676001989479646be21494f783a[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jun 11 17:01:24 2019 -0400
+
+    Update information related to rsync.net
+    
+    See https://github.com/hacker-tools/hacker-tools.github.io/issues/13.
+
+[33mcommit 490bdf5595b1cd70941108dcefac69b33dd5dcb3[m
+Merge: e319bcb f2d26eb
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sun Jun 2 10:58:15 2019 -0400
+
+    Merge pull request #12 from 01programs/patch-2
+    
+    fix typo
+
+[33mcommit f2d26ebe84b27687633fafa2399e7425dd7d8afc[m
+Author: CodingRobot <13066734+01programs@users.noreply.github.com>
+Date:   Sun Jun 2 16:46:29 2019 +0200
+
+    fix typo
+    
+    change
+    [...] if you want to grep through many files and once, [...]
+    to
+    [...] if you want to grep through many files at once, [...]
+
+[33mcommit e319bcbc31d69ab07bc625ec7325908687734773[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed May 29 15:49:11 2019 -0400
+
+    Update notes on encrypted filesystems
+
+[33mcommit 384630971bd5cb285827e7d8a85eb3377205fc1c[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed May 29 15:48:07 2019 -0400
+
+    Add notes on append only backups
+
+[33mcommit 2755f49e22f3a7eddd177682a69f167aaefee076[m
+Merge: b7057f0 f822732
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Feb 16 08:41:17 2019 -0500
+
+    Merge branch 'chrisamurao/patch-1'
+
+[33mcommit f822732a1a45d7751faf34be0b36a7725df10636[m
+Author: Chris Amurao <freshpotatoes@gmail.com>
+Date:   Sat Feb 16 00:01:25 2019 -0800
+
+    Fixed typo on tampermonkey
+
+[33mcommit b7057f009a7515c71afc9262663e7ba9df8f68ac[m
+Merge: 3d5712f 7db3ffa
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Feb 12 12:16:22 2019 -0500
+
+    Merge branch 'JohnPhamous/patch-1'
+
+[33mcommit 7db3ffabad29733338399e0d261924dc2e4b899b[m
+Author: John Pham <johnphammail@gmail.com>
+Date:   Tue Feb 12 09:12:53 2019 -0800
+
+    Fixing typo to make example clear
+
+[33mcommit 3d5712f7a89f16de6753066c70ecf2fe2fcc3373[m
+Merge: 7e90024 fee7039
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sun Feb 10 11:28:52 2019 -0500
+
+    Merge branch 'Offpics/patch-1'
+
+[33mcommit fee7039f1ee6c968c915ef921c953ec5886a42c2[m
+Author: Offpics <kornelux1@gmail.com>
+Date:   Sun Feb 10 12:12:01 2019 +0100
+
+    Fix spelling
+    
+    The word "other" doesn't seem to fit in this context.
+
+[33mcommit 7e9002404d81191b30a4e6c790e8da1e8871ee4b[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sat Feb 9 13:19:57 2019 -0500
+
+    New Shell and Scripting video
+
+[33mcommit c3b56b7633b89ecd5cecad8fdfa0bb873dde10fb[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Feb 8 12:37:56 2019 -0500
+
+    Restore note about videos/notes
+
+[33mcommit e739bb27f15017c280c9a3e9310807e43de5b57a[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Feb 8 12:36:40 2019 -0500
+
+    Do capitalization manually
+    
+    The liquid capitalize filter didn't work nicely with abbreviations like
+    "OS".
+
+[33mcommit 7f6f3a1eb6f232110fea302f9bb04b8fa3c5e7c0[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Feb 8 12:35:41 2019 -0500
+
+    Add topic list to front page
+
+[33mcommit a540bdf93406c3651244ac093303bfab73474491[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Feb 8 12:30:33 2019 -0500
+
+    Make lectures page backed by data file
+
+[33mcommit 7947e84e7c5718bd533f29983e608f974ca2f3ca[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Feb 8 10:42:52 2019 -0500
+
+    Slightly nicer formatting
+
+[33mcommit 8bfd5eaf9598f35e6f1eff0deda0c14a7155f64d[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Feb 8 10:40:41 2019 -0500
+
+    Mention r/hackertools in the list too
+
+[33mcommit 2682d5774b8ed1ce24472c7c4235dac60dcc81d4[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Fri Feb 8 10:39:45 2019 -0500
+
+    Try to make front page easier to navigate
+
+[33mcommit 68e9796e2d87d023f7b073239c2dba871002699e[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Feb 6 10:25:12 2019 -0500
+
+    Add ref to gmail backups
+
+[33mcommit 2bf180359c0ec0b362929bebe58427386456e8f1[m
+Merge: ace7909 ad5c775
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Feb 5 18:58:52 2019 -0500
+
+    Merge branch 'HerrKlemmy/patch-1'
+
+[33mcommit ad5c77555f5d48a7d2f2d39e5c06d7e5996e45b3[m
+Author: Klemens Kühle <HerrKlemmy@googlemail.com>
+Date:   Wed Feb 6 00:31:54 2019 +0100
+
+    Update virtual-machines.md
+    
+    Just a Typo
+
+[33mcommit ace7909249bab256f661b771b738d5b5a43e7f8c[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Feb 5 17:08:55 2019 -0500
+
+    Add Public APIs ref
+
+[33mcommit 1949442c742bed8752e52df2346b67e3a10c8041[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Feb 5 17:08:32 2019 -0500
+
+    Mention backup e-mail
+
+[33mcommit 9766d49c9414229b1f63840778ca253c064cb27a[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Feb 5 16:16:26 2019 -0500
+
+    Add r/hackertools links and remove Piazza links
+
+[33mcommit 1d2a5f23eb9db8b312a34e50954155e5dc9b6ec7[m
+Merge: 8665574 97929e1
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Tue Feb 5 10:59:57 2019 -0500
+
+    Merge pull request #4 from muellermarkus/patch-1
+    
+    Typo in command-line.md
+
+[33mcommit 866557463ac12b1dc7b3f6f9dfa16f4ad5913610[m
+Merge: 9535eef 33dfa3f
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Tue Feb 5 10:59:45 2019 -0500
+
+    Merge pull request #6 from immanuelfodor/master
+    
+    Replace the dummy file to the actual script + typo
+
+[33mcommit 33dfa3f4169035f3b305c2601004c985aed3e4cd[m
+Merge: 9535eef 48c994f
+Author: Immánuel! <immanuelfactor+github@gmail.com>
+Date:   Tue Feb 5 13:06:05 2019 +0100
+
+    Merge pull request #1 from immanuelfodor/immanuelfodor-shell-md
+    
+    Replace the dummy file to the actual script + typo
+
+[33mcommit 48c994fda6b0507600421e6f2910d72cf05f8f72[m
+Author: Immánuel! <immanuelfactor+github@gmail.com>
+Date:   Tue Feb 5 13:01:47 2019 +0100
+
+    Replace the dummy file to the actual script + typo
+
+[33mcommit 97929e18da324eba887c8c2f9461c6da87de0a12[m
+Author: Markus Müller <muellermarkus@users.noreply.github.com>
+Date:   Tue Feb 5 09:06:39 2019 +0100
+
+    Typo in command-line.md
+
+[33mcommit 9535eef2e9019e554cf6749394c573a197c4d6dc[m
+Merge: 2d6bde2 a793d06
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 4 19:24:11 2019 -0500
+
+    Merge branch 'apengwin/patch-1'
+
+[33mcommit a793d063ec26c3c8c42340ddd7fc28838fe5b080[m
+Author: Allan Peng <megatron@berkeley.edu>
+Date:   Mon Feb 4 16:15:29 2019 -0800
+
+    typo hehe
+
+[33mcommit 2d6bde22122a6c73b775d2b68f8bebab849738a5[m
+Merge: 5c5d0cc a90a5dc
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 4 18:28:39 2019 -0500
+
+    Merge branch 'gvre/master'
+
+[33mcommit a90a5dc15dfaf33d0a5222d2410b6c890b7ba67c[m
+Author: Giannis Vrentzos <gvre@gvre.gr>
+Date:   Mon Feb 4 23:41:57 2019 +0200
+
+    Remove quotes
+
+[33mcommit 5c5d0cca4528ef64f7081ae05f826eb768ddec4b[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 4 16:36:39 2019 -0500
+
+    Add link to edit current lecture page
+
+[33mcommit 8853667b7e9a28468d9c45f19e731f65f4dd135c[m
+Merge: 702087e 61b5cdc
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 4 16:33:08 2019 -0500
+
+    Merge branch 'gvre/master'
+
+[33mcommit 61b5cdca8d926dc06696ed235072f6dea8cbeb6e[m
+Author: Giannis Vrentzos <gvre@gvre.gr>
+Date:   Mon Feb 4 23:28:58 2019 +0200
+
+    Remove quotes from variable
+    
+    `[ "$foo" = "bar" ]` is fine when `$foo` is quoted, but not without them.
+
+[33mcommit 702087e5042cc677ea29b0ce6f2f9c510ba0a203[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 4 14:09:30 2019 -0500
+
+    Remove subtitle
+
+[33mcommit f8dd91156d6838fb08f24c84d685be78b6d1a9ae[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 4 14:08:44 2019 -0500
+
+    Make it more obvious that the class is over
+
+[33mcommit 4c68b19c4c7b5b0becd6db0821b29dd88eae9d66[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Feb 4 14:06:26 2019 -0500
+
+    Make it more obvious that there are videos
+
+[33mcommit c4c08507c5f4ff3e733ef8aa0a25afffd2f29261[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Feb 4 13:52:49 2019 -0500
+
+    Link to shared locations
+
+[33mcommit ddeeb791ebae69462674b7ea04bba62a7f92c661[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Feb 4 09:58:27 2019 -0500
+
+    Link to https://www.securemessagingapps.com/
+
+[33mcommit 8839db2ff0231a10be4a2558b409d001bc07ecb4[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Feb 4 09:57:39 2019 -0500
+
+    Mention more password managers
+
+[33mcommit a077119ca248fe70798983f32fc522283dec96fa[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sun Feb 3 11:04:39 2019 -0500
+
+    Fix aspect ratios
+
+[33mcommit b95ff19f34483b2015ab7382abe46c5a4044bd8a[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sun Feb 3 11:01:43 2019 -0500
+
+    Add videos
+
+[33mcommit 5fd54695e1999f7dee0bd7e2be6dacd702bd082e[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Feb 2 16:59:07 2019 -0500
+
+    Add favicons
+
+[33mcommit 578294caea840b17797320db0990e99e7792d086[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Feb 2 16:49:34 2019 -0500
+
+    Update README
+
+[33mcommit b1c484ab4d9f24f37c3c631cbc97184c83f325e6[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 31 15:11:50 2019 -0500
+
+    Fix typo
+
+[33mcommit aed281de780885b431869f12814b7eacd4cb5228[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Jan 31 14:48:54 2019 -0500
+
+    USB data blockers
+
+[33mcommit 24004e8809ffea51b734c5e764e3f0471e8c90b8[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Jan 31 14:46:44 2019 -0500
+
+    Add security lecture notes
+
+[33mcommit 3a6c7c8590af9701db131aea65007588e4c8ac47[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Thu Jan 31 12:25:30 2019 -0500
+
+    Update schedule
+
+[33mcommit 305ebd71d67691f47dfad302ab192ac2a386e925[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 29 15:14:46 2019 -0500
+
+    Add note on Karabiner
+
+[33mcommit 8777f5eeb8baa23b2b5f204c206903b906d40498[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 29 15:13:24 2019 -0500
+
+    Add text on OS customization
+
+[33mcommit 14004ac47ee87fd6708dc9b58aa87429a687dad0[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 29 15:00:12 2019 -0500
+
+    Tweak text
+
+[33mcommit 3f8ba46c2146895bae0162b91b466f20f605dd60[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 29 14:46:45 2019 -0500
+
+    Add some text on package management
+
+[33mcommit 2d4ba34fae9f5205f394c513ef72e708cc942341[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 29 00:32:55 2019 -0500
+
+    Write web lecture notes
+
+[33mcommit 8241968fa056e3414b3882799f1e3f1b50137f09[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Mon Jan 28 13:38:34 2019 -0500
+
+    Write Remote Machine Lecture
+
+[33mcommit bd2575a51fc75c04cf6b09f6c61a388a2c386758[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Mon Jan 28 11:20:31 2019 -0500
+
+    Add todo for automation
+
+[33mcommit c7641494a2756504551d63a4187731507649b569[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Mon Jan 28 11:20:11 2019 -0500
+
+    Add more exercises shell
+
+[33mcommit bd9670297a4fb9501f40085178d6fd3f6bf58754[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Jan 25 18:28:12 2019 -0500
+
+    Draft remote machine contents
+
+[33mcommit 67639db7d414c3214319e74e1e3ed1eb9eeca659[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Jan 25 18:27:30 2019 -0500
+
+    Add more git exercises
+
+[33mcommit 834305ccb836b8b7a2703e0fdf6a49de8e5dffc3[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Jan 25 18:26:14 2019 -0500
+
+    Add notes for future automation topics
+
+[33mcommit f156626f7c7bbe9dbfeced130d0905aef4f1ab0b[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Jan 25 18:22:12 2019 -0500
+
+    Draft os-customization exercises and reference
+
+[33mcommit 006d47698576484d288e4abeccfe6fd2a0b964fa[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Jan 25 18:21:40 2019 -0500
+
+    Draft security topics and exercises
+
+[33mcommit ef946d4cc5f2fee38be1c244540bbd3fcb708918[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Jan 25 18:21:18 2019 -0500
+
+    Minor comments about editors
+
+[33mcommit 4f42dfe71571adfa863e06e9344ab01a2edc79d5[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Jan 25 18:20:51 2019 -0500
+
+    Add minor comments to dotfiles
+
+[33mcommit df4e4c3b666c3f246472bfda613cfc534db6957c[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Jan 25 18:20:31 2019 -0500
+
+    Add rename exercise
+
+[33mcommit 55b2ffbfd072fdd64f1e325dd5afa02a7d6d9378[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Fri Jan 25 18:20:09 2019 -0500
+
+    Make exercises use number bullets
+
+[33mcommit 4c38b1facd25a56ecae510cebf895a9abc0ccc4f[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Thu Jan 24 17:15:01 2019 -0500
+
+    Update schedule
+
+[33mcommit 401acc7d74780fe064f79f282a2cc0b374ce307f[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Thu Jan 24 15:08:21 2019 -0500
+
+    Add note
+
+[33mcommit 0e9bc5f9ce133f02fc16c54c9d3f037616d6711b[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 24 14:18:05 2019 -0500
+
+    Write notes for automation
+
+[33mcommit a575a0d33de0d31d2d7ac6b5033d1c0e8ac047a2[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 24 14:17:52 2019 -0500
+
+    Move remotes lecture
+
+[33mcommit b96364cdc5fefc94c9f1b4714f53d8ab029e89f9[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 24 13:21:10 2019 -0500
+
+    Rename automation lecture
+
+[33mcommit f721b3494110ea7bf2c2a41803fa8b4a6008d193[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 24 12:43:07 2019 -0500
+
+    Remove title from cli environment
+
+[33mcommit c917e734c5d205336569bff097bce7e0f5857af5[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Jan 24 11:47:24 2019 -0500
+
+    Finish lecture content for machine introspection
+
+[33mcommit d82b8fa42058820e76cc856f364d7e39c1204a9c[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 24 10:59:22 2019 -0500
+
+    Add rsync/rclone
+
+[33mcommit fc68271933dbab42e9ab98fad44075bdb3d12d0b[m
+Merge: 9f6f34f 36a93be
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 24 10:52:22 2019 -0500
+
+    Merge branch 'master' of github.com:hacker-tools/hacker-tools.github.io
+
+[33mcommit 9f6f34f1baa7b62f97d9f02b710a7c06d5fe0159[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 24 10:52:07 2019 -0500
+
+    Fix typos in backups
+
+[33mcommit 36a93beac042e5d9780fbf5123625dbb7f503bf3[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Jan 24 10:51:01 2019 -0500
+
+    machine introspection outline
+
+[33mcommit 3a0e3da74fcf09a14deace7889d7604f696fc4a2[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 24 10:49:34 2019 -0500
+
+    Add backup resources and exercises
+
+[33mcommit 835ab723be67bc89a7bc6a382d45e45387190e03[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 24 10:47:29 2019 -0500
+
+    Include extra bk considerations and web backup
+
+[33mcommit dcbc343b2496f9fc74abe6feaebdb258c45b75bd[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 24 10:36:18 2019 -0500
+
+    Write backup notes
+
+[33mcommit f964fdc80a4043583a959ef2354c1706bc7a7fbe[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 23 15:24:40 2019 -0500
+
+    Add more content
+
+[33mcommit 1bb41e647f47d16b9b8fa8b033eb94bd6d68aaf8[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 23 15:06:53 2019 -0500
+
+    Add more on debuggers
+
+[33mcommit 639cdb179d24a4a54fb7b784ff2d86359141cc00[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 23 14:53:44 2019 -0500
+
+    Add GDB
+
+[33mcommit 7b484dc8391c1093d3664d0589e32f1606dae9bc[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 23 14:09:03 2019 -0500
+
+    Add link to dotfiles repositories
+
+[33mcommit df2fda3887fbf0b0ae9bce3d86d3bb8600f82e3b[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 23 14:01:21 2019 -0500
+
+    Add more content
+
+[33mcommit 522e6ce2b6915b987e4b7497c74683730b1ba67a[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 22 15:20:54 2019 -0500
+
+    Some version control exercises
+
+[33mcommit 6884fe58335b4cce8a9a3f9206d397fc0744d5fd[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 22 14:48:39 2019 -0500
+
+    Add mention of buffers
+
+[33mcommit 888776c855dea9a5a376be717c0ade7ddca6fe58[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 22 14:45:46 2019 -0500
+
+    Fix typos
+
+[33mcommit cec800e2821a78de9b38a3287edcb16422178534[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 22 14:37:53 2019 -0500
+
+    Update
+
+[33mcommit 78a682025aa6999bca5fad3ad9d8dd9281081fb1[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 22 14:36:33 2019 -0500
+
+    Add bash
+
+[33mcommit 0dd4cfbb615f952615b664aa2e4670a7100f8ddf[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 22 14:36:01 2019 -0500
+
+    Comment out section that has no content
+
+[33mcommit d6d2d1a3063e53a0bf67e507fc9400b937e1f648[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 22 14:34:48 2019 -0500
+
+    Add lecture notes for editors
+
+[33mcommit ab75d0f9da916000750dd972e0ef576a51b2c96e[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Tue Jan 22 10:30:39 2019 -0500
+
+    Some more vcs content + start of exercise list
+
+[33mcommit c1633e65da0557a520e0600f67bdb459bf5d7292[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Jan 21 22:55:07 2019 -0500
+
+    a start for vcs
+
+[33mcommit 998622294a6c520db718867354bf98348ae3c7e2[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sun Jan 20 13:25:14 2019 -0500
+
+    Add note
+
+[33mcommit d69ee0280554d246a28de4f7144836dfd2ef24e8[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 18 11:21:38 2019 -0500
+
+    Add link to website source code
+
+[33mcommit a3f15bb25e7cbe48a8de5355f9f778f703f9468b[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 18 11:19:05 2019 -0500
+
+    Fix highlight background bleeding outside border
+
+[33mcommit 24daa3a8bd1625e8f351a62396c024de464bd69a[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Jan 17 14:34:46 2019 -0500
+
+    More data wrangling
+
+[33mcommit 4e87c7b4bf29c831cf504fef284706dd19c276bd[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 17 12:59:50 2019 -0500
+
+    Add terminal emulators/multiplex to command-line
+
+[33mcommit be912d53171d9a679b70ded21521e3df50374da7[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Jan 17 12:10:49 2019 -0500
+
+    More data sets
+
+[33mcommit 6b9f31218c4d99ac31b50be3cb81c803e68d1c5d[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Jan 17 12:10:05 2019 -0500
+
+    More data wrangling exercises
+
+[33mcommit 99843fa025aa54042c8e25470dba8759f1cc32c9[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Thu Jan 17 12:00:57 2019 -0500
+
+    Add some data wrangling exercises
+
+[33mcommit 1d5995a5efc18d9995465053575b276978170ef5[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Thu Jan 17 11:45:40 2019 -0500
+
+    Lecture notes from data wrangling
+
+[33mcommit 057121d7ec09b40bbb085f1128710543811ce5b9[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Jan 16 23:04:54 2019 -0500
+
+    Initial draft of command-line.md
+
+[33mcommit 80d1a718b4296b7653b8cbedb46e64a75fdcacfb[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 16 16:07:08 2019 -0500
+
+    Add note
+
+[33mcommit 2cc8de38fd55678ed7c9e178568faba0dbf7012a[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 16 16:06:53 2019 -0500
+
+    Add note from Jon
+
+[33mcommit af6cbf7b823ef7206ee16b0c7e09389ad3fa9ec6[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Wed Jan 16 16:06:33 2019 -0500
+
+    Add link from Jose
+
+[33mcommit c02b2b01243748951d7f9554e1b5cb7cddb1a896[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Wed Jan 16 00:46:54 2019 -0500
+
+    Fix error exercise
+
+[33mcommit 5be665c126d61e9964e4a36ed748873eff8dff17[m
+Merge: 1d8ba6f 1938e7e
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 15 18:22:39 2019 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 1d8ba6ffc8ee40af89990fb64a40e5db1d9463f9[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 15 18:19:58 2019 -0500
+
+    Fix numbering
+    
+    The styling is still a little ugly, but this commit fixes the numbering.
+
+[33mcommit 1938e7e689295803062a89d15d5aefc538850977[m
+Merge: 9b360ba f5d5030
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 15 18:13:12 2019 -0500
+
+    Merge branch 'master' of github.com:hacker-tools/hacker-tools.github.io
+
+[33mcommit 9b360baab7e82743abc4720df19f0e50d07fb34b[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 15 18:12:49 2019 -0500
+
+    Fix shell explanation
+
+[33mcommit f5d5030fed8a5144b9698cbc0403969feeca2425[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 15 18:11:41 2019 -0500
+
+    More Piazza
+
+[33mcommit 940a5b8a1ad8c254fb9dbaccab02731327d4b9fc[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 15 18:04:06 2019 -0500
+
+    Fix some typos in shell
+
+[33mcommit 56fbb1b2ba1881f54fa24eee3648c98a85770d3d[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 15 17:38:19 2019 -0500
+
+    Add extra exercises for shell
+
+[33mcommit 2dcc98ae18561f6dcaeec956106952854f6ac4cf[m
+Merge: 9cffdc1 5b39c0b
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 15 16:15:09 2019 -0500
+
+    Merge branch 'master' of github.com:hacker-tools/hacker-tools.github.io
+
+[33mcommit 9cffdc1d01c4b3df2bc7ad45151dc4e376c9d8ca[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 15 16:14:54 2019 -0500
+
+    Add some exercises for shell
+
+[33mcommit 5b39c0bc48ac2832e8c89a936309dbb8b4129f98[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 15 15:12:44 2019 -0500
+
+    Fix
+
+[33mcommit 989dd74fa36924ab33ad40f8eb01d50132895f98[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 15 15:05:20 2019 -0500
+
+    Fix formatting
+
+[33mcommit 4a81abfd7b17028873e53d4cc025ee65b65aefba[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 15 15:02:51 2019 -0500
+
+    Update dependencies
+
+[33mcommit 0c9e85f05669e6213a8437595454b3c7b7da9c9b[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Tue Jan 15 15:02:42 2019 -0500
+
+    vim doesn't like shell as the code type
+
+[33mcommit b5a19d788a608dba8ff2f08efd28d23872d92198[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 15 15:01:47 2019 -0500
+
+    Add extra stuff for VM & containers
+
+[33mcommit 1c82fd9c2ef22841c9c704d63211a4c2586b5647[m
+Merge: a524147 cde2949
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Tue Jan 15 13:26:18 2019 -0500
+
+    Merge branch 'master' of github.com:hacker-tools/hacker-tools.github.io
+
+[33mcommit cde29491d42c70eb7c4f7d255397b0320d82540f[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 15 12:42:04 2019 -0500
+
+    Update
+
+[33mcommit c10e3ce877aaff37d947e10aa72df8a4fb17bb6c[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Tue Jan 15 12:29:23 2019 -0500
+
+    Update
+
+[33mcommit 3341f505a10aace608d56c07f125fc8fb85e8d54[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Tue Jan 15 10:05:50 2019 -0500
+
+    Text on containers
+
+[33mcommit dcb6bb5f66e20fe6b4d1d5621cd4839889eab1fb[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 14 18:31:01 2019 -0500
+
+    List presenters
+
+[33mcommit cfffca42f28d47c5d8ee7109f80fd85e1935cd64[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 14 18:18:07 2019 -0500
+
+    Update
+
+[33mcommit e4976092394c0b14dc8e146dadfd2631c98ab65d[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 14 10:16:53 2019 -0500
+
+    Add Piazza link
+
+[33mcommit 73bc95edd7f7c3d36fbe0c41fde7409a9f440ad6[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Mon Jan 14 10:07:12 2019 -0500
+
+    Mention some special vars
+
+[33mcommit 29a5ac6697e1749d318d1292863cafff478c3c2d[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 14 09:25:02 2019 -0500
+
+    Add dotfiles content
+
+[33mcommit bd94bf57ccbfd2ad01cc51538247cc113444e32a[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 14 08:49:22 2019 -0500
+
+    Fix parsing
+
+[33mcommit e7dd5e190f9678bbff2d1986afdccc07228f943f[m
+Author: Jon Gjengset <jon@thesquareplanet.com>
+Date:   Sun Jan 13 18:03:30 2019 -0500
+
+    First draft of shell lecture
+
+[33mcommit a5241472b90e9d7ea718e2183a757db292e9fa13[m
+Author: Jose Javier <josejavier.gonzalez.ortiz@gmail.com>
+Date:   Sun Jan 13 19:48:58 2019 +0100
+
+    Add under-construction page
+
+[33mcommit 86f74ecf10ddafb7dc865d08f4474105f0a3f27a[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Jan 12 20:37:20 2019 -0500
+
+    Add content for VMs
+
+[33mcommit eb14a91be19ce700bb9a91e05f0d068ba42054a2[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Jan 12 20:13:18 2019 -0500
+
+    Add some intro content
+
+[33mcommit db290a4b463fbb1fcdec91bd476c7563d3d5f659[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Jan 12 11:48:21 2019 -0500
+
+    Add nicer message
+
+[33mcommit ccd5a838ab39ac043d1c1762d098be2c92aca5de[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Mon Jan 7 07:58:26 2019 -0500
+
+    Acknowledge sponsors
+
+[33mcommit ffa24fbe6e935da79eb3101bb28084579219a65d[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Jan 5 20:24:32 2019 -0500
+
+    Add schedule and empty pages for topics
+
+[33mcommit b2e3a22155ff25b8c2858c23fd6dfebd02b96862[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Sat Jan 5 19:44:37 2019 -0500
+
+    Add basic course info
+
+[33mcommit 112ddbd8362e08dc2e8bc46b93011645bcb4c819[m
+Author: Anish Athalye <me@anishathalye.com>
+Date:   Fri Jan 4 22:00:31 2019 -0500
+
+    Initial commit
