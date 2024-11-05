@@ -10,6 +10,8 @@
 
 ## 方法二：使用 git checkout -- 撤销单个文件的
 
+![Image 2](Images%20of%20Git/git2.png)     
+
 ## Git 应用
 
 **要求：** 编写一个文档，回答下列问题，这些问题的答案都应当使用 git 命令实现  
@@ -21,8 +23,8 @@
 
 # 图片  
   
-![Image 1](https://github.com/MohammedLight/git_2024/blob/master/_2024-finalproject/MohammedLight/Images%20of%20Git/git1.png) 
-![Image 2](images/image2.png)    
+![Image 1](Images%20of%20Git/git1.png) 
+![Image 3](images/image2.png)    
 
 
 
