@@ -5,6 +5,7 @@
   git reset <文件名>
   ```
   此命令会将文件从暂存区移除，但保留工作区的修改内容，方便继续编辑或重新添加。
+  ![Git reset](git%20reset.png)
 
 - **方法 2：使用 `git checkout`**
   ```bash
