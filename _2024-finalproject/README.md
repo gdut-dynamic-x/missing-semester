@@ -30,7 +30,7 @@ git push	上传远程代码并合并 文件名《文件描述信息》
 使用 git add <具体文件名> 命令将文件从工作目录添加到暂存区。
 使用 git add . 命令将当前目录下的所有更改添加到暂存区。
 再提交至本地仓库
-git commit -m "提交的文件名"
+git commit -m "文件信息描述（English.）"
 再上传至github
 git push	上传远程代码并合并
 
@@ -100,3 +100,9 @@ git checkout target-branch
 
 假设要应用的提交的序列是 abc123
 git cherry-pick abc123
+
+
+注意事项
+1.开pr的标题不用句号
+2.commit信息带句号(英文)
+3.句首字母要大写
