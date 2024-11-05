@@ -1,3 +1,4 @@
+若你已经修改了部分文件、并且将其中的一部分加入了暂存区，应该如何回退这些修改，恢复到修改前最后一次提交的状态？
 ## 使用 git reset --hard 回退到最后一次提交
 
 查看当前状态：
@@ -13,9 +14,9 @@
 
 若你已经提交了一个新版本，需要回退该版本，应该如何操作？分别给出不修改历史或修改历史的至少两种不同的方式
 ## 不修改历史的方式：使用 git revert
-![Image 4](Images%20of%20Git/git4.png) 
+ 
 ## 修改历史的方式：使用 git reset --hard
-
+![Image 4](Images%20of%20Git/git4.png)
 ## 使用 git reset --mixed
 ![Image 5](Images%20of%20Git/git5.png) 
 
