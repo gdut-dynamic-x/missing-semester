@@ -1,5 +1,17 @@
 # Git的学习过程
 
+## 前情回顾
+
+### Linux的基本了解和Shell的基本使用
+
+通过这节课，学习了Linux的文件系统架构，同时了解了Shell(壳)的发展历程。掌握了一些bash基本指令的使用。
+
+### Vim编辑器的使用
+
+通过这门课，学习了~~世界上最好的编辑器~~Vim，知道了~~如何退出vim~~。通过安装插件，美化了vim，同时也提升了自己的coding效率。
+
+![Vim界面](screenshot/vimMenu.png)
+
 ## Git的工作流程
 
 ![](screenshot/GitLogo.png)
