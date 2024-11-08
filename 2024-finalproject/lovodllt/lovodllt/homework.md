@@ -4,13 +4,13 @@
 
 第一种方案：使用git reset --hard
 
-![1](/home/lovod/lovod-git/_2024-finalproject/lovodllt/lovodllt/1.jpg)
+![1](/home/lovod/lovod-git/2024-finalproject/lovodllt/lovodllt/1.jpg)
 
 第二种方案：使用git reset HEAD xxx.txt和git cheackout -- xxx.txt
 
-![2](/home/lovod/lovod-git/_2024-finalproject/lovodllt/lovodllt/2.jpg)
 
 
+![2](/home/lovod/lovod-git/2024-finalproject/lovodllt/lovodllt/2.jpg)
 
 2. 若你已经提交了一个新版本，需要回退该版本，应该如何操作？分别给出不修改历史或修改历史的至少两种不同的方式
 
@@ -18,11 +18,11 @@
 
 1.修改历史：使用reset
 
-![3](/home/lovod/lovod-git/_2024-finalproject/lovodllt/lovodllt/3.jpg)
+![3](/home/lovod/lovod-git/2024-finalproject/lovodllt/lovodllt/3.jpg)
 
 2. 不修改历史：使用revert（书接上回）
 
-   ![4](/home/lovod/lovod-git/_2024-finalproject/lovodllt/lovodllt/4.jpg)
+   ![4](/home/lovod/lovod-git/2024-finalproject/lovodllt/lovodllt/4.jpg)
 
 
 
@@ -32,12 +32,12 @@
 
 先建好基础
 
-![5](/home/lovod/lovod-git/_2024-finalproject/lovodllt/lovodllt/5.jpg)
+![5](/home/lovod/lovod-git/2024-finalproject/lovodllt/lovodllt/5.jpg)
 
 第一种：merge
 
-![6](/home/lovod/lovod-git/_2024-finalproject/lovodllt/lovodllt/6.jpg)
+![6](/home/lovod/lovod-git/2024-finalproject/lovodllt/lovodllt/6.jpg)
 
 第二种：rebase
 
-![7](/home/lovod/lovod-git/_2024-finalproject/lovodllt/lovodllt/7.jpg)
+![7](/home/lovod/lovod-git/2024-finalproject/lovodllt/lovodllt/7.jpg)
