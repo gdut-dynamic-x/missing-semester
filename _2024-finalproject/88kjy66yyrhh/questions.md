@@ -3,7 +3,7 @@
 
 ![第二张](./image2.png)
 
-![第三张](./image3.jpg)
+![第三张](./image3.png)
 
 #**第一题**
 1.git reset --hard HEAD
