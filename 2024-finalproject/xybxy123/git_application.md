@@ -1,6 +1,0 @@
-[修改1](1.jpeg)
-[修改2](2.jpeg)
-[回退1](3.jpeg)
-[回退2](4.jpeg)
-[merge1](5.jpeg)
-[merge2](6.jpeg)
