@@ -5,28 +5,16 @@
 	其中git和github的学习是最让我受益匪浅的。以前就听说github上有很多有意思的项目，现在学完了git和github之后我终于有机会能自己动手参与这些项目了。同时在实际上手git之后我也为他的易用与方便感到惊奇。以后除了在队伍中会使用git进行工作，我在做课设、搞一些自己的项目时也可以用到git了。非常感谢能趁这次培训的机会初步掌握git。
 
 ## git的一些常用语法
-| 指令 | 作用 |
-
-| --- | --- |
-
-| git init | 将一个文件夹初始化为git仓库 |
-
-| git clone | 从服务器克隆一个git仓库到本地 |
-
-| git status | 查看文件处于什么状态 |
-
-| git add | 添加工作区文件到暂存区 |
-
-| git commit | 提交暂存区文件到仓库 |
-
-| git rm| 删除文件 |
-
-| git log | 查看日志 |
-
-| git push | 将仓库代码上传到服务器 |
-
-| git branch | 建立新的分支 |
-
-| git switch | 切换分支 |
-
-| ... | ... |
+```
+git init	将一个文件夹初始化为git仓库
+git clone	从服务器克隆一个git仓库到本地
+git status	查看文件处于什么状态
+git add		添加工作区文件到暂存区 
+git commit	提交暂存区文件到仓库
+git rm		删除文件
+git log		查看日志
+git push	将仓库代码上传到服务器
+git branch	建立新的分支
+git switch	切换分支
+......
+```
