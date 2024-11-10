@@ -21,4 +21,5 @@
 
 ！[problem 3.1](huasheng-maker/3.png)
 
-！[problem 3.2](huasheng-maker/3_2.png)
+！[problem 3.2](huasheng-maker/3_2.png)  
+
