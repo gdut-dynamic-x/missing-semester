@@ -1,5 +1,4 @@
 git 学习总结
-
 1.连接github
 配置个人的用户名称和电子邮件地址，：
 git config --global user.name "用户名"
