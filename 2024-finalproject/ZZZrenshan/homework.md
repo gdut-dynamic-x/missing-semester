@@ -1,4 +1,4 @@
-1. 第一种： ![ ](/git_2024/2024-finalproject/ZZZrenshan/1.png)  
+1. 第一种： ![ ](1.png)  
 第二种： ![ ](/git_2024/2024-finalproject/ZZZrenshan/2.png)  
 第三种： git clean  
 2. 修改历史：![ ](/git_2024/2024-finalproject/ZZZrenshan/1.png)  
