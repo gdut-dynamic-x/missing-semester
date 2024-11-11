@@ -1,0 +1,17 @@
+一.若你已经修改了部分文件、并且将其中的一部分加入了暂存区，应该如何回退这些修改，恢复到修改前最后一次提交的状态？给出至少两种不同的方式:
+1.git checkout .
+2.git reset HEAD <filename>
+https://github.com/Acer-2077/1/blob/4cdfc461785a67534f239c87125ae5b949b13cfb/%E7%AC%AC%E4%B8%80%E9%A2%98.png
+二.若你已经提交了一个新版本，需要回退该版本，应该如何操作？分别给出不修改历史或修改历史的至少两种不同的方式：
+A:不修改历史
+1.git revert -m 1 HEAD <filename/branch>（在当前分支上创建一个新的提交，撤销前一个提交的修改）
+2.git checkout <filename/branch>(切换到其他分支来避免当前分支的历史被修改)
+https://github.com/Acer-2077/1/blob/4cdfc461785a67534f239c87125ae5b949b13cfb/%E7%AC%AC%E4%BA%8C%E9%A2%98%EF%BC%88%E4%B8%8D%E4%BF%AE%E6%94%B9%EF%BC%89.png
+B：修改历史
+1.git reset --hard HEAD~1(将HEAD指针移动到上一个提交，重写历史)
+2.git rebase -i HEAD-2(可交互的编辑提交历史)
+https://github.com/Acer-2077/1/blob/4cdfc461785a67534f239c87125ae5b949b13cfb/%E7%AC%AC%E4%BA%8C%E9%A2%98%EF%BC%88%E4%BF%AE%E6%94%B9%EF%BC%89.png
+三.我们已经知道了合并分支可以使用 merge，但这不是唯一的方法，给出至少两种不同的合并分支的方式
+1.git cherry-pick <hash>
+2.git rebase <target_feature>
+https://github.com/Acer-2077/1/blob/4cdfc461785a67534f239c87125ae5b949b13cfb/%E7%AC%AC%E4%B8%89%E9%A2%98.png
