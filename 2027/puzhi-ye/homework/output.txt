@@ -1,0 +1,15 @@
+===== 系统时间 =====
+2026年 10月 28日 星期三 20:04:14 CST
+===== 最近使用的10条命令 =====
+node -e "fetch('https://api.deepseek.com').then(r => console.log('HTTP', r.status)).catch(e => console.error(e, e.cause))"
+NO_PROXY=localhost,127.0.0.1,::1 dsh web
+dsh web
+dsh plugin --profile web add dsh-chrome-control
+dsh web
+[200~ping -c 3 baidu.com
+ping -c 3 google.com~
+dsh web
+node -e "fetch('https://api.deepseek.com').then(r => console.log('HTTP', r.status)).catch(e => { console.error(e, e.cause); process.exit(1) })"
+dsh web
+===== 笔记的字数 =====
+325 ../notes/linux_basic_notes.md
